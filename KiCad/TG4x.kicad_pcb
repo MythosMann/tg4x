@@ -614,7 +614,7 @@
   )
 
   (module Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5C538552)
-    (at 26.1874 53.7718 90)
+    (at 26.416 53.594 90)
     (descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
     (tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
     (path /5C48D356)
