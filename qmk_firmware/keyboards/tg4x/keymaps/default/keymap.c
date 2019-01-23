@@ -100,7 +100,7 @@ void matrix_scan_user(void) {
   #ifdef RGBLIGHT_ENABLE
 
   if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
-    rgblight_setrgb_at( 0xFF, 0xA0 ,0x00, LED1);
+    rgblight_setrgb_at( 0xFF, 0xA0 ,0x00, 1);
   }
 
   static uint8_t old_layer = 255;
