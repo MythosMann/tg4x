@@ -1,7 +1,15 @@
-The TG4x
-A cheap, opensource, qmk powered 40%.
-Summary
-Basically, this would be a ~$30-35 qmk powered 40% keyboard using parts from a "cop car" keyboard.  The name comes from the fact that it's a step up (TG4x), but also that it's a 40%(think 4x%).  Since the TG3's are so cheap, and they come with switches (mx blacks, too), caps, and plates, they're a great start for a handwired build.  However, not many people have the time or resources to make a handwired build.  I wnated to make something that's more fun than buying a Redragon k552, but at the same price point.  My goal for this project is to drag more people down into the wallet-sucking abyss, without sucking people's wallets.
-How it would work:
-I'd probably sell it three ways; a barebones kit, a kit with everything you'd need, and fully assembled keyboards.  
-- The barebones kits would be the pcbs, diodes, standoffs, and a pre-programmed controller.  You'd need to buy your own TG3 and cut the plates yourself.
+# tg4x
+
+![tg4x](imgur.com image replace me!)
+
+The dirt cheap 40%
+
+Keyboard Maintainer: [You](https://github.com/mythosmann)  
+Hardware Supported: tg4x pcb, pro micro  
+Hardware Availability: links to where you can find this hardware
+
+Make example for this keyboard (after setting up your build environment):
+
+    make tg4x:default
+
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
