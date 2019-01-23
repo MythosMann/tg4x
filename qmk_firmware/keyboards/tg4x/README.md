@@ -1,12 +1,12 @@
 # tg4x
 
-![tg4x](imgur.com image replace me!)
+![tg4x](https://imgur.com/gallery/OM9EhMF)
 
 The dirt cheap 40%
 
 Keyboard Maintainer: [You](https://github.com/mythosmann)  
 Hardware Supported: tg4x pcb, pro micro  
-Hardware Availability: links to where you can find this hardware
+Hardware Availability: https://github.com/mythosmann/tg4x
 
 Make example for this keyboard (after setting up your build environment):
 
