@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source Q:\Documents\tg4x\KiCad\TG4x.sch)
-    (date "1/23/2019 11:49:43 PM")
+    (date "1/24/2019 12:01:39 AM")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -615,7 +615,7 @@
       (tstamp 5C47F34C))
     (comp (ref U1)
       (value ProMicro)
-      (footprint Keebio:ArduinoProMicro-ZigZag)
+      (footprint Keebio:Teensy_2.0)
       (libsource (lib promicro) (part ProMicro) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5C4631D3))
