@@ -28,5 +28,5 @@ I honestly have no idea what I should expect as far as shipping, so I'm expectin
 I'm going to make a pcb with the layout pictured above. You could change the keymap, since it is qmk driven. However, you would be stuck with the layout. I'm also programming the firmware and making a default keymap. The whole thing will be powered by a pro micro, so after wiring the matrix, it'd have one extra pin. I'm going to use this extra pin for rgb underglow, which would be used for indicating layers and capslock (and overall sex appeal). The rgb would be ws2812b diodes soldered directly to the pcb.
 
 For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use probably 12 m2 standoffs to hold the plates together.
-![KiCad PCB Layout](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_layout.png)
-![Kicad PCB Render](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_bottom_raytrace.png)
+![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcb_layout.PNG)
+![Kicad PCB Render](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_bottom_raytrace.PNG)
