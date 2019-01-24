@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:TG4x-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -601,7 +600,7 @@ Wire Wire Line
 Wire Wire Line
 	9000 5100 9000 5000
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D1
+L mod_1n148:1N4148 D1
 U 1 1 5C48D356
 P 2350 3600
 F 0 "D1" V 2396 3521 50  0000 R CNN
@@ -612,7 +611,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2350 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D5
+L mod_1n148:1N4148 D5
 U 1 1 5C48D4B0
 P 2950 3600
 F 0 "D5" V 2996 3521 50  0000 R CNN
@@ -623,7 +622,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2950 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D9
+L mod_1n148:1N4148 D9
 U 1 1 5C48D540
 P 3550 3600
 F 0 "D9" V 3596 3521 50  0000 R CNN
@@ -634,7 +633,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3550 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D3
+L mod_1n148:1N4148 D3
 U 1 1 5C48D5DA
 P 2450 4300
 F 0 "D3" V 2496 4221 50  0000 R CNN
@@ -645,7 +644,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2450 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D7
+L mod_1n148:1N4148 D7
 U 1 1 5C48D67C
 P 3050 4300
 F 0 "D7" V 3096 4221 50  0000 R CNN
@@ -656,7 +655,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3050 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D11
+L mod_1n148:1N4148 D11
 U 1 1 5C48D70E
 P 3650 4300
 F 0 "D11" V 3696 4221 50  0000 R CNN
@@ -667,7 +666,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3650 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D4
+L mod_1n148:1N4148 D4
 U 1 1 5C48D798
 P 2600 5100
 F 0 "D4" V 2646 5021 50  0000 R CNN
@@ -678,7 +677,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2600 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D2
+L mod_1n148:1N4148 D2
 U 1 1 5C48D8DD
 P 2350 5900
 F 0 "D2" V 2396 5821 50  0000 R CNN
@@ -689,7 +688,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2350 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D6
+L mod_1n148:1N4148 D6
 U 1 1 5C48D96D
 P 2950 5900
 F 0 "D6" V 2996 5821 50  0000 R CNN
@@ -700,7 +699,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2950 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D10
+L mod_1n148:1N4148 D10
 U 1 1 5C48D9FD
 P 3550 5900
 F 0 "D10" V 3596 5821 50  0000 R CNN
@@ -711,7 +710,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3550 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D8
+L mod_1n148:1N4148 D8
 U 1 1 5C48DA8F
 P 3300 5100
 F 0 "D8" V 3346 5021 50  0000 R CNN
@@ -722,7 +721,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3300 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D12
+L mod_1n148:1N4148 D12
 U 1 1 5C48DB23
 P 3900 5100
 F 0 "D12" V 3946 5021 50  0000 R CNN
@@ -733,7 +732,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3900 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D13
+L mod_1n148:1N4148 D13
 U 1 1 5C48DBB9
 P 4150 3600
 F 0 "D13" V 4196 3521 50  0000 R CNN
@@ -744,7 +743,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4150 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D14
+L mod_1n148:1N4148 D14
 U 1 1 5C48DC7D
 P 4250 4300
 F 0 "D14" V 4296 4221 50  0000 R CNN
@@ -755,7 +754,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4250 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D15
+L mod_1n148:1N4148 D15
 U 1 1 5C48DD11
 P 4500 5100
 F 0 "D15" V 4546 5021 50  0000 R CNN
@@ -766,7 +765,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4500 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D18
+L mod_1n148:1N4148 D18
 U 1 1 5C48DEE2
 P 5100 5100
 F 0 "D18" V 5146 5021 50  0000 R CNN
@@ -777,7 +776,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5100 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D17
+L mod_1n148:1N4148 D17
 U 1 1 5C48DF88
 P 4850 4300
 F 0 "D17" V 4896 4221 50  0000 R CNN
@@ -788,7 +787,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4850 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D16
+L mod_1n148:1N4148 D16
 U 1 1 5C48E02C
 P 4750 3600
 F 0 "D16" V 4796 3521 50  0000 R CNN
@@ -799,7 +798,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4750 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D19
+L mod_1n148:1N4148 D19
 U 1 1 5C48E0C8
 P 5350 3600
 F 0 "D19" V 5396 3521 50  0000 R CNN
@@ -810,7 +809,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5350 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D20
+L mod_1n148:1N4148 D20
 U 1 1 5C48E170
 P 5450 4300
 F 0 "D20" V 5496 4221 50  0000 R CNN
@@ -821,7 +820,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5450 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D21
+L mod_1n148:1N4148 D21
 U 1 1 5C48E214
 P 5700 5100
 F 0 "D21" V 5746 5021 50  0000 R CNN
@@ -832,7 +831,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5700 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D22
+L mod_1n148:1N4148 D22
 U 1 1 5C48E2B8
 P 5850 5900
 F 0 "D22" V 5896 5821 50  0000 R CNN
@@ -843,7 +842,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5850 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D25
+L mod_1n148:1N4148 D25
 U 1 1 5C48E35E
 P 6300 5100
 F 0 "D25" V 6346 5021 50  0000 R CNN
@@ -854,7 +853,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6300 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D24
+L mod_1n148:1N4148 D24
 U 1 1 5C48E40A
 P 6050 4300
 F 0 "D24" V 6096 4221 50  0000 R CNN
@@ -865,7 +864,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6050 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D23
+L mod_1n148:1N4148 D23
 U 1 1 5C48E4B6
 P 5950 3600
 F 0 "D23" V 5996 3521 50  0000 R CNN
@@ -876,7 +875,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5950 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D26
+L mod_1n148:1N4148 D26
 U 1 1 5C48E564
 P 6550 3600
 F 0 "D26" V 6596 3521 50  0000 R CNN
@@ -887,7 +886,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6550 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D27
+L mod_1n148:1N4148 D27
 U 1 1 5C48E618
 P 6650 4300
 F 0 "D27" V 6696 4221 50  0000 R CNN
@@ -898,7 +897,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6650 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D28
+L mod_1n148:1N4148 D28
 U 1 1 5C48E6D0
 P 6900 5100
 F 0 "D28" V 6946 5021 50  0000 R CNN
@@ -909,7 +908,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6900 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D31
+L mod_1n148:1N4148 D31
 U 1 1 5C48E78C
 P 7500 5100
 F 0 "D31" V 7546 5021 50  0000 R CNN
@@ -920,7 +919,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7500 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D32
+L mod_1n148:1N4148 D32
 U 1 1 5C48E846
 P 7700 5900
 F 0 "D32" V 7746 5821 50  0000 R CNN
@@ -931,7 +930,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7700 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D30
+L mod_1n148:1N4148 D30
 U 1 1 5C48E904
 P 7250 4300
 F 0 "D30" V 7296 4221 50  0000 R CNN
@@ -942,7 +941,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7250 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D34
+L mod_1n148:1N4148 D34
 U 1 1 5C48E9DE
 P 7850 4300
 F 0 "D34" V 7896 4221 50  0000 R CNN
@@ -953,7 +952,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7850 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D29
+L mod_1n148:1N4148 D29
 U 1 1 5C48EA9E
 P 7150 3600
 F 0 "D29" V 7196 3521 50  0000 R CNN
@@ -964,7 +963,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7150 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D33
+L mod_1n148:1N4148 D33
 U 1 1 5C48EB6E
 P 7750 3600
 F 0 "D33" V 7796 3521 50  0000 R CNN
@@ -975,7 +974,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7750 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D37
+L mod_1n148:1N4148 D37
 U 1 1 5C48EC32
 P 8350 3600
 F 0 "D37" V 8396 3521 50  0000 R CNN
@@ -986,7 +985,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8350 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D36
+L mod_1n148:1N4148 D36
 U 1 1 5C48ECF8
 P 8300 5900
 F 0 "D36" V 8346 5821 50  0000 R CNN
@@ -997,7 +996,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8300 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D35
+L mod_1n148:1N4148 D35
 U 1 1 5C493980
 P 8100 5100
 F 0 "D35" V 8146 5021 50  0000 R CNN
@@ -1008,7 +1007,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8100 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D39
+L mod_1n148:1N4148 D39
 U 1 1 5C493A48
 P 8700 5100
 F 0 "D39" V 8746 5021 50  0000 R CNN
@@ -1019,7 +1018,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8700 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D38
+L mod_1n148:1N4148 D38
 U 1 1 5C493B18
 P 8450 4300
 F 0 "D38" V 8496 4221 50  0000 R CNN
@@ -1030,7 +1029,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8450 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D42
+L mod_1n148:1N4148 D42
 U 1 1 5C493BF0
 P 9050 4300
 F 0 "D42" V 9096 4221 50  0000 R CNN
@@ -1041,7 +1040,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9050 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D41
+L mod_1n148:1N4148 D41
 U 1 1 5C493CC4
 P 8950 3600
 F 0 "D41" V 8996 3521 50  0000 R CNN
@@ -1052,7 +1051,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8950 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D40
+L mod_1n148:1N4148 D40
 U 1 1 5C493D8E
 P 8900 5900
 F 0 "D40" V 8946 5821 50  0000 R CNN
@@ -1063,7 +1062,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8900 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D44
+L mod_1n148:1N4148 D44
 U 1 1 5C493E82
 P 9500 5900
 F 0 "D44" V 9546 5821 50  0000 R CNN
@@ -1074,7 +1073,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9500 5900 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D43
+L mod_1n148:1N4148 D43
 U 1 1 5C493F56
 P 9400 5100
 F 0 "D43" V 9446 5021 50  0000 R CNN
@@ -1085,7 +1084,7 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9400 5100 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D45
+L mod_1n148:1N4148 D45
 U 1 1 5C49402A
 P 9550 3600
 F 0 "D45" V 9596 3521 50  0000 R CNN
