@@ -29,5 +29,5 @@ I'm going to make a pcb with the layout pictured above. You could change the key
 
 For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use probably 12 m2 standoffs to hold the plates together.
 
-![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcblayout.PNG)
+![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcblayout.png)
 ![Kicad PCB Render](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcb_raytrace.png)
