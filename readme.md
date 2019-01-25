@@ -27,11 +27,7 @@ I honestly have no idea what I should expect as far as shipping, so I'm expectin
 
 I'm going to make a pcb with the layout pictured above. You could change the keymap, since it is qmk driven. However, you would be stuck with the layout. I'm also programming the firmware and making a default keymap. The whole thing will be powered by a pro micro, so after wiring the matrix, it'd have one extra pin. I'm going to use this extra pin for rgb underglow, which would be used for indicating layers and capslock (and overall sex appeal). The rgb would be ws2812b diodes soldered directly to the pcb.
 
-<<<<<<< HEAD
 For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use probably 12 m2 standoffs to hold the plates together.
-![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcb_layout.PNG)
+
+![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcblayout.PNG)
 ![Kicad PCB Render](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcb_raytrace.png)
-=======
-For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use the mounting plate form a TG3, cut off the top 2 rows and the right 2 columns.  I'd also have to change the cutout for the enter key slightly.  Then I'd cut the the bottom plate of the TG3 to match the same size. I'd use probably 14 m2 standoffs to hold the plates together, 3 on each side, 5 on the top and bottom, and 2 somewhere in the middle.  
-![KiCad PCB Layout](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_layout.PNG)
-![Kicad PCB Render](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_bottom_raytrace.PNG)
