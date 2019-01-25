@@ -33,6 +33,5 @@ For the hardware, the case will be a sandwich style case using a cut down TG3 mo
 ![Kicad PCB Render](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcb_raytrace.png)
 =======
 For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use the mounting plate form a TG3, cut off the top 2 rows and the right 2 columns.  I'd also have to change the cutout for the enter key slightly.  Then I'd cut the the bottom plate of the TG3 to match the same size. I'd use probably 14 m2 standoffs to hold the plates together, 3 on each side, 5 on the top and bottom, and 2 somewhere in the middle.  
-![KiCad PCB Layout](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_layout.png)
-![Kicad PCB Render](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_bottom_raytrace.png)
->>>>>>> teensy-pcb
+![KiCad PCB Layout](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_layout.PNG)
+![Kicad PCB Render](https://raw.githubusercontent.com/mythosmann/tg4x/master/KiCad/pcb_bottom_raytrace.PNG)
