@@ -1,4 +1,4 @@
-![Blender Render](https://raw.githubusercontent.com/mythosmann/tg4x/master/blenderrender.png)
+![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/DSC_0726.JPG)
 ## Summary:
 
 Basically, this would be a ~$30-40 qmk powered, open source 40% keyboard using parts from a TG3, or "cop car" keyboard. The name comes from the fact that it's a step up (TG4>TG3), but also that it's a 40%(think 4x%). Since the TG3's are so cheap, and they come with switches (mx blacks, too), caps, and plates, they're a great start for a handwired build. However, not many people have the time or resources to make a handwired build.
