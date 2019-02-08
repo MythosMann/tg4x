@@ -21,7 +21,8 @@ I'd probably sell it three ways; a barebones kit, a kit with everything you'd ne
 
 * The fully assembled boards would just be everything, put together, ready to plug and play. ($40-45)
 
-I honestly have no idea what I should expect as far as shipping, so I'm expecting to only ship CONUS.  Another note, because I'm looking to minimize costs as much as possible, I'll be sourcing most of the components from China, meaning long shipping times.
+I honestly have no idea what I should expect as far as shipping, so I'm expecting to only ship CONUS. So far I've looked into USPS Flat rate shipping, and it'll be $5 for either kit, and $10 for the assembled board.
+Another note, because I'm looking to minimize costs as much as possible, I'll be sourcing most of the components from China, meaning long shipping times.
 
 ## The Meaty Potatoes:
 
