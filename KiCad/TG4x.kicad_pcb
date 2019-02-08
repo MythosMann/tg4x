@@ -491,8 +491,8 @@
     )
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538CB6)
-    (at 139.192 105.664)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C5CEEA8)
+    (at 139.446 105.664)
     (path /5C4644C3)
     (fp_text reference SW22 (at 0 3.175) (layer F.SilkS)
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
