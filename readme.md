@@ -13,21 +13,22 @@ In case you didn't know, the TG3 is some kind of industrial keyboard. They're av
 
 ## Pricing:
 
-I'd probably sell it three ways; a barebones kit, a kit with everything you'd need, and fully assembled keyboards. (Prices are nowhere near set in stone, but I'd love to stay close to these prices.
+I'd probably sell it three ways; a barebones kit, a kit with everything you'd need, and fully assembled keyboards. (Prices are nowhere near set in stone, but I'd love to stay close to these prices.  I've crunched some numbers, and depending on how many orders, it will be pretty close to my original estimate.  With a higher quantity, each unit is going to be cheaper, but it will also take me longer to put together. While I am trying to keep these as cheap as possible, I at least want to break even, so I'll have to add a bit to material cost.
 
-* The barebones kits would be the pcbs, diodes, standoffs, and a pre-programmed controller. You'd need to buy your own TG3 and cut the plates yourself. (I'd like to say $10-12)
+* The barebones kits would be the pcbs, diodes, standoffs, and a pre-programmed controller. You'd need to buy your own TG3 and cut the plates yourself. (So far it looks like $10)
 
-* The "fully loaded" kit would include the pcb, diodes, standoffs, and controller, but also the pre-cut plates, switches, and keycaps. ($30)
+* The "fully loaded" kit would include the pcb, diodes, standoffs, and controller, but also the pre-cut plates, switches, and keycaps. ($30-35)
 
-* The fully assembled boards would just be everything, put together, ready to plug and play. ($40)
+* The fully assembled boards would just be everything, put together, ready to plug and play. ($40-45)
 
-I honestly have no idea what I should expect as far as shipping, so I'm expecting to only ship CONUS.
+I honestly have no idea what I should expect as far as shipping, so I'm expecting to only ship CONUS. So far I've looked into USPS and Fedex, and it looks like I'll be able to do $10 flat to CONUS.
+Another note, because I'm looking to minimize costs as much as possible, I'll be sourcing most of the components from China, meaning long shipping times.
 
 ## The Meaty Potatoes:
 
 I'm going to make a pcb with the layout pictured above. You could change the keymap, since it is qmk driven. However, you would be stuck with the layout. I'm also programming the firmware and making a default keymap. The whole thing will be powered by a pro micro, so after wiring the matrix, it'd have one extra pin. I'm going to use this extra pin for rgb underglow, which would be used for indicating layers and capslock (and overall sex appeal). The rgb would be ws2812b diodes soldered directly to the pcb.
 
-For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use probably 12 m2 standoffs to hold the plates together.
+For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use probably 8 m2 standoffs to hold the plates together.
 
 ![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcblayout.png)
 ![Kicad PCB Render](https://raw.githubusercontent.com/MythosMann/tg4x/master/KiCad/pcb_raytrace.png)
