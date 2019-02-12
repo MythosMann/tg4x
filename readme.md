@@ -13,16 +13,18 @@ In case you didn't know, the TG3 is some kind of industrial keyboard. They're av
 
 ## Pricing:
 
-I'd probably sell it three ways; a barebones kit, a kit with everything you'd need, and fully assembled keyboards. (Prices are nowhere near set in stone, but I'd love to stay close to these prices.  I've crunched some numbers, and depending on how many orders, it will be pretty close to my original estimate.  With a higher quantity, each unit is going to be cheaper, but it will also take me longer to put together. While I am trying to keep these as cheap as possible, I at least want to break even, so I'll have to add a bit to material cost.
+I'd probably sell it three ways; a barebones kit, a kit with everything you'd need, and fully assembled keyboards. (Prices are nowhere near set in stone, but I'd love to stay close to these prices.  I've crunched some numbers, and depending on how many orders, it will be pretty close to my original estimate.  With a higher quantity, each unit is going to be cheaper, but it will also take me longer to put together. While I am trying to keep these as cheap as possible, I at least want to break even, so I'll have to add a bit to material cost.  Check out the chart below for (I think) final MoQ pricing.
 
-* The barebones kits would be the pcbs, diodes, standoffs, and a pre-programmed controller. You'd need to buy your own TG3 and cut the plates yourself. (So far it looks like $10)
+* The barebones kits would be the pcbs, diodes, standoffs, and a pre-programmed controller. You'd need to buy your own TG3 and cut the plates yourself.
 
-* The "fully loaded" kit would include the pcb, diodes, standoffs, and controller, but also the pre-cut plates, switches, and keycaps. ($30-35)
+* The "fully loaded" kit would include the pcb, diodes, standoffs, and controller, but also the pre-cut plates, switches, and keycaps.
 
-* The fully assembled boards would just be everything, put together, ready to plug and play. ($40-45)
+* The fully assembled boards would just be everything, put together, ready to plug and play.
 
-I honestly have no idea what I should expect as far as shipping, so I'm expecting to only ship CONUS. So far I've looked into USPS and Fedex, and it looks like I'll be able to do $10 flat to CONUS.
-Another note, because I'm looking to minimize costs as much as possible, I'll be sourcing most of the components from China, meaning long shipping times.
+![MoQ Pricing as of Yet](https://raw.githubusercontent.com/MythosMann/tg4x/master/moq_pricing.png)
+
+I'm expecting to only ship CONUS, because international shipping looks super expensive. So far I've looked into USPS and Fedex, and it looks like I'll be able to do $10 flat to CONUS.
+Another note, because I'm looking to minimize costs as much as possible, I'll be sourcing most of the components from China, meaning it'll take a while to get the parts together.
 
 ## The Meaty Potatoes:
 
