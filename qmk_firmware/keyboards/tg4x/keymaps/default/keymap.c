@@ -76,14 +76,21 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 ),
 };
 
-//Tap Dance Definitions
+/*
+Tap dance stuff.
+td_1 is tab when hit, but caps lock when double tapped.
+td_2 is alt when hit, but windows key when double tapped
+*/
 qk_tap_dance_action_t tap_dance_actions[] = {
-  //Tap once for Esc, twice for Caps Lock
   [TD_1]  = ACTION_TAP_DANCE_DOUBLE(KC_TAB, KC_CAPS),
   [TD_2]  = ACTION_TAP_DANCE_DOUBLE(KC_LALT, KC_LGUI)
 // Other declarations would go here, separated by commas, if you have them
 };
 
+/*
+Custom Macro stuff
+These are just the example macros used by qmk.
+*/
 bool process_record_user(uint16_t keycode, keyrecord_t *record) {
   switch (keycode) {
     case QMKBEST:
@@ -111,6 +118,9 @@ void matrix_init_user(void) {
 }
 
 void matrix_scan_user(void) {
+  /*
+  The code for using the rgb lights to indicate caps lock and function layer.
+  */
   #ifdef RGBLIGHT_ENABLE
 
   if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
