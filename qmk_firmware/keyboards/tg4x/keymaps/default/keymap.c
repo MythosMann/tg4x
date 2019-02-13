@@ -29,15 +29,6 @@ enum {
   TD_1 = 9,
   TD_2
 };
-/*
-The code for using the rgb lights to indicate caps lock and function layer.
-*/
-uint8_t prev = _QWERTY;
-uint32_t desired = 1;
-uint16_t hue = 120;
-uint16_t sat = 255;
-uint16_t val = 255;
-
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 /*
@@ -53,9 +44,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 */
   [_BL] = LAYOUT( /* Base */
 //,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
-   KC_ESC , KC_Q  , KC_W  , KC_E  , KC_R  , KC_T  , KC_Y  , KC_U  , KC_I  , KC_O  , KC_P  ,KC_CAPS,KC_X0   , \
+   KC_ESC , KC_Q  , KC_W  , KC_E  , KC_R  , KC_T  , KC_Y  , KC_U  , KC_I  , KC_O  , KC_P  ,KC_SCLN,KC_BSPC, \
 //|-------'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-------------|
-   TD(TD_1)  , KC_A  , KC_S  , KC_D  , KC_F  , KC_G  , KC_H  , KC_J  , KC_K  , KC_L  ,KC_QUOT,    KC_ENT   , \
+   TD(TD_1)  , KC_A  , KC_S  , KC_D  , KC_F  , KC_G  , KC_H  , KC_J  , KC_K  , KC_L  ,KC_QUOT,    KC_ENT  , \
 //|---------'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'-----,-'-------------|
     KC_LSFT    , KC_Z  , KC_X  , KC_C  , KC_V  , KC_B  , KC_N  , KC_M  ,KC_COMM, KC_DOT,KC_SLSH, KC_RSFT  , \
 //|-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
@@ -78,31 +69,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 //,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
    KC_GRV , KC_1  , KC_2  , KC_3  , KC_4  , KC_5  , KC_6  , KC_7  , KC_8  , KC_9  , KC_0  ,KC_MINS,KC_DEL , \
 //|-------'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-------------|
-   KC_TRNS  ,KC_HOME,KC_PGUP,KC_TRNS,KC_BTN1,KC_MS_U,KC_BTN2,KC_LBRC,KC_RBRC,KC_EQL ,KC_BSLS,    KC_ENT   , \
+   RGB_TOG  ,KC_HOME,KC_PGUP,KC_TRNS,KC_BTN1,KC_MS_U,KC_BTN2,KC_LBRC,KC_RBRC,KC_EQL ,KC_BSLS,    KC_ENT   , \
 //|---------'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----------|
-    KC_LSFT    ,KC_END ,KC_PGDN,KC_MS_L,KC_MS_D,KC_MS_R,KC_ACL0,KC_ACL1,KC_TRNS,KC_TRNS,KC_TRNS, KC_RSFT  , \
-//|-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
-   KC_TRNS,KC_TRNS,KC_TRNS,         KC_SPC                                ,KC_TRNS,KC_LEFT,KC_DOWN,KC_RGHT  \
-//`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
-),
-/*
-,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
-|   `   |   1   |   2   |   3   |   4   |   5   |   6   |   7   |   8   |   9   |   0   |   -   |  Del  |
-|-------'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-------|
-|  Caps   | Home  | PgUp  |       |       | MsUp  |       |   [   |   ]   |   =   |   \   |    Enter    |
-|---------'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----------|
-|  Shift     |  End  | PgDn  |  MsL  | MsDn  |  MsR  |       |       |       |       |       |   Shift  |
-|-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
-|  Ctl  |  Alt  |  Win  |                                               |  Fn   | Left  | Down  | Right |
-`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
-*/
-  [_ADJUST] = LAYOUT( /* Function */
-//,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
-   KC_GRV , KC_1  , KC_2  , KC_3  , KC_4  , KC_5  , KC_6  , KC_7  , KC_8  , KC_9  , KC_0  ,KC_MINS,KC_DEL , \
-//|-------'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-------------|
-   KC_TRNS  ,KC_HOME,KC_PGUP,KC_TRNS,KC_BTN1,KC_MS_U,KC_BTN2,KC_LBRC,KC_RBRC,KC_EQL ,KC_BSLS,    KC_ENT   , \
-//|---------'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----------|
-    KC_LSFT    ,KC_END ,KC_PGDN,KC_MS_L,KC_MS_D,KC_MS_R,KC_ACL0,KC_ACL1,KC_TRNS,KC_TRNS,KC_TRNS, KC_RSFT  , \
+    RGB_MOD    ,KC_END ,KC_PGDN,KC_MS_L,KC_MS_D,KC_MS_R,KC_ACL0,KC_ACL1,KC_TRNS,KC_TRNS,KC_TRNS, KC_RSFT  , \
 //|-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
    KC_TRNS,KC_TRNS,KC_TRNS,         KC_SPC                                ,KC_TRNS,KC_LEFT,KC_DOWN,KC_RGHT  \
 //`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
@@ -147,46 +116,26 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
 }
 
 void matrix_scan_user(void) {
+
+}
+void led_set_user(uint8_t usb_led) {
+  if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
+rgblight_setrgb_at( 0x00, 0xFF, 0x00, 0);
+} else {
+  rgblight_setrgb_at(0x00, 0x00, 0x00, 0);
+}
+}
   /*
   The code for using the rgb lights to indicate caps lock and function layer.
   */
-void get_hsv(void) {
-  	hue = rgblight_get_hue();
-  	sat = rgblight_get_sat();
-  	val = rgblight_get_val();
-  }
-
-  void reset_hsv(void) {
-  	rgblight_sethsv(hue, sat, val);
-  }
-
-  void matrix_init_user() {
-  	rgblight_mode(desired);
-  	rgblight_enable();
-  	reset_hsv();
-  }
-
   uint32_t layer_state_set_user(uint32_t state) {
-    uint8_t layer = biton32(state);
-    if (prev!=_ADJUST) {
-  	  switch (layer) {
-  		case _BL:
-  		  rgblight_mode(desired);
-  		  if(desired < 6 || (desired > 14 && desired < 25)) { // Skip in rainbow modes.
-  			reset_hsv();
-  		  }
-  		  break;
-
-  		case _FL:
-  		  rgblight_mode(5);
-  		  rgblight_sethsv(0, 255, 255);
-  		  break;
-
-  	  }
-    } else {
-  	  desired = rgblight_get_mode();
-  	  get_hsv();
-    }
-    prev = layer;
+      switch (biton32(state)) {
+      case _FL:
+          rgblight_setrgb (0x00,  0x00, 0xFF);
+          break;
+      default: //  for any other layers, or the default layer
+          rgblight_setrgb (0xFF,  0x00, 0xFF);
+          break;
+      }
     return state;
   }
