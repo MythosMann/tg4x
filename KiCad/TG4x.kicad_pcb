@@ -17,8 +17,8 @@
     (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
-    (36 B.SilkS user)
-    (37 F.SilkS user hide)
+    (36 B.SilkS user hide)
+    (37 F.SilkS user)
     (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user hide)
@@ -253,10 +253,10 @@
     (add_net "Net-(U1-Pad4)")
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C506FC0)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50D7) (tstamp 5C506FC0)
     (at 53.8988 48.6918)
     (path /5C463A34)
-    (fp_text reference SW5 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW5 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -294,10 +294,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538BDE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50D1) (tstamp 5C538BDE)
     (at 92.075 48.5648)
     (path /5C4641C9)
-    (fp_text reference SW13 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW13 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -335,10 +335,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538CCE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50C5) (tstamp 5C538CCE)
     (at 149.1996 48.6664)
     (path /5C465899)
-    (fp_text reference SW23 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW23 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -376,10 +376,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C6E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50CA) (tstamp 5C538C6E)
     (at 130.0988 48.641)
     (path /5C4643D9)
-    (fp_text reference SW19 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW19 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -417,10 +417,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538E1E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C508C) (tstamp 5C538E1E)
     (at 225.425 48.6664)
     (path /5C465D93)
-    (fp_text reference SW37 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW37 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -458,10 +458,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538AD6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C516B) (tstamp 5C538AD6)
     (at 34.544 105.664)
     (path /5C4639FA)
-    (fp_text reference SW2 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW2 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -499,10 +499,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538E66)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C511D) (tstamp 5C538E66)
     (at 244.348 105.664)
     (path /5C465EF1)
-    (fp_text reference SW40 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW40 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -829,10 +829,10 @@
     )
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C5CEEA8)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5178) (tstamp 5C5CEEA8)
     (at 139.446 105.664)
     (path /5C4644C3)
-    (fp_text reference SW22 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW22 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -870,10 +870,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538BAE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50E6) (tstamp 5C538BAE)
     (at 77.7748 67.6402)
     (path /5C463A64)
-    (fp_text reference SW11 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW11 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -911,10 +911,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538B66)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5161) (tstamp 5C538B66)
     (at 68.072 86.614)
     (path /5C463A90)
-    (fp_text reference SW8 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW8 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -952,10 +952,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538B4E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50E1) (tstamp 5C538B4E)
     (at 58.6994 67.6402)
     (path /5C463B0C)
-    (fp_text reference SW7 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW7 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -993,10 +993,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_125H (layer F.Cu) (tedit 549A051E) (tstamp 5C538EAE)
+  (module Keebio:MX_PCB_125H (layer F.Cu) (tedit 5C6C5117) (tstamp 5C538EAE)
     (at 260.858 86.614)
     (path /5C465FE5)
-    (fp_text reference SW43 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW43 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1034,10 +1034,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_175H (layer F.Cu) (tedit 4FDE2C78) (tstamp 5C538E96)
+  (module Keebio:MX_PCB_175H (layer F.Cu) (tedit 5C6C50B6) (tstamp 5C538E96)
     (at 256.286 67.564)
     (path /5C466330)
-    (fp_text reference SW42 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW42 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1075,10 +1075,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_125H (layer F.Cu) (tedit 549A051E) (tstamp 5C54DE76)
+  (module Keebio:MX_PCB_125H (layer F.Cu) (tedit 5C6C50DE) (tstamp 5C54DE76)
     (at 36.83 67.31)
     (path /5C463AEA)
-    (fp_text reference SW3 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW3 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1116,10 +1116,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_175H (layer F.Cu) (tedit 4FDE2C78) (tstamp 5C538B06)
+  (module Keebio:MX_PCB_175H (layer F.Cu) (tedit 5C6C5164) (tstamp 5C538B06)
     (at 41.656 86.614)
     (path /5C463AC8)
-    (fp_text reference SW4 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW4 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1157,10 +1157,10 @@
       (net 50 "Net-(SW1-Pad1)"))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538D76)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5102) (tstamp 5C538D76)
     (at 192.1002 67.7418)
     (path /5C465A6B)
-    (fp_text reference SW30 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW30 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1198,10 +1198,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538BC6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C515D) (tstamp 5C538BC6)
     (at 87.122 86.614)
     (path /5C4639CE)
-    (fp_text reference SW12 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW12 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1239,10 +1239,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C54DDE4)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50BA) (tstamp 5C54DDE4)
     (at 230.2002 67.7418)
     (path /5C465E03)
-    (fp_text reference SW38 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW38 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1280,10 +1280,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C86)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50F7) (tstamp 5C538C86)
     (at 134.9248 67.7164)
     (path /5C464429)
-    (fp_text reference SW20 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW20 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1321,10 +1321,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C0E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C515A) (tstamp 5C538C0E)
     (at 106.172 86.614)
     (path /5C464251)
-    (fp_text reference SW15 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW15 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1362,10 +1362,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538BF6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50E8) (tstamp 5C538BF6)
     (at 96.8248 67.7926)
     (path /5C464209)
-    (fp_text reference SW14 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW14 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1403,10 +1403,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C56)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5157) (tstamp 5C538C56)
     (at 125.222 86.614)
     (path /5C4642B9)
-    (fp_text reference SW18 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW18 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1444,10 +1444,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C9E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5153) (tstamp 5C538C9E)
     (at 144.272 86.614)
     (path /5C464475)
-    (fp_text reference SW21 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW21 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1485,10 +1485,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538E06)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C512C) (tstamp 5C538E06)
     (at 225.298 105.664)
     (path /5C465CD3)
-    (fp_text reference SW36 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW36 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1526,10 +1526,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C5077D4)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50FF) (tstamp 5C5077D4)
     (at 173.0248 67.7672)
     (path /5C46594F)
-    (fp_text reference SW27 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW27 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1567,10 +1567,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538DBE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5090) (tstamp 5C538DBE)
     (at 206.375 48.6664)
     (path /5C465B95)
-    (fp_text reference SW33 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW33 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1608,10 +1608,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538B7E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50D3) (tstamp 5C538B7E)
     (at 73.025 48.6918)
     (path /5C4639AE)
-    (fp_text reference SW9 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW9 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1649,10 +1649,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538DA6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5136) (tstamp 5C538DA6)
     (at 206.248 105.664)
     (path /5C465B2F)
-    (fp_text reference SW32 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW32 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1690,10 +1690,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C3E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50EE) (tstamp 5C538C3E)
     (at 115.9002 67.691)
     (path /5C464343)
-    (fp_text reference SW17 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW17 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1731,10 +1731,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538D8E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5130) (tstamp 5C538D8E)
     (at 201.422 86.614)
     (path /5C465ACB)
-    (fp_text reference SW31 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW31 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1772,10 +1772,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538C26)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50CE) (tstamp 5C538C26)
     (at 111.0488 48.7172)
     (path /5C464391)
-    (fp_text reference SW16 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW16 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1813,10 +1813,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538D46)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C514B) (tstamp 5C538D46)
     (at 182.372 86.614)
     (path /5C4659A9)
-    (fp_text reference SW28 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW28 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1854,10 +1854,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538B96)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5174) (tstamp 5C538B96)
     (at 72.644 105.664)
     (path /5C463B6C)
-    (fp_text reference SW10 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW10 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1895,10 +1895,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538DEE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5124) (tstamp 5C538DEE)
     (at 220.472 86.614)
     (path /5C465C69)
-    (fp_text reference SW35 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW35 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1936,10 +1936,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538CE6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50FB) (tstamp 5C538CE6)
     (at 153.9748 67.7418)
     (path /5C465843)
-    (fp_text reference SW24 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW24 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -1977,10 +1977,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538ABE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50DB) (tstamp 5C538ABE)
     (at 34.8742 48.641)
     (path /5C4637D0)
-    (fp_text reference SW1 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW1 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2018,10 +2018,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538D16)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50C2) (tstamp 5C538D16)
     (at 168.3004 48.7172)
     (path /5C4658F9)
-    (fp_text reference SW26 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW26 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2059,10 +2059,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538D5E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50C0) (tstamp 5C538D5E)
     (at 187.2996 48.641)
     (path /5C465A07)
-    (fp_text reference SW29 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW29 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2100,10 +2100,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538E7E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50AA) (tstamp 5C538E7E)
     (at 244.475 48.6918)
     (path /5C46618E)
-    (fp_text reference SW41 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW41 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2141,10 +2141,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538CFE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C514F) (tstamp 5C538CFE)
     (at 163.322 86.614)
     (path /5C4657EF)
-    (fp_text reference SW25 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW25 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2182,10 +2182,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C59CF08) (tstamp 5C538DD6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5106) (tstamp 5C538DD6)
     (at 211.1502 67.691)
     (path /5C465BFF)
-    (fp_text reference SW34 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW34 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2223,10 +2223,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538E4E)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5120) (tstamp 5C538E4E)
     (at 239.522 86.614)
     (path /5C465E7D)
-    (fp_text reference SW39 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW39 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2264,10 +2264,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538EDE)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C50AD) (tstamp 5C538EDE)
     (at 263.5504 48.6918)
     (path /5C4660EC)
-    (fp_text reference SW45 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW45 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2305,10 +2305,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C538EC6)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C511A) (tstamp 5C538EC6)
     (at 263.398 105.664)
     (path /5C465F6B)
-    (fp_text reference SW44 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW44 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -2346,10 +2346,10 @@
     (pad HOLE np_thru_hole circle (at 5.08 0) (size 1.8 1.8) (drill 1.8) (layers *.Cu))
   )
 
-  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 549A0505) (tstamp 5C47F264)
+  (module Keebio:MX_PCB_100H (layer F.Cu) (tedit 5C6C5170) (tstamp 5C47F264)
     (at 53.594 105.664)
     (path /5C463B30)
-    (fp_text reference SW6 (at 0 3.175) (layer F.SilkS)
+    (fp_text reference SW6 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
     )
     (fp_text value SW_Push (at 0 5.08) (layer F.SilkS) hide
@@ -5133,7 +5133,7 @@
   )
 
   (module TG4x:pcb_forest_graphic (layer F.Cu) (tedit 0) (tstamp 5C6C887D)
-    (at 124.079 74.422)
+    (at 124.333 74.549)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
