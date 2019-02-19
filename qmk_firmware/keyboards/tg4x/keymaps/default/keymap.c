@@ -125,15 +125,13 @@ rgblight_setrgb_at( 0x00, 0xFF, 0x00, 0);
   rgblight_setrgb_at(0x00, 0x00, 0x00, 0);
 }
 }
-  /*
-  The code for using the rgb lights to indicate caps lock and function layer.
-  */
+
   uint32_t layer_state_set_user(uint32_t state) {
       switch (biton32(state)) {
       case _FL:
           rgblight_setrgb (0x00,  0x00, 0xFF);
           break;
-      default: //  for any other layers, or the default layer
+      default:
           rgblight_setrgb (0xFF,  0x00, 0xFF);
           break;
       }
