@@ -114,26 +114,61 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
   }
   return true;
 }
-
-void matrix_scan_user(void) {
-
-}
-void led_set_user(uint8_t usb_led) {
+// Common LED indicator
+void update_led(void) {
+  // Capslock priority
   if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
-rgblight_setrgb_at( 0x00, 0xFF, 0x00, 0);
-} else {
-  rgblight_setrgb_at(0x00, 0x00, 0x00, 0);
-}
-}
-
-  uint32_t layer_state_set_user(uint32_t state) {
-      switch (biton32(state)) {
+    rgblight_setrgb_at(0,255,0, 0);
+    switch (biton32(layer_state)) {
+      case _BL:
+        rgblight_setrgb(255,255,255);
+        break;
       case _FL:
-          rgblight_setrgb (0x00,  0x00, 0xFF);
-          break;
+        rgblight_setrgb(0,0,255);
+        break;
       default:
-          rgblight_setrgb (0xFF,  0x00, 0xFF);
+        rgblight_setrgb(0,0,0);
+        break;
+    }
+  }   if (host_keyboard_leds() & (0<<USB_LED_CAPS_LOCK)) {
+      rgblight_setrgb_at(0,255,0, 0);
+      switch (biton32(layer_state)) {
+        case _BL:
+          rgblight_setrgb(255,255,255);
+          break;
+        case _FL:
+          rgblight_setrgb(0,0,255);
+          break;
+        default:
+          rgblight_setrgb(0,0,0);
           break;
       }
-    return state;
+    } else {
+      switch (biton32(layer_state)) {
+        case _BL:
+          rgblight_setrgb(255,255,255);
+          break;
+        case _FL:
+          rgblight_setrgb(0,0,255);
+          break;
+        default:
+          rgblight_setrgb(0,0,0);
+          break;
+      }
+    }
   }
+
+void led_set_user(uint8_t usb_led) {
+  // must be trigger to
+  // - activate capslock color
+  // - go back to the proper layer color if needed when quitting capslock
+  update_led();
+}
+
+uint32_t layer_state_set_user(uint32_t state) {
+  // must be trigger to
+  // - activate a layer color
+  // - de-activate a layer color
+  update_led();
+  return state;
+}
