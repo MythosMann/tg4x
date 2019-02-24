@@ -17,8 +17,8 @@
     (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
-    (36 B.SilkS user hide)
-    (37 F.SilkS user)
+    (36 B.SilkS user)
+    (37 F.SilkS user hide)
     (38 B.Mask user)
     (39 F.Mask user)
     (40 Dwgs.User user hide)
@@ -5133,7 +5133,7 @@
   )
 
   (module TG4x:pcb_forest_graphic (layer F.Cu) (tedit 0) (tstamp 5C6C887D)
-    (at 116.332 149.479)
+    (at 124.333 74.549)
     (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
