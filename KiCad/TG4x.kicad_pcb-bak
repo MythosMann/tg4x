@@ -72,7 +72,7 @@
       (plotframeref false)
       (viasonmask false)
       (mode 1)
-      (useauxorigin true)
+      (useauxorigin false)
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15.000000)
