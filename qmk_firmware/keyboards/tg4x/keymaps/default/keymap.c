@@ -19,7 +19,7 @@
 #define _ADJUST 2
 #define KC_X0 RGB_TOG
 #define KC_X1 RGB_MOD
-// Defines the keycodes used by our macros in process_record_user
+// Defines the keycodes used by macros in process_record_user
 enum custom_keycodes {
   QMKBEST = SAFE_RANGE,
   QMKURL
@@ -40,8 +40,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 |  Shift     |   z   |   x   |   c   |   v   |   b   |   n   |   m   |   ,   |   .   |   /   |   Shift  |
 |-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
 |  Ctl  |  Alt  |  Win  |                                               |  Fn   | Left  |  Up   | Right |
-`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
-*/
+`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'*/
   [_BL] = LAYOUT( /* Base */
 //,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
    KC_ESC , KC_Q  , KC_W  , KC_E  , KC_R  , KC_T  , KC_Y  , KC_U  , KC_I  , KC_O  , KC_P  ,KC_SCLN,KC_BSPC, \
@@ -63,15 +62,14 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 |  Shift     |  End  | PgDn  |  MsL  | MsDn  |  MsR  |       |       |       |       |       |   Shift  |
 |-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
 |  Ctl  |  Alt  |  Win  |                                               |  Fn   | Left  | Down  | Right |
-`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
-*/
+`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'*/
   [_FL] = LAYOUT( /* Function */
 //,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
    KC_GRV , KC_1  , KC_2  , KC_3  , KC_4  , KC_5  , KC_6  , KC_7  , KC_8  , KC_9  , KC_0  ,KC_MINS,KC_DEL , \
 //|-------'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-------------|
    RGB_TOG  ,KC_HOME,KC_PGUP,KC_TRNS,KC_BTN1,KC_MS_U,KC_BTN2,KC_LBRC,KC_RBRC,KC_EQL ,KC_BSLS,    KC_ENT   , \
 //|---------'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----------|
-    RGB_MOD    ,KC_END ,KC_PGDN,KC_MS_L,KC_MS_D,KC_MS_R,KC_ACL0,KC_ACL1,KC_TRNS,KC_TRNS,KC_TRNS, KC_RSFT  , \
+    KC_TRNS    ,KC_END ,KC_PGDN,KC_MS_L,KC_MS_D,KC_MS_R,KC_ACL0,KC_ACL1,KC_TRNS,KC_TRNS,KC_TRNS, KC_RSFT  , \
 //|-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
    KC_TRNS,KC_TRNS,KC_TRNS,         KC_SPC                                ,KC_TRNS,KC_LEFT,KC_DOWN,KC_RGHT  \
 //`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
@@ -86,7 +84,7 @@ td_2 is alt when hit, but windows key when double tapped
 qk_tap_dance_action_t tap_dance_actions[] = {
   [TD_1]  = ACTION_TAP_DANCE_DOUBLE(KC_TAB, KC_CAPS),
   [TD_2]  = ACTION_TAP_DANCE_DOUBLE(KC_LALT, KC_LGUI)
-// Other declarations would go here, separated by commas, if you have them
+// Other declarations would go here, separated by commas,
 };
 
 /*
@@ -114,61 +112,49 @@ bool process_record_user(uint16_t keycode, keyrecord_t *record) {
   }
   return true;
 }
-// Common LED indicator
+
 void update_led(void) {
-  // Capslock priority
   if (host_keyboard_leds() & (1<<USB_LED_CAPS_LOCK)) {
-    rgblight_setrgb_at(0,255,0, 0);
+    //if caps lock is on
+    rgblight_sethsv_at(120,100,100, 0);
+    //turns the first led green
     switch (biton32(layer_state)) {
-      case _BL:
-        rgblight_setrgb(255,255,255);
-        break;
       case _FL:
-        rgblight_setrgb(0,0,255);
+      //when the base layer is active, turns the LEDs pink
+        rgblight_sethsv_range(300,50,50,1,7);
+        break;
+      case _BL:
+      //when the function layer is active, turns the LEDs blue
+        rgblight_sethsv_range(240,100,100,1,7);
         break;
       default:
-        rgblight_setrgb(0,0,0);
+      //if anything else is active, turns the LEDs off. isn't in use, mostly a fallback
+        rgblight_sethsv(0,0,0);
         break;
     }
-  }   if (host_keyboard_leds() & (0<<USB_LED_CAPS_LOCK)) {
-      rgblight_setrgb_at(0,255,0, 0);
-      switch (biton32(layer_state)) {
-        case _BL:
-          rgblight_setrgb(255,255,255);
-          break;
-        case _FL:
-          rgblight_setrgb(0,0,255);
-          break;
-        default:
-          rgblight_setrgb(0,0,0);
-          break;
-      }
-    } else {
-      switch (biton32(layer_state)) {
-        case _BL:
-          rgblight_setrgb(255,255,255);
-          break;
-        case _FL:
-          rgblight_setrgb(0,0,255);
-          break;
-        default:
-          rgblight_setrgb(0,0,0);
-          break;
-      }
+  } else {
+    //if caps lock isn't on
+        rgblight_sethsv_at(0,0,0, 0);
+        switch (biton32(layer_state)) {
+          //same code as above
+          case _FL:
+            rgblight_sethsv_range(0,0,50,1,7);
+            break;
+          case _BL:
+            rgblight_sethsv_range(240,100,100,1,7);
+            break;
+          default:
+            rgblight_sethsv(0,0,0);
+            break;
+        }
     }
   }
 
 void led_set_user(uint8_t usb_led) {
-  // must be trigger to
-  // - activate capslock color
-  // - go back to the proper layer color if needed when quitting capslock
   update_led();
 }
 
 uint32_t layer_state_set_user(uint32_t state) {
-  // must be trigger to
-  // - activate a layer color
-  // - de-activate a layer color
   update_led();
   return state;
 }
