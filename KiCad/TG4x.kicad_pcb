@@ -17,11 +17,11 @@
     (33 F.Adhes user)
     (34 B.Paste user)
     (35 F.Paste user)
-    (36 B.SilkS user)
-    (37 F.SilkS user)
+    (36 B.SilkS user hide)
+    (37 F.SilkS user hide)
     (38 B.Mask user)
     (39 F.Mask user)
-    (40 Dwgs.User user hide)
+    (40 Dwgs.User user)
     (41 Cmts.User user)
     (42 Eco1.User user)
     (43 Eco2.User user)
@@ -1076,7 +1076,7 @@
   )
 
   (module Keebio:MX_PCB_125H (layer F.Cu) (tedit 5C6C50DE) (tstamp 5C54DE76)
-    (at 36.83 67.31)
+    (at 36.8808 67.6148)
     (path /5C463AEA)
     (fp_text reference SW3 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))

@@ -64,10 +64,10 @@
     (pcbplotparams
       (layerselection 0x010f0_ffffffff)
       (usegerberextensions false)
-      (usegerberattributes true)
+      (usegerberattributes false)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
-      (excludeedgelayer false)
+      (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
       (viasonmask false)
