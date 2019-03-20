@@ -377,7 +377,7 @@
   )
 
   (module Keebio:MX_PCB_125H (layer F.Cu) (tedit 5C6C50DE) (tstamp 5C54DE76)
-    (at 36.83 67.31)
+    (at 36.83 67.5132)
     (path /5C463AEA)
     (fp_text reference SW3 (at 0 3.175) (layer F.SilkS) hide
       (effects (font (size 1.27 1.524) (thickness 0.2032)))
