@@ -13,18 +13,7 @@ In case you didn't know, the TG3 is some kind of industrial keyboard. They're av
 
 ## Pricing:
 
-I'd probably sell it four ways; just a pcb, a barebones kit, a kit with everything you'd need, and fully assembled keyboards. (Prices are nowhere near set in stone, but I'd love to stay close to these prices.  I'm also wanting to be able to include a blank resin keycap with each purchase of a kit.  I've crunched some numbers, and come up with some prices based on quantity.  With a higher quantity, each unit is going to be cheaper, but it will also take me longer to put together. While I am trying to keep these as cheap as possible, I at least want to break even, so I'll have to add a bit to material cost.  Check out the chart below for (I think) final MoQ pricing.
-
-* The barebones kits would be the pcbs, diodes, standoffs, and a pre-programmed controller. You'd need to buy your own TG3 and cut the plates yourself.
-
-* The "fully loaded" kit would include the pcb, diodes, standoffs, and controller, but also the pre-cut plates, switches, and keycaps.
-
-* The fully assembled boards would just be everything, put together, ready to plug and play.
-
-![MoQ Pricing as of Yet](https://raw.githubusercontent.com/MythosMann/tg4x/master/moq_pricing.png)
-
-I'm expecting to only ship CONUS, because international shipping looks super expensive. So far I've looked into USPS and Fedex, and it looks like I'll be able to do $10 flat to CONUS.
-Another note, because I'm looking to minimize costs as much as possible, I'll be sourcing most of the components from China, meaning it'll take a while to get the parts together.
+I'm not intending to sell kits for now, but I'd be willing to still sell pcbs.
 
 ## The Meaty Potatoes:
 
