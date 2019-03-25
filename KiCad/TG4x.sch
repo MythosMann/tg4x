@@ -286,23 +286,12 @@ $EndComp
 $Comp
 L Switch:SW_Push SW22
 U 1 1 5C4644C3
-P 5900 4050
-F 0 "SW22" H 5900 4335 50  0000 C CNN
-F 1 "SW_Push" H 5900 4244 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_Plate" H 5900 4250 50  0001 C CNN
-F 3 "" H 5900 4250 50  0001 C CNN
-	1    5900 4050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Switch:SW_Push SW25
-U 1 1 5C4657EF
-P 6350 3250
-F 0 "SW25" H 6350 3535 50  0000 C CNN
-F 1 "SW_Push" H 6350 3444 50  0000 C CNN
-F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_Plate" H 6350 3450 50  0001 C CNN
-F 3 "" H 6350 3450 50  0001 C CNN
-	1    6350 3250
+P 5750 4050
+F 0 "SW22" H 5750 4335 50  0000 C CNN
+F 1 "SW_Push" H 5750 4244 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_Plate" H 5750 4250 50  0001 C CNN
+F 3 "" H 5750 4250 50  0001 C CNN
+	1    5750 4050
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -560,8 +549,6 @@ Wire Wire Line
 Wire Wire Line
 	5200 2450 5300 2450
 Wire Wire Line
-	5550 4050 5700 4050
-Wire Wire Line
 	5800 2450 5900 2450
 Wire Wire Line
 	6400 2450 6500 2450
@@ -636,34 +623,34 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D3
 U 1 1 5C48D5DA
-P 2700 2550
-F 0 "D3" V 2746 2471 50  0000 R CNN
-F 1 "1N4148" V 2655 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2700 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2700 2550 50  0001 C CNN
-	1    2700 2550
+P 2700 2650
+F 0 "D3" V 2746 2571 50  0000 R CNN
+F 1 "1N4148" V 2655 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2700 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2700 2650 50  0001 C CNN
+	1    2700 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D7
 U 1 1 5C48D67C
-P 3300 2550
-F 0 "D7" V 3346 2471 50  0000 R CNN
-F 1 "1N4148" V 3255 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3300 2550 50  0001 C CNN
-	1    3300 2550
+P 3300 2650
+F 0 "D7" V 3346 2571 50  0000 R CNN
+F 1 "1N4148" V 3255 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3300 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3300 2650 50  0001 C CNN
+	1    3300 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D11
 U 1 1 5C48D70E
-P 3900 2550
-F 0 "D11" V 3946 2471 50  0000 R CNN
-F 1 "1N4148" V 3855 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3900 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3900 2550 50  0001 C CNN
-	1    3900 2550
+P 3900 2650
+F 0 "D11" V 3946 2571 50  0000 R CNN
+F 1 "1N4148" V 3855 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3900 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3900 2650 50  0001 C CNN
+	1    3900 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -680,34 +667,34 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D2
 U 1 1 5C48D8DD
-P 2600 4150
-F 0 "D2" V 2646 4071 50  0000 R CNN
-F 1 "1N4148" V 2555 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2600 4150 50  0001 C CNN
-	1    2600 4150
+P 2600 4350
+F 0 "D2" V 2646 4271 50  0000 R CNN
+F 1 "1N4148" V 2555 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2600 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2600 4350 50  0001 C CNN
+	1    2600 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D6
 U 1 1 5C48D96D
-P 3200 4150
-F 0 "D6" V 3246 4071 50  0000 R CNN
-F 1 "1N4148" V 3155 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3200 4150 50  0001 C CNN
-	1    3200 4150
+P 3200 4350
+F 0 "D6" V 3246 4271 50  0000 R CNN
+F 1 "1N4148" V 3155 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3200 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3200 4350 50  0001 C CNN
+	1    3200 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D10
 U 1 1 5C48D9FD
-P 3800 4150
-F 0 "D10" V 3846 4071 50  0000 R CNN
-F 1 "1N4148" V 3755 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3800 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3800 4150 50  0001 C CNN
-	1    3800 4150
+P 3800 4350
+F 0 "D10" V 3846 4271 50  0000 R CNN
+F 1 "1N4148" V 3755 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3800 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3800 4350 50  0001 C CNN
+	1    3800 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -746,12 +733,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D14
 U 1 1 5C48DC7D
-P 4500 2550
-F 0 "D14" V 4546 2471 50  0000 R CNN
-F 1 "1N4148" V 4455 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4500 2550 50  0001 C CNN
-	1    4500 2550
+P 4500 2650
+F 0 "D14" V 4546 2571 50  0000 R CNN
+F 1 "1N4148" V 4455 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4500 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4500 2650 50  0001 C CNN
+	1    4500 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -779,12 +766,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D17
 U 1 1 5C48DF88
-P 5100 2550
-F 0 "D17" V 5146 2471 50  0000 R CNN
-F 1 "1N4148" V 5055 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5100 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5100 2550 50  0001 C CNN
-	1    5100 2550
+P 5100 2650
+F 0 "D17" V 5146 2571 50  0000 R CNN
+F 1 "1N4148" V 5055 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5100 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5100 2650 50  0001 C CNN
+	1    5100 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -812,12 +799,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D20
 U 1 1 5C48E170
-P 5700 2550
-F 0 "D20" V 5746 2471 50  0000 R CNN
-F 1 "1N4148" V 5655 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5700 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5700 2550 50  0001 C CNN
-	1    5700 2550
+P 5700 2650
+F 0 "D20" V 5746 2571 50  0000 R CNN
+F 1 "1N4148" V 5655 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5700 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5700 2650 50  0001 C CNN
+	1    5700 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -834,12 +821,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D22
 U 1 1 5C48E2B8
-P 6100 4150
-F 0 "D22" V 6146 4071 50  0000 R CNN
-F 1 "1N4148" V 6055 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6100 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6100 4150 50  0001 C CNN
-	1    6100 4150
+P 5950 4350
+F 0 "D22" V 5996 4271 50  0000 R CNN
+F 1 "1N4148" V 5905 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5950 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5950 4350 50  0001 C CNN
+	1    5950 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -856,12 +843,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D24
 U 1 1 5C48E40A
-P 6300 2550
-F 0 "D24" V 6346 2471 50  0000 R CNN
-F 1 "1N4148" V 6255 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6300 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6300 2550 50  0001 C CNN
-	1    6300 2550
+P 6300 2650
+F 0 "D24" V 6346 2571 50  0000 R CNN
+F 1 "1N4148" V 6255 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6300 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6300 2650 50  0001 C CNN
+	1    6300 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -889,12 +876,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D27
 U 1 1 5C48E618
-P 6900 2550
-F 0 "D27" V 6946 2471 50  0000 R CNN
-F 1 "1N4148" V 6855 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6900 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6900 2550 50  0001 C CNN
-	1    6900 2550
+P 6900 2650
+F 0 "D27" V 6946 2571 50  0000 R CNN
+F 1 "1N4148" V 6855 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6900 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6900 2650 50  0001 C CNN
+	1    6900 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -922,34 +909,34 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D32
 U 1 1 5C48E846
-P 7950 4150
-F 0 "D32" V 7996 4071 50  0000 R CNN
-F 1 "1N4148" V 7905 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7950 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7950 4150 50  0001 C CNN
-	1    7950 4150
+P 7950 4350
+F 0 "D32" V 7996 4271 50  0000 R CNN
+F 1 "1N4148" V 7905 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7950 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7950 4350 50  0001 C CNN
+	1    7950 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D30
 U 1 1 5C48E904
-P 7500 2550
-F 0 "D30" V 7546 2471 50  0000 R CNN
-F 1 "1N4148" V 7455 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7500 2550 50  0001 C CNN
-	1    7500 2550
+P 7500 2650
+F 0 "D30" V 7546 2571 50  0000 R CNN
+F 1 "1N4148" V 7455 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 7500 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 7500 2650 50  0001 C CNN
+	1    7500 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D34
 U 1 1 5C48E9DE
-P 8100 2550
-F 0 "D34" V 8146 2471 50  0000 R CNN
-F 1 "1N4148" V 8055 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8100 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8100 2550 50  0001 C CNN
-	1    8100 2550
+P 8100 2650
+F 0 "D34" V 8146 2571 50  0000 R CNN
+F 1 "1N4148" V 8055 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8100 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8100 2650 50  0001 C CNN
+	1    8100 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -988,12 +975,12 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D36
 U 1 1 5C48ECF8
-P 8550 4150
-F 0 "D36" V 8596 4071 50  0000 R CNN
-F 1 "1N4148" V 8505 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8550 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8550 4150 50  0001 C CNN
-	1    8550 4150
+P 8550 4350
+F 0 "D36" V 8596 4271 50  0000 R CNN
+F 1 "1N4148" V 8505 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8550 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8550 4350 50  0001 C CNN
+	1    8550 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1021,23 +1008,23 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D38
 U 1 1 5C493B18
-P 8700 2550
-F 0 "D38" V 8746 2471 50  0000 R CNN
-F 1 "1N4148" V 8655 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8700 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8700 2550 50  0001 C CNN
-	1    8700 2550
+P 8700 2650
+F 0 "D38" V 8746 2571 50  0000 R CNN
+F 1 "1N4148" V 8655 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 8700 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 8700 2650 50  0001 C CNN
+	1    8700 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D42
 U 1 1 5C493BF0
-P 9300 2550
-F 0 "D42" V 9346 2471 50  0000 R CNN
-F 1 "1N4148" V 9255 2471 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9300 2375 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9300 2550 50  0001 C CNN
-	1    9300 2550
+P 9300 2650
+F 0 "D42" V 9346 2571 50  0000 R CNN
+F 1 "1N4148" V 9255 2571 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9300 2475 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9300 2650 50  0001 C CNN
+	1    9300 2650
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1054,23 +1041,23 @@ $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D40
 U 1 1 5C493D8E
-P 9150 4150
-F 0 "D40" V 9196 4071 50  0000 R CNN
-F 1 "1N4148" V 9105 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9150 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9150 4150 50  0001 C CNN
-	1    9150 4150
+P 9150 4350
+F 0 "D40" V 9196 4271 50  0000 R CNN
+F 1 "1N4148" V 9105 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9150 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9150 4350 50  0001 C CNN
+	1    9150 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
 L TG4x-rescue:1N4148-mod_1n148 D44
 U 1 1 5C493E82
-P 9750 4150
-F 0 "D44" V 9796 4071 50  0000 R CNN
-F 1 "1N4148" V 9705 4071 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9750 3975 50  0001 C CNN
-F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9750 4150 50  0001 C CNN
-	1    9750 4150
+P 9750 4350
+F 0 "D44" V 9796 4271 50  0000 R CNN
+F 1 "1N4148" V 9705 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9750 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 9750 4350 50  0001 C CNN
+	1    9750 4350
 	0    -1   -1   0   
 $EndComp
 $Comp
@@ -1120,8 +1107,6 @@ Connection ~ 3150 3250
 Wire Wire Line
 	5900 3200 6150 3200
 Wire Wire Line
-	6150 3200 6150 3250
-Wire Wire Line
 	6500 3200 6750 3200
 Wire Wire Line
 	6750 3200 6750 3250
@@ -1148,20 +1133,18 @@ Connection ~ 9250 3250
 $Comp
 L LED:WS2812B D46
 U 1 1 5C4B6840
-P 1650 4750
-F 0 "D46" H 1991 4796 50  0000 L CNN
-F 1 "WS2812B" H 1991 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1700 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1750 4375 50  0001 L TNN
-	1    1650 4750
+P 1650 5900
+F 0 "D46" H 1991 5946 50  0000 L CNN
+F 1 "WS2812B" H 1991 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1700 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1750 5525 50  0001 L TNN
+	1    1650 5900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	2850 3450 3550 3450
 Wire Wire Line
-	2700 2650 3300 2650
-Wire Wire Line
-	2600 4250 3200 4250
+	2600 4450 3200 4450
 $Comp
 L Switch:SW_Push SW46
 U 1 1 5C47F34C
@@ -1173,82 +1156,49 @@ F 3 "" H 1150 3600 50  0001 C CNN
 	1    1150 3400
 	1    0    0    -1  
 $EndComp
-Connection ~ 3200 4250
+Connection ~ 3200 4450
 Wire Wire Line
-	3200 4250 3800 4250
-Connection ~ 3300 2650
-Wire Wire Line
-	3300 2650 3900 2650
+	3200 4450 3800 4450
 Connection ~ 3550 3450
 Wire Wire Line
 	3550 3450 4150 3450
-Connection ~ 3800 4250
-Wire Wire Line
-	3800 4250 6100 4250
-Connection ~ 3900 2650
+Connection ~ 3800 4450
 Connection ~ 4150 3450
 Wire Wire Line
 	4150 3450 4750 3450
-Connection ~ 4500 2650
-Wire Wire Line
-	4500 2650 5100 2650
 Connection ~ 4750 3450
 Wire Wire Line
 	4750 3450 5350 3450
-Connection ~ 5100 2650
-Wire Wire Line
-	5100 2650 5700 2650
 Connection ~ 5350 3450
 Wire Wire Line
 	5350 3450 5950 3450
-Connection ~ 5700 2650
-Wire Wire Line
-	5700 2650 6300 2650
 Connection ~ 5950 3450
 Wire Wire Line
 	5950 3450 6550 3450
-Connection ~ 6100 4250
-Wire Wire Line
-	6100 4250 7950 4250
-Connection ~ 6300 2650
-Wire Wire Line
-	6300 2650 6900 2650
 Connection ~ 6550 3450
 Wire Wire Line
 	6550 3450 7150 3450
-Connection ~ 6900 2650
-Wire Wire Line
-	6900 2650 7500 2650
 Connection ~ 7150 3450
 Wire Wire Line
 	7150 3450 7750 3450
-Connection ~ 7500 2650
-Wire Wire Line
-	7500 2650 8100 2650
 Connection ~ 7750 3450
 Wire Wire Line
 	7750 3450 8350 3450
-Connection ~ 7950 4250
+Connection ~ 7950 4450
 Wire Wire Line
-	7950 4250 8550 4250
-Connection ~ 8100 2650
-Wire Wire Line
-	8100 2650 8700 2650
+	7950 4450 8550 4450
 Connection ~ 8350 3450
 Wire Wire Line
 	8350 3450 8950 3450
-Connection ~ 8550 4250
+Connection ~ 8550 4450
 Wire Wire Line
-	8550 4250 9150 4250
-Connection ~ 8700 2650
-Wire Wire Line
-	8700 2650 9300 2650
+	8550 4450 9150 4450
 Connection ~ 8950 3450
 Wire Wire Line
 	8950 3450 9650 3450
-Connection ~ 9150 4250
+Connection ~ 9150 4450
 Wire Wire Line
-	9150 4250 9750 4250
+	9150 4450 9750 4450
 Wire Wire Line
 	3400 3500 3400 4050
 Wire Wire Line
@@ -1268,34 +1218,34 @@ Wire Wire Line
 	9350 3350 9350 4050
 Connection ~ 2900 2450
 Wire Wire Line
-	2300 2450 2300 3250
+	2300 2450 2300 2550
 Connection ~ 3500 2450
 Wire Wire Line
-	4100 2450 4100 3200
+	4100 2450 4100 2550
 Connection ~ 4100 2450
 Wire Wire Line
-	4700 2450 4700 3200
+	4700 2450 4700 2550
 Connection ~ 4700 2450
 Wire Wire Line
-	5300 2450 5300 3200
+	5300 2450 5300 2550
 Connection ~ 5300 2450
 Wire Wire Line
-	5900 2450 5900 3200
+	5900 2450 5900 2550
 Connection ~ 5900 2450
 Wire Wire Line
-	6500 2450 6500 3200
+	6500 2450 6500 2550
 Connection ~ 6500 2450
 Wire Wire Line
-	7100 2450 7100 3200
+	7100 2450 7100 2550
 Connection ~ 7100 2450
 Wire Wire Line
-	7700 2450 7700 3200
+	7700 2450 7700 2550
 Connection ~ 7700 2450
 Wire Wire Line
-	8300 2450 8300 3200
+	8300 2450 8300 2550
 Connection ~ 8300 2450
 Wire Wire Line
-	8900 2450 8900 3200
+	8900 2450 8900 2550
 Connection ~ 8900 2450
 Wire Wire Line
 	2600 1950 3200 1950
@@ -1338,11 +1288,9 @@ Wire Wire Line
 Wire Wire Line
 	1000 3400 950  3400
 Wire Wire Line
-	3900 2650 4500 2650
+	2900 2450 2900 2550
 Wire Wire Line
-	2900 2450 2900 3200
-Wire Wire Line
-	3500 2450 3500 3200
+	3500 2450 3500 2550
 Wire Wire Line
 	1350 3400 1100 3400
 Wire Wire Line
@@ -1389,25 +1337,18 @@ Wire Wire Line
 	5800 1300 5800 1750
 Wire Wire Line
 	2200 1750 2200 2450
-Connection ~ 2200 1750
 Wire Wire Line
 	2800 1750 2800 2450
-Connection ~ 2800 1750
 Wire Wire Line
 	3400 1750 3400 2450
-Connection ~ 3400 1750
 Wire Wire Line
 	4000 1750 4000 2450
-Connection ~ 4000 1750
 Wire Wire Line
 	4600 1750 4600 2450
-Connection ~ 4600 1750
 Wire Wire Line
 	5200 1750 5200 2450
-Connection ~ 5200 1750
 Wire Wire Line
 	5800 1750 5800 2450
-Connection ~ 5800 1750
 Wire Wire Line
 	6400 1750 6400 2450
 Wire Wire Line
@@ -1424,7 +1365,6 @@ Wire Wire Line
 	6400 1250 1000 1250
 Wire Wire Line
 	1000 1250 1000 1600
-Connection ~ 6400 1750
 $Comp
 L promicro:ProMicro U1
 U 1 1 5C4631D3
@@ -1440,12 +1380,10 @@ Wire Wire Line
 	7600 1750 7600 2050
 Wire Wire Line
 	7600 2050 1400 2050
-Connection ~ 7600 2050
 Wire Wire Line
 	7600 2050 7600 2450
 Wire Wire Line
 	1500 2100 8200 2100
-Connection ~ 8200 2100
 Wire Wire Line
 	8200 2100 8200 2450
 Wire Wire Line
@@ -1460,11 +1398,8 @@ Wire Wire Line
 Wire Wire Line
 	2600 1950 2600 2000
 Connection ~ 2600 1950
-Connection ~ 2700 2650
 Connection ~ 2850 3450
-Connection ~ 2600 4250
-Wire Wire Line
-	1350 3600 1350 4750
+Connection ~ 2600 4450
 Wire Wire Line
 	1350 3600 1550 3600
 Wire Wire Line
@@ -1479,7 +1414,6 @@ Wire Wire Line
 	2700 2350 2700 2000
 Wire Wire Line
 	2700 2000 7000 2000
-Connection ~ 7000 2000
 Wire Wire Line
 	7000 2000 7000 2450
 Wire Wire Line
@@ -1525,17 +1459,11 @@ Wire Wire Line
 Wire Wire Line
 	1450 2500 1450 3000
 Wire Wire Line
-	2050 2650 2050 2400
-Wire Wire Line
 	2050 2400 1800 2400
 Wire Wire Line
 	1800 2400 1800 2300
 Wire Wire Line
-	1800 2300 1300 2300
-Wire Wire Line
 	1300 2300 1300 1600
-Wire Wire Line
-	2050 2650 2700 2650
 Wire Wire Line
 	1550 3150 2000 3150
 Wire Wire Line
@@ -1545,129 +1473,125 @@ Wire Wire Line
 $Comp
 L LED:WS2812B D47
 U 1 1 5C81FF9D
-P 2650 4750
-F 0 "D47" H 2991 4796 50  0000 L CNN
-F 1 "WS2812B" H 2991 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2700 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2750 4375 50  0001 L TNN
-	1    2650 4750
+P 2650 5900
+F 0 "D47" H 2991 5946 50  0000 L CNN
+F 1 "WS2812B" H 2991 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2700 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2750 5525 50  0001 L TNN
+	1    2650 5900
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D48
 U 1 1 5C82007B
-P 3500 4750
-F 0 "D48" H 3841 4796 50  0000 L CNN
-F 1 "WS2812B" H 3841 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3550 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3600 4375 50  0001 L TNN
-	1    3500 4750
+P 3500 5900
+F 0 "D48" H 3841 5946 50  0000 L CNN
+F 1 "WS2812B" H 3841 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3550 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3600 5525 50  0001 L TNN
+	1    3500 5900
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D49
 U 1 1 5C82015B
-P 4350 4750
-F 0 "D49" H 4691 4796 50  0000 L CNN
-F 1 "WS2812B" H 4691 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4400 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 4375 50  0001 L TNN
-	1    4350 4750
+P 4350 5900
+F 0 "D49" H 4691 5946 50  0000 L CNN
+F 1 "WS2812B" H 4691 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4400 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4450 5525 50  0001 L TNN
+	1    4350 5900
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D50
 U 1 1 5C820231
-P 5250 4750
-F 0 "D50" H 5591 4796 50  0000 L CNN
-F 1 "WS2812B" H 5591 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5300 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5350 4375 50  0001 L TNN
-	1    5250 4750
+P 5250 5900
+F 0 "D50" H 5591 5946 50  0000 L CNN
+F 1 "WS2812B" H 5591 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5300 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5350 5525 50  0001 L TNN
+	1    5250 5900
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D51
 U 1 1 5C820861
-P 6000 4750
-F 0 "D51" H 6341 4796 50  0000 L CNN
-F 1 "WS2812B" H 6341 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6050 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6100 4375 50  0001 L TNN
-	1    6000 4750
+P 6000 5900
+F 0 "D51" H 6341 5946 50  0000 L CNN
+F 1 "WS2812B" H 6341 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6050 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6100 5525 50  0001 L TNN
+	1    6000 5900
 	1    0    0    -1  
 $EndComp
 $Comp
 L LED:WS2812B D52
 U 1 1 5C82093F
-P 6750 4750
-F 0 "D52" H 7091 4796 50  0000 L CNN
-F 1 "WS2812B" H 7091 4705 50  0000 L CNN
-F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6800 4450 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6850 4375 50  0001 L TNN
-	1    6750 4750
+P 6750 5900
+F 0 "D52" H 7091 5946 50  0000 L CNN
+F 1 "WS2812B" H 7091 5855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6800 5600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6850 5525 50  0001 L TNN
+	1    6750 5900
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1650 4450 2650 4450
-Connection ~ 1650 4450
-Connection ~ 2650 4450
+	1650 5600 2650 5600
+Connection ~ 1650 5600
+Connection ~ 2650 5600
 Wire Wire Line
-	2650 4450 3500 4450
-Connection ~ 3500 4450
+	2650 5600 3500 5600
+Connection ~ 3500 5600
 Wire Wire Line
-	3500 4450 4350 4450
-Connection ~ 4350 4450
+	3500 5600 4350 5600
+Connection ~ 4350 5600
 Wire Wire Line
-	4350 4450 5250 4450
-Connection ~ 5250 4450
+	4350 5600 5250 5600
+Connection ~ 5250 5600
 Wire Wire Line
-	5250 4450 6000 4450
-Connection ~ 6000 4450
+	5250 5600 6000 5600
+Connection ~ 6000 5600
 Wire Wire Line
-	6000 4450 6750 4450
-Connection ~ 2650 5050
+	6000 5600 6750 5600
+Connection ~ 2650 6200
 Wire Wire Line
-	2650 5050 3500 5050
-Connection ~ 3500 5050
+	2650 6200 3500 6200
+Connection ~ 3500 6200
 Wire Wire Line
-	3500 5050 4350 5050
-Connection ~ 4350 5050
+	3500 6200 4350 6200
+Connection ~ 4350 6200
 Wire Wire Line
-	4350 5050 5250 5050
-Connection ~ 5250 5050
+	4350 6200 5250 6200
+Connection ~ 5250 6200
 Wire Wire Line
-	5250 5050 6000 5050
-Connection ~ 6000 5050
+	5250 6200 6000 6200
+Connection ~ 6000 6200
 Wire Wire Line
-	6000 5050 6750 5050
+	6000 6200 6750 6200
 Wire Wire Line
-	1950 4750 2350 4750
+	1950 5900 2350 5900
 Wire Wire Line
-	2950 4750 3200 4750
+	2950 5900 3200 5900
 Wire Wire Line
-	3800 4750 4050 4750
+	3800 5900 4050 5900
 Wire Wire Line
-	4650 4750 4950 4750
+	4650 5900 4950 5900
 Wire Wire Line
-	5550 4750 5700 4750
+	5550 5900 5700 5900
 Wire Wire Line
-	6300 4750 6450 4750
+	6300 5900 6450 5900
 Wire Wire Line
-	1650 5050 2650 5050
+	1650 6200 2650 6200
 Wire Wire Line
-	1800 3900 1800 4250
-Wire Wire Line
-	1800 4250 2600 4250
-Connection ~ 1650 5050
+	1800 4450 2600 4450
+Connection ~ 1650 6200
 Wire Wire Line
 	1000 3000 1000 3050
 Wire Wire Line
 	1000 3050 850  3050
 Wire Wire Line
-	850  3050 850  5050
-Wire Wire Line
-	850  5050 1650 5050
+	850  6200 1650 6200
 Connection ~ 1000 3050
 Wire Wire Line
 	1000 3050 1000 3400
@@ -1688,9 +1612,7 @@ Wire Wire Line
 Wire Wire Line
 	1400 3450 900  3450
 Wire Wire Line
-	900  3450 900  4450
-Wire Wire Line
-	900  4450 1650 4450
+	900  5600 1650 5600
 Wire Wire Line
 	1300 3000 1300 3150
 Wire Wire Line
@@ -1701,4 +1623,459 @@ Wire Wire Line
 	1350 3300 1450 3300
 Wire Wire Line
 	1450 3300 1450 3900
+Wire Wire Line
+	850  3050 850  6200
+Wire Wire Line
+	900  3450 900  5600
+Wire Wire Line
+	1350 3600 1350 5900
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C9FE71B
+P 2400 4150
+F 0 "SW?" H 2400 4435 50  0000 C CNN
+F 1 "SW_Push" H 2400 4344 50  0000 C CNN
+F 2 "" H 2400 4350 50  0001 C CNN
+F 3 "" H 2400 4350 50  0001 C CNN
+	1    2400 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C9FE82F
+P 3000 4150
+F 0 "SW?" H 3000 4435 50  0000 C CNN
+F 1 "SW_Push" H 3000 4344 50  0000 C CNN
+F 2 "" H 3000 4350 50  0001 C CNN
+F 3 "" H 3000 4350 50  0001 C CNN
+	1    3000 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5C9FE921
+P 3600 4150
+F 0 "SW?" H 3600 4435 50  0000 C CNN
+F 1 "SW_Push" H 3600 4344 50  0000 C CNN
+F 2 "" H 3600 4350 50  0001 C CNN
+F 3 "" H 3600 4350 50  0001 C CNN
+	1    3600 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CA00DD3
+P 5750 4150
+F 0 "SW?" H 5750 4435 50  0000 C CNN
+F 1 "SW_Push" H 5750 4344 50  0000 C CNN
+F 2 "" H 5750 4350 50  0001 C CNN
+F 3 "" H 5750 4350 50  0001 C CNN
+	1    5750 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 4050 2200 4150
+Connection ~ 2200 4050
+Wire Wire Line
+	2600 4050 2600 4150
+Connection ~ 2600 4150
+Wire Wire Line
+	2600 4150 2600 4250
+Wire Wire Line
+	3200 4050 3200 4150
+Connection ~ 3200 4150
+Wire Wire Line
+	3200 4150 3200 4250
+Wire Wire Line
+	3800 4050 3800 4150
+Connection ~ 3800 4150
+Wire Wire Line
+	3800 4150 3800 4250
+Wire Wire Line
+	3400 4050 3400 4150
+Connection ~ 3400 4050
+Wire Wire Line
+	2800 4050 2800 4150
+Connection ~ 2800 4050
+Wire Wire Line
+	5950 4050 5950 4150
+Wire Wire Line
+	6150 3200 6150 3250
+Wire Wire Line
+	5950 4150 5950 4250
+Connection ~ 5950 4150
+Wire Wire Line
+	7950 4250 7950 4050
+Wire Wire Line
+	8550 4250 8550 4050
+Wire Wire Line
+	9150 4250 9150 4050
+Wire Wire Line
+	9750 4250 9750 4050
+Wire Wire Line
+	1800 3900 1800 4450
+Connection ~ 7000 2000
+Wire Wire Line
+	1800 2300 1300 2300
+Connection ~ 8200 2100
+Connection ~ 7600 2050
+Connection ~ 6400 1750
+Connection ~ 5800 1750
+Connection ~ 5200 1750
+Connection ~ 4600 1750
+Connection ~ 4000 1750
+Connection ~ 3400 1750
+Connection ~ 2800 1750
+Connection ~ 2200 1750
+Wire Wire Line
+	2050 2750 2700 2750
+Wire Wire Line
+	2050 2400 2050 2750
+Connection ~ 2700 2750
+Wire Wire Line
+	2700 2750 3300 2750
+Connection ~ 3300 2750
+Wire Wire Line
+	3300 2750 3900 2750
+Connection ~ 3900 2750
+Wire Wire Line
+	3900 2750 4500 2750
+Connection ~ 4500 2750
+Wire Wire Line
+	4500 2750 5100 2750
+Connection ~ 5100 2750
+Wire Wire Line
+	5100 2750 5700 2750
+Connection ~ 5700 2750
+Wire Wire Line
+	5700 2750 6300 2750
+Connection ~ 6300 2750
+Wire Wire Line
+	6300 2750 6900 2750
+Connection ~ 6900 2750
+Wire Wire Line
+	6900 2750 7500 2750
+Connection ~ 7500 2750
+Wire Wire Line
+	7500 2750 8100 2750
+Connection ~ 8100 2750
+Wire Wire Line
+	8100 2750 8700 2750
+Connection ~ 8700 2750
+Wire Wire Line
+	8700 2750 9300 2750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAADA0
+P 2500 2550
+F 0 "SW?" H 2500 2835 50  0000 C CNN
+F 1 "SW_Push" H 2500 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 2500 2750 50  0001 C CNN
+F 3 "" H 2500 2750 50  0001 C CNN
+	1    2500 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 2300 2550
+Wire Wire Line
+	2300 2550 2300 3250
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAB4EF
+P 3100 2550
+F 0 "SW?" H 3100 2835 50  0000 C CNN
+F 1 "SW_Push" H 3100 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 3100 2750 50  0001 C CNN
+F 3 "" H 3100 2750 50  0001 C CNN
+	1    3100 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 2900 2550
+Wire Wire Line
+	2900 2550 2900 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAB5F7
+P 3700 2550
+F 0 "SW?" H 3700 2835 50  0000 C CNN
+F 1 "SW_Push" H 3700 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 3700 2750 50  0001 C CNN
+F 3 "" H 3700 2750 50  0001 C CNN
+	1    3700 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 3500 2550
+Wire Wire Line
+	3500 2550 3500 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAB6FB
+P 4300 2550
+F 0 "SW?" H 4300 2835 50  0000 C CNN
+F 1 "SW_Push" H 4300 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 4300 2750 50  0001 C CNN
+F 3 "" H 4300 2750 50  0001 C CNN
+	1    4300 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 4100 2550
+Wire Wire Line
+	4100 2550 4100 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAB805
+P 4900 2550
+F 0 "SW?" H 4900 2835 50  0000 C CNN
+F 1 "SW_Push" H 4900 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 4900 2750 50  0001 C CNN
+F 3 "" H 4900 2750 50  0001 C CNN
+	1    4900 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 4700 2550
+Wire Wire Line
+	4700 2550 4700 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDABDEA
+P 5500 2550
+F 0 "SW?" H 5500 2835 50  0000 C CNN
+F 1 "SW_Push" H 5500 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 5500 2750 50  0001 C CNN
+F 3 "" H 5500 2750 50  0001 C CNN
+	1    5500 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 5300 2550
+Wire Wire Line
+	5300 2550 5300 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAC5AC
+P 6100 2550
+F 0 "SW?" H 6100 2835 50  0000 C CNN
+F 1 "SW_Push" H 6100 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 6100 2750 50  0001 C CNN
+F 3 "" H 6100 2750 50  0001 C CNN
+	1    6100 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 5900 2550
+Wire Wire Line
+	5900 2550 5900 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDAC6B6
+P 6700 2550
+F 0 "SW?" H 6700 2835 50  0000 C CNN
+F 1 "SW_Push" H 6700 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 6700 2750 50  0001 C CNN
+F 3 "" H 6700 2750 50  0001 C CNN
+	1    6700 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 6500 2550
+Wire Wire Line
+	6500 2550 6500 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDACCBC
+P 7300 2550
+F 0 "SW?" H 7300 2835 50  0000 C CNN
+F 1 "SW_Push" H 7300 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 7300 2750 50  0001 C CNN
+F 3 "" H 7300 2750 50  0001 C CNN
+	1    7300 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 7100 2550
+Wire Wire Line
+	7100 2550 7100 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDACDCC
+P 7900 2550
+F 0 "SW?" H 7900 2835 50  0000 C CNN
+F 1 "SW_Push" H 7900 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 7900 2750 50  0001 C CNN
+F 3 "" H 7900 2750 50  0001 C CNN
+	1    7900 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 7700 2550
+Wire Wire Line
+	7700 2550 7700 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDACEE4
+P 8500 2550
+F 0 "SW?" H 8500 2835 50  0000 C CNN
+F 1 "SW_Push" H 8500 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 8500 2750 50  0001 C CNN
+F 3 "" H 8500 2750 50  0001 C CNN
+	1    8500 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 8300 2550
+Wire Wire Line
+	8300 2550 8300 3200
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDACFF8
+P 9100 2550
+F 0 "SW?" H 9100 2835 50  0000 C CNN
+F 1 "SW_Push" H 9100 2744 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 9100 2750 50  0001 C CNN
+F 3 "" H 9100 2750 50  0001 C CNN
+	1    9100 2550
+	1    0    0    -1  
+$EndComp
+Connection ~ 8900 2550
+Wire Wire Line
+	8900 2550 8900 3200
+Wire Wire Line
+	3300 2450 3300 2550
+Connection ~ 3300 2550
+Wire Wire Line
+	3900 2450 3900 2550
+Connection ~ 3900 2550
+Wire Wire Line
+	4500 2550 4500 2450
+Connection ~ 4500 2550
+Wire Wire Line
+	5100 2450 5100 2550
+Connection ~ 5100 2550
+Wire Wire Line
+	5700 2450 5700 2550
+Connection ~ 5700 2550
+Wire Wire Line
+	6300 2450 6300 2550
+Connection ~ 6300 2550
+Wire Wire Line
+	6900 2450 6900 2550
+Connection ~ 6900 2550
+Wire Wire Line
+	7500 2450 7500 2550
+Connection ~ 7500 2550
+Wire Wire Line
+	8100 2450 8100 2550
+Connection ~ 8100 2550
+Wire Wire Line
+	8700 2450 8700 2550
+Connection ~ 8700 2550
+Wire Wire Line
+	9300 2450 9300 2550
+Connection ~ 9300 2550
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CEA5D05
+P 9000 1650
+F 0 "SW?" H 9000 1935 50  0000 C CNN
+F 1 "SW_Push" H 9000 1844 50  0000 C CNN
+F 2 "" H 9000 1850 50  0001 C CNN
+F 3 "" H 9000 1850 50  0001 C CNN
+	1    9000 1650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8800 1650 8800 1750
+Connection ~ 8800 1750
+Wire Wire Line
+	9200 1650 9200 1750
+Connection ~ 9200 1750
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CED4D93
+P 9450 3150
+F 0 "SW?" H 9450 3435 50  0000 C CNN
+F 1 "SW_Push" H 9450 3344 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.25u_Plate" H 9450 3350 50  0001 C CNN
+F 3 "" H 9450 3350 50  0001 C CNN
+	1    9450 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 3150 9250 3200
+Connection ~ 9250 3200
+Wire Wire Line
+	9650 3150 9650 3250
+Connection ~ 9650 3250
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5C4657EF
+P 6350 3250
+F 0 "SW25" H 6350 3535 50  0000 C CNN
+F 1 "SW_Push" H 6350 3444 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX1A_1.00u_Plate" H 6350 3450 50  0001 C CNN
+F 3 "" H 6350 3450 50  0001 C CNN
+	1    6350 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L TG4x-rescue:1N4148-mod_1n148 D?
+U 1 1 5CF4B550
+P 5350 4350
+F 0 "D?" V 5396 4271 50  0000 R CNN
+F 1 "1N4148" V 5305 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5350 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5350 4350 50  0001 C CNN
+	1    5350 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CF4C09D
+P 5150 4150
+F 0 "SW?" H 5150 4435 50  0000 C CNN
+F 1 "SW_Push" H 5150 4344 50  0000 C CNN
+F 2 "" H 5150 4350 50  0001 C CNN
+F 3 "" H 5150 4350 50  0001 C CNN
+	1    5150 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 4250 5350 4150
+Wire Wire Line
+	4950 4150 4950 3250
+Connection ~ 4950 3250
+Connection ~ 5350 4450
+Wire Wire Line
+	5350 4450 5950 4450
+Wire Wire Line
+	3800 4450 5350 4450
+$Comp
+L TG4x-rescue:1N4148-mod_1n148 D?
+U 1 1 5CF91A11
+P 6550 4350
+F 0 "D?" V 6596 4271 50  0000 R CNN
+F 1 "1N4148" V 6505 4271 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 6550 4175 50  0001 C CNN
+F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 6550 4350 50  0001 C CNN
+	1    6550 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CF91A17
+P 6350 4150
+F 0 "SW?" H 6350 4435 50  0000 C CNN
+F 1 "SW_Push" H 6350 4344 50  0000 C CNN
+F 2 "" H 6350 4350 50  0001 C CNN
+F 3 "" H 6350 4350 50  0001 C CNN
+	1    6350 4150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6550 4250 6550 4150
+Wire Wire Line
+	6150 4150 6150 3250
+Connection ~ 6150 3250
+Connection ~ 6550 4450
+Wire Wire Line
+	6550 4450 7950 4450
+Connection ~ 5950 4450
+Wire Wire Line
+	5950 4450 6550 4450
+Wire Wire Line
+	5550 4050 5550 4150
+Connection ~ 5550 4050
 $EndSCHEMATC
