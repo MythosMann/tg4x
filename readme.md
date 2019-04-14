@@ -1,9 +1,9 @@
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/DSC_0726.JPG)
 ## Summary:
 
-Basically, this would be a ~$30-40 qmk powered, open source 40% keyboard using parts from a TG3, or "cop car" keyboard. The name comes from the fact that it's a step up (TG4>TG3), but also that it's a 40%(think 4x%). Since the TG3's are so cheap, and they come with switches (mx blacks, too), caps, and plates, they're a great start for a handwired build. However, not many people have the time or resources to make a handwired build.
-
-I wanted to make something that's more fun than buying a Redragon k552, but at the same price point. My goal for this project is to create a great entry point into the wonderful world of keebs. I also might call it the U.C.Kb, for Ultimate College Keyboard. This comes from the price, and the portability.
+Basically, this would be a ~$30-40 qmk powered, open source mechanical keyboard.  There are basically two ways to build it.
+-The first way is using parts from a tg3 "cop car" keyboard. That's where the name comes from, since originally it only supported the tg3 layout. The tg3 keyboards cost about $20, and come with keycaps, switches, and plates.  You need to disassamble and mod the tg3.
+-The other way to build it is by using keycaps from your average 108 keycap set.  You would need to get custom plates cut, or somehow do without.  It supports several different bottom row configs, with a 6.25 space and split space option.  This way would be a bit more expensive, because you'd need to find keycaps, switches, and plates.
 ![KLE layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/kle-layout.png)
 ## The base (TG3):
 
