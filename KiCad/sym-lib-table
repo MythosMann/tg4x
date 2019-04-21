@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name mod_1n148)(type Legacy)(uri Q:/Documents/kicad/TG4x/mod_1n148.lib)(options "")(descr ""))
   (lib (name TG4x-rescue)(type Legacy)(uri ${KIPRJMOD}/TG4x-rescue.lib)(options "")(descr ""))
+  (lib (name Keebio)(type Legacy)(uri C:/Users/isaac/Downloads/keebio-components/keebio.lib)(options "")(descr ""))
 )

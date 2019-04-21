@@ -29,474 +29,474 @@ Text Notes 3650 700  0    50   ~ 0
 Text Notes 4250 700  0    50   ~ 0
 6
 $Comp
-L Switch:SW_Push SW2
+L Switch:SW_Push SW1
 U 1 1 5C4637D0
 P 900 1000
-F 0 "SW2" H 900 1285 50  0000 C CNN
+F 0 "SW1" H 900 1285 50  0000 C CNN
 F 1 "SW_Push" H 900 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 900 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 1200 50  0001 C CNN
 F 3 "" H 900 1200 50  0001 C CNN
 	1    900  1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW4
+L Switch:SW_Push SW3
 U 1 1 5C4639AE
 P 2100 1000
-F 0 "SW4" H 2100 1285 50  0000 C CNN
+F 0 "SW3" H 2100 1285 50  0000 C CNN
 F 1 "SW_Push" H 2100 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2100 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 1200 50  0001 C CNN
 F 3 "" H 2100 1200 50  0001 C CNN
 	1    2100 1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW42
+L Switch:SW_Push SW28
 U 1 1 5C4639CE
 P 2450 2500
-F 0 "SW42" H 2450 2785 50  0000 C CNN
+F 0 "SW28" H 2450 2785 50  0000 C CNN
 F 1 "SW_Push" H 2450 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2450 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2450 2700 50  0001 C CNN
 F 3 "" H 2450 2700 50  0001 C CNN
 	1    2450 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW52
+L Switch:SW_Push SW38a
 U 1 1 5C4639FA
 P 900 3300
-F 0 "SW52" H 900 3585 50  0000 C CNN
+F 0 "SW38a" H 900 3585 50  0000 C CNN
 F 1 "SW_Push" H 900 3494 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 900 3500 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 3500 50  0001 C CNN
 F 3 "" H 900 3500 50  0001 C CNN
 	1    900  3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW3
+L Switch:SW_Push SW2
 U 1 1 5C463A34
 P 1500 1000
-F 0 "SW3" H 1500 1285 50  0000 C CNN
+F 0 "SW2" H 1500 1285 50  0000 C CNN
 F 1 "SW_Push" H 1500 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1500 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 1200 50  0001 C CNN
 F 3 "" H 1500 1200 50  0001 C CNN
 	1    1500 1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW17
+L Switch:SW_Push SW16a
 U 1 1 5C463A64
 P 2200 1700
-F 0 "SW17" H 2200 1985 50  0000 C CNN
+F 0 "SW16a" H 2200 1985 50  0000 C CNN
 F 1 "SW_Push" H 2200 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2200 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 1900 50  0001 C CNN
 F 3 "" H 2200 1900 50  0001 C CNN
 	1    2200 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW41
+L Switch:SW_Push SW27
 U 1 1 5C463A90
 P 1850 2500
-F 0 "SW41" H 1850 2785 50  0000 C CNN
+F 0 "SW27" H 1850 2785 50  0000 C CNN
 F 1 "SW_Push" H 1850 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1850 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 2700 50  0001 C CNN
 F 3 "" H 1850 2700 50  0001 C CNN
 	1    1850 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW40
+L Switch:SW_Push SW26
 U 1 1 5C463AC8
 P 1150 2500
-F 0 "SW40" H 1150 2785 50  0000 C CNN
+F 0 "SW26" H 1150 2785 50  0000 C CNN
 F 1 "SW_Push" H 1150 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1150 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1150 2700 50  0001 C CNN
 F 3 "" H 1150 2700 50  0001 C CNN
 	1    1150 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW15
+L Switch:SW_Push SW14a
 U 1 1 5C463AEA
 P 1000 1700
-F 0 "SW15" H 1000 1985 50  0000 C CNN
+F 0 "SW14a" H 1000 1985 50  0000 C CNN
 F 1 "SW_Push" H 1000 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1000 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 1900 50  0001 C CNN
 F 3 "" H 1000 1900 50  0001 C CNN
 	1    1000 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW16
+L Switch:SW_Push SW15a
 U 1 1 5C463B0C
 P 1600 1700
-F 0 "SW16" H 1600 1985 50  0000 C CNN
+F 0 "SW15a" H 1600 1985 50  0000 C CNN
 F 1 "SW_Push" H 1600 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1600 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 1900 50  0001 C CNN
 F 3 "" H 1600 1900 50  0001 C CNN
 	1    1600 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW53
+L Switch:SW_Push SW39a
 U 1 1 5C463B30
 P 1500 3300
-F 0 "SW53" H 1500 3585 50  0000 C CNN
+F 0 "SW39a" H 1500 3585 50  0000 C CNN
 F 1 "SW_Push" H 1500 3494 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1500 3500 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 3500 50  0001 C CNN
 F 3 "" H 1500 3500 50  0001 C CNN
 	1    1500 3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW54
+L Switch:SW_Push SW40a
 U 1 1 5C463B6C
 P 2100 3300
-F 0 "SW54" H 2100 3585 50  0000 C CNN
+F 0 "SW40a" H 2100 3585 50  0000 C CNN
 F 1 "SW_Push" H 2100 3494 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2100 3500 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 3500 50  0001 C CNN
 F 3 "" H 2100 3500 50  0001 C CNN
 	1    2100 3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW5
+L Switch:SW_Push SW4
 U 1 1 5C4641C9
 P 2700 1000
-F 0 "SW5" H 2700 1285 50  0000 C CNN
+F 0 "SW4" H 2700 1285 50  0000 C CNN
 F 1 "SW_Push" H 2700 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2700 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2700 1200 50  0001 C CNN
 F 3 "" H 2700 1200 50  0001 C CNN
 	1    2700 1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW18
+L Switch:SW_Push SW17a
 U 1 1 5C464209
 P 2800 1700
-F 0 "SW18" H 2800 1985 50  0000 C CNN
+F 0 "SW17a" H 2800 1985 50  0000 C CNN
 F 1 "SW_Push" H 2800 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2800 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 1900 50  0001 C CNN
 F 3 "" H 2800 1900 50  0001 C CNN
 	1    2800 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW43
+L Switch:SW_Push SW29
 U 1 1 5C464251
 P 3050 2500
-F 0 "SW43" H 3050 2785 50  0000 C CNN
+F 0 "SW29" H 3050 2785 50  0000 C CNN
 F 1 "SW_Push" H 3050 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3050 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3050 2700 50  0001 C CNN
 F 3 "" H 3050 2700 50  0001 C CNN
 	1    3050 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW44
+L Switch:SW_Push SW30
 U 1 1 5C4642B9
 P 3650 2500
-F 0 "SW44" H 3650 2785 50  0000 C CNN
+F 0 "SW30" H 3650 2785 50  0000 C CNN
 F 1 "SW_Push" H 3650 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3650 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3650 2700 50  0001 C CNN
 F 3 "" H 3650 2700 50  0001 C CNN
 	1    3650 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW19
+L Switch:SW_Push SW18a
 U 1 1 5C464343
 P 3400 1700
-F 0 "SW19" H 3400 1985 50  0000 C CNN
+F 0 "SW18a" H 3400 1985 50  0000 C CNN
 F 1 "SW_Push" H 3400 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3400 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 1900 50  0001 C CNN
 F 3 "" H 3400 1900 50  0001 C CNN
 	1    3400 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW6
+L Switch:SW_Push SW5
 U 1 1 5C464391
 P 3300 1000
-F 0 "SW6" H 3300 1285 50  0000 C CNN
+F 0 "SW5" H 3300 1285 50  0000 C CNN
 F 1 "SW_Push" H 3300 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3300 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3300 1200 50  0001 C CNN
 F 3 "" H 3300 1200 50  0001 C CNN
 	1    3300 1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW7
+L Switch:SW_Push SW6
 U 1 1 5C4643D9
 P 3900 1000
-F 0 "SW7" H 3900 1285 50  0000 C CNN
+F 0 "SW6" H 3900 1285 50  0000 C CNN
 F 1 "SW_Push" H 3900 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3900 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3900 1200 50  0001 C CNN
 F 3 "" H 3900 1200 50  0001 C CNN
 	1    3900 1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW20
+L Switch:SW_Push SW19a
 U 1 1 5C464429
 P 4000 1700
-F 0 "SW20" H 4000 1985 50  0000 C CNN
+F 0 "SW19a" H 4000 1985 50  0000 C CNN
 F 1 "SW_Push" H 4000 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4000 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4000 1900 50  0001 C CNN
 F 3 "" H 4000 1900 50  0001 C CNN
 	1    4000 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW45
+L Switch:SW_Push SW31
 U 1 1 5C464475
 P 4250 2500
-F 0 "SW45" H 4250 2785 50  0000 C CNN
+F 0 "SW31" H 4250 2785 50  0000 C CNN
 F 1 "SW_Push" H 4250 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4250 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 2700 50  0001 C CNN
 F 3 "" H 4250 2700 50  0001 C CNN
 	1    4250 2500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW55
+L Switch:SW_Push SW42b
 U 1 1 5C4644C3
 P 4250 3300
-F 0 "SW55" H 4250 3585 50  0000 C CNN
+F 0 "SW42b" H 4250 3585 50  0000 C CNN
 F 1 "SW_Push" H 4250 3494 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4250 3500 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 3500 50  0001 C CNN
 F 3 "" H 4250 3500 50  0001 C CNN
 	1    4250 3300
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW21
+L Switch:SW_Push SW20a
 U 1 1 5C465843
 P 4600 1700
-F 0 "SW21" H 4600 1985 50  0000 C CNN
+F 0 "SW20a" H 4600 1985 50  0000 C CNN
 F 1 "SW_Push" H 4600 1894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4600 1900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4600 1900 50  0001 C CNN
 F 3 "" H 4600 1900 50  0001 C CNN
 	1    4600 1700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW8
+L Switch:SW_Push SW7
 U 1 1 5C465899
 P 4500 1000
-F 0 "SW8" H 4500 1285 50  0000 C CNN
+F 0 "SW7" H 4500 1285 50  0000 C CNN
 F 1 "SW_Push" H 4500 1194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4500 1200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4500 1200 50  0001 C CNN
 F 3 "" H 4500 1200 50  0001 C CNN
 	1    4500 1000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW9
+L Switch:SW_Push SW8
 U 1 1 5C4658F9
 P 900 4200
-F 0 "SW9" H 900 4485 50  0000 C CNN
+F 0 "SW8" H 900 4485 50  0000 C CNN
 F 1 "SW_Push" H 900 4394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 900 4400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 4400 50  0001 C CNN
 F 3 "" H 900 4400 50  0001 C CNN
 	1    900  4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW22
+L Switch:SW_Push SW21a
 U 1 1 5C46594F
 P 1000 4900
-F 0 "SW22" H 1000 5185 50  0000 C CNN
+F 0 "SW21a" H 1000 5185 50  0000 C CNN
 F 1 "SW_Push" H 1000 5094 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1000 5100 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 5100 50  0001 C CNN
 F 3 "" H 1000 5100 50  0001 C CNN
 	1    1000 4900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW47
+L Switch:SW_Push SW33
 U 1 1 5C4659A9
 P 1250 5700
-F 0 "SW47" H 1250 5985 50  0000 C CNN
+F 0 "SW33" H 1250 5985 50  0000 C CNN
 F 1 "SW_Push" H 1250 5894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1250 5900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1250 5900 50  0001 C CNN
 F 3 "" H 1250 5900 50  0001 C CNN
 	1    1250 5700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW10
+L Switch:SW_Push SW9
 U 1 1 5C465A07
 P 1500 4200
-F 0 "SW10" H 1500 4485 50  0000 C CNN
+F 0 "SW9" H 1500 4485 50  0000 C CNN
 F 1 "SW_Push" H 1500 4394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1500 4400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 4400 50  0001 C CNN
 F 3 "" H 1500 4400 50  0001 C CNN
 	1    1500 4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW23
+L Switch:SW_Push SW22a
 U 1 1 5C465A6B
 P 1600 4900
-F 0 "SW23" H 1600 5185 50  0000 C CNN
+F 0 "SW22a" H 1600 5185 50  0000 C CNN
 F 1 "SW_Push" H 1600 5094 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1600 5100 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 5100 50  0001 C CNN
 F 3 "" H 1600 5100 50  0001 C CNN
 	1    1600 4900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW48
+L Switch:SW_Push SW34
 U 1 1 5C465ACB
 P 1850 5700
-F 0 "SW48" H 1850 5985 50  0000 C CNN
+F 0 "SW34" H 1850 5985 50  0000 C CNN
 F 1 "SW_Push" H 1850 5894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1850 5900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 5900 50  0001 C CNN
 F 3 "" H 1850 5900 50  0001 C CNN
 	1    1850 5700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW11
+L Switch:SW_Push SW10
 U 1 1 5C465B95
 P 2100 4200
-F 0 "SW11" H 2100 4485 50  0000 C CNN
+F 0 "SW10" H 2100 4485 50  0000 C CNN
 F 1 "SW_Push" H 2100 4394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2100 4400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 4400 50  0001 C CNN
 F 3 "" H 2100 4400 50  0001 C CNN
 	1    2100 4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW24
+L Switch:SW_Push SW23a
 U 1 1 5C465BFF
 P 2200 4900
-F 0 "SW24" H 2200 5185 50  0000 C CNN
+F 0 "SW23a" H 2200 5185 50  0000 C CNN
 F 1 "SW_Push" H 2200 5094 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2200 5100 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 5100 50  0001 C CNN
 F 3 "" H 2200 5100 50  0001 C CNN
 	1    2200 4900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW49
+L Switch:SW_Push SW35
 U 1 1 5C465C69
 P 2450 5700
-F 0 "SW49" H 2450 5985 50  0000 C CNN
+F 0 "SW35" H 2450 5985 50  0000 C CNN
 F 1 "SW_Push" H 2450 5894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2450 5900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2450 5900 50  0001 C CNN
 F 3 "" H 2450 5900 50  0001 C CNN
 	1    2450 5700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW57
+L Switch:SW_Push SW44
 U 1 1 5C465CD3
 P 2450 6500
-F 0 "SW57" H 2450 6785 50  0000 C CNN
+F 0 "SW44" H 2450 6785 50  0000 C CNN
 F 1 "SW_Push" H 2450 6694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2450 6700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2450 6700 50  0001 C CNN
 F 3 "" H 2450 6700 50  0001 C CNN
 	1    2450 6500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW12
+L Switch:SW_Push SW11
 U 1 1 5C465D93
 P 2700 4200
-F 0 "SW12" H 2700 4485 50  0000 C CNN
+F 0 "SW11" H 2700 4485 50  0000 C CNN
 F 1 "SW_Push" H 2700 4394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2700 4400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2700 4400 50  0001 C CNN
 F 3 "" H 2700 4400 50  0001 C CNN
 	1    2700 4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW25
+L Switch:SW_Push SW24a
 U 1 1 5C465E03
 P 2800 4900
-F 0 "SW25" H 2800 5185 50  0000 C CNN
+F 0 "SW24a" H 2800 5185 50  0000 C CNN
 F 1 "SW_Push" H 2800 5094 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2800 5100 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 5100 50  0001 C CNN
 F 3 "" H 2800 5100 50  0001 C CNN
 	1    2800 4900
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW50
+L Switch:SW_Push SW36
 U 1 1 5C465E7D
 P 3050 5700
-F 0 "SW50" H 3050 5985 50  0000 C CNN
+F 0 "SW36" H 3050 5985 50  0000 C CNN
 F 1 "SW_Push" H 3050 5894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3050 5900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3050 5900 50  0001 C CNN
 F 3 "" H 3050 5900 50  0001 C CNN
 	1    3050 5700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW58
+L Switch:SW_Push SW45
 U 1 1 5C465EF1
 P 3050 6500
-F 0 "SW58" H 3050 6785 50  0000 C CNN
+F 0 "SW45" H 3050 6785 50  0000 C CNN
 F 1 "SW_Push" H 3050 6694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3050 6700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3050 6700 50  0001 C CNN
 F 3 "" H 3050 6700 50  0001 C CNN
 	1    3050 6500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW59
+L Switch:SW_Push SW46
 U 1 1 5C465F6B
 P 3650 6500
-F 0 "SW59" H 3650 6785 50  0000 C CNN
+F 0 "SW46" H 3650 6785 50  0000 C CNN
 F 1 "SW_Push" H 3650 6694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3650 6700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3650 6700 50  0001 C CNN
 F 3 "" H 3650 6700 50  0001 C CNN
 	1    3650 6500
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW51
+L Switch:SW_Push SW37b
 U 1 1 5C465FE5
 P 3750 5700
-F 0 "SW51" H 3750 5985 50  0000 C CNN
+F 0 "SW37b" H 3750 5985 50  0000 C CNN
 F 1 "SW_Push" H 3750 5894 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3750 5900 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3750 5900 50  0001 C CNN
 F 3 "" H 3750 5900 50  0001 C CNN
 	1    3750 5700
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW14
+L Switch:SW_Push SW13
 U 1 1 5C4660EC
 P 3900 4200
-F 0 "SW14" H 3900 4485 50  0000 C CNN
+F 0 "SW13" H 3900 4485 50  0000 C CNN
 F 1 "SW_Push" H 3900 4394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3900 4400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3900 4400 50  0001 C CNN
 F 3 "" H 3900 4400 50  0001 C CNN
 	1    3900 4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW13
+L Switch:SW_Push SW12b
 U 1 1 5C46618E
 P 3300 4200
-F 0 "SW13" H 3300 4485 50  0000 C CNN
+F 0 "SW12b" H 3300 4485 50  0000 C CNN
 F 1 "SW_Push" H 3300 4394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3300 4400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3300 4400 50  0001 C CNN
 F 3 "" H 3300 4400 50  0001 C CNN
 	1    3300 4200
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW26
+L Switch:SW_Push SW25a
 U 1 1 5C466330
 P 3400 4900
-F 0 "SW26" H 3400 5185 50  0000 C CNN
+F 0 "SW25a" H 3400 5185 50  0000 C CNN
 F 1 "SW_Push" H 3400 5094 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3400 5100 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 5100 50  0001 C CNN
 F 3 "" H 3400 5100 50  0001 C CNN
 	1    3400 4900
 	1    0    0    -1  
@@ -533,12 +533,12 @@ Wire Wire Line
 Wire Wire Line
 	1900 4900 2000 4900
 $Comp
-L Switch:SW_Push SW56
+L Switch:SW_Push SW43a
 U 1 1 5C465B2F
 P 1850 6500
-F 0 "SW56" H 1850 6785 50  0000 C CNN
+F 0 "SW43a" H 1850 6785 50  0000 C CNN
 F 1 "SW_Push" H 1850 6694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1850 6700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 6700 50  0001 C CNN
 F 3 "" H 1850 6700 50  0001 C CNN
 	1    1850 6500
 	1    0    0    -1  
@@ -867,10 +867,10 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2050 5800 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D44
+L TG4x-rescue:1N4148-mod_1n148 D43
 U 1 1 5C48E846
 P 2050 6800
-F 0 "D44" V 2096 6721 50  0000 R CNN
+F 0 "D43" V 2096 6721 50  0000 R CNN
 F 1 "1N4148" V 2005 6721 50  0000 R CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2050 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2050 6800 50  0001 C CNN
@@ -933,10 +933,10 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2900 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D45
+L TG4x-rescue:1N4148-mod_1n148 D44
 U 1 1 5C48ECF8
 P 2650 6800
-F 0 "D45" V 2696 6721 50  0000 R CNN
+F 0 "D44" V 2696 6721 50  0000 R CNN
 F 1 "1N4148" V 2605 6721 50  0000 R CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2650 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 6800 50  0001 C CNN
@@ -999,10 +999,10 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3500 4300 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D46
+L TG4x-rescue:1N4148-mod_1n148 D45
 U 1 1 5C493D8E
 P 3250 6800
-F 0 "D46" V 3296 6721 50  0000 R CNN
+F 0 "D45" V 3296 6721 50  0000 R CNN
 F 1 "1N4148" V 3205 6721 50  0000 R CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3250 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 6800 50  0001 C CNN
@@ -1010,10 +1010,10 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 6800 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L TG4x-rescue:1N4148-mod_1n148 D47
+L TG4x-rescue:1N4148-mod_1n148 D46
 U 1 1 5C493E82
 P 3850 6800
-F 0 "D47" V 3896 6721 50  0000 R CNN
+F 0 "D46" V 3896 6721 50  0000 R CNN
 F 1 "1N4148" V 3805 6721 50  0000 R CNN
 F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 6800 50  0001 C CNN
@@ -1225,45 +1225,45 @@ Wire Wire Line
 Wire Wire Line
 	700  4200 700  4900
 $Comp
-L Switch:SW_Push SW60
+L Switch:SW_Push SW38b
 U 1 1 5C9FE71B
 P 900 3400
-F 0 "SW60" H 900 3685 50  0000 C CNN
+F 0 "SW38b" H 900 3685 50  0000 C CNN
 F 1 "SW_Push" H 900 3594 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 900 3600 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 3600 50  0001 C CNN
 F 3 "" H 900 3600 50  0001 C CNN
 	1    900  3400
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW61
+L Switch:SW_Push SW39b
 U 1 1 5C9FE82F
 P 1500 3400
-F 0 "SW61" H 1500 3685 50  0000 C CNN
+F 0 "SW39b" H 1500 3685 50  0000 C CNN
 F 1 "SW_Push" H 1500 3594 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1500 3600 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 3600 50  0001 C CNN
 F 3 "" H 1500 3600 50  0001 C CNN
 	1    1500 3400
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW62
+L Switch:SW_Push SW40b
 U 1 1 5C9FE921
 P 2100 3400
-F 0 "SW62" H 2100 3685 50  0000 C CNN
+F 0 "SW40b" H 2100 3685 50  0000 C CNN
 F 1 "SW_Push" H 2100 3594 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2100 3600 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 3600 50  0001 C CNN
 F 3 "" H 2100 3600 50  0001 C CNN
 	1    2100 3400
 	1    0    0    -1  
 $EndComp
 $Comp
-L Switch:SW_Push SW64
+L Switch:SW_Push SW42c
 U 1 1 5CA00DD3
 P 4250 3400
-F 0 "SW64" H 4250 3685 50  0000 C CNN
+F 0 "SW42c" H 4250 3685 50  0000 C CNN
 F 1 "SW_Push" H 4250 3594 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4250 3600 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 3600 50  0001 C CNN
 F 3 "" H 4250 3600 50  0001 C CNN
 	1    4250 3400
 	1    0    0    -1  
@@ -1284,8 +1284,6 @@ Wire Wire Line
 Wire Wire Line
 	1900 3300 1900 3400
 Connection ~ 1900 3300
-Wire Wire Line
-	1300 3300 1300 3400
 Connection ~ 1300 3300
 Wire Wire Line
 	4450 3300 4450 3400
@@ -1329,12 +1327,12 @@ Connection ~ 3000 5200
 Wire Wire Line
 	3000 5200 3600 5200
 $Comp
-L Switch:SW_Push SW27
+L Switch:SW_Push SW14b
 U 1 1 5CDAADA0
 P 1000 1800
-F 0 "SW27" H 1000 2085 50  0000 C CNN
+F 0 "SW14b" H 1000 2085 50  0000 C CNN
 F 1 "SW_Push" H 1000 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1000 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 2000 50  0001 C CNN
 F 3 "" H 1000 2000 50  0001 C CNN
 	1    1000 1800
 	1    0    0    -1  
@@ -1343,12 +1341,12 @@ Connection ~ 800  1800
 Wire Wire Line
 	800  1800 800  2500
 $Comp
-L Switch:SW_Push SW28
+L Switch:SW_Push SW15b
 U 1 1 5CDAB4EF
 P 1600 1800
-F 0 "SW28" H 1600 2085 50  0000 C CNN
+F 0 "SW15b" H 1600 2085 50  0000 C CNN
 F 1 "SW_Push" H 1600 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1600 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 2000 50  0001 C CNN
 F 3 "" H 1600 2000 50  0001 C CNN
 	1    1600 1800
 	1    0    0    -1  
@@ -1357,12 +1355,12 @@ Connection ~ 1400 1800
 Wire Wire Line
 	1400 1800 1400 2450
 $Comp
-L Switch:SW_Push SW29
+L Switch:SW_Push SW16b
 U 1 1 5CDAB5F7
 P 2200 1800
-F 0 "SW29" H 2200 2085 50  0000 C CNN
+F 0 "SW16b" H 2200 2085 50  0000 C CNN
 F 1 "SW_Push" H 2200 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2200 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 2000 50  0001 C CNN
 F 3 "" H 2200 2000 50  0001 C CNN
 	1    2200 1800
 	1    0    0    -1  
@@ -1371,12 +1369,12 @@ Connection ~ 2000 1800
 Wire Wire Line
 	2000 1800 2000 2450
 $Comp
-L Switch:SW_Push SW30
+L Switch:SW_Push SW17b
 U 1 1 5CDAB6FB
 P 2800 1800
-F 0 "SW30" H 2800 2085 50  0000 C CNN
+F 0 "SW17b" H 2800 2085 50  0000 C CNN
 F 1 "SW_Push" H 2800 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2800 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 2000 50  0001 C CNN
 F 3 "" H 2800 2000 50  0001 C CNN
 	1    2800 1800
 	1    0    0    -1  
@@ -1385,12 +1383,12 @@ Connection ~ 2600 1800
 Wire Wire Line
 	2600 1800 2600 2450
 $Comp
-L Switch:SW_Push SW31
+L Switch:SW_Push SW18b
 U 1 1 5CDAB805
 P 3400 1800
-F 0 "SW31" H 3400 2085 50  0000 C CNN
+F 0 "SW18b" H 3400 2085 50  0000 C CNN
 F 1 "SW_Push" H 3400 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3400 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 2000 50  0001 C CNN
 F 3 "" H 3400 2000 50  0001 C CNN
 	1    3400 1800
 	1    0    0    -1  
@@ -1399,12 +1397,12 @@ Connection ~ 3200 1800
 Wire Wire Line
 	3200 1800 3200 2450
 $Comp
-L Switch:SW_Push SW32
+L Switch:SW_Push SW19b
 U 1 1 5CDABDEA
 P 4000 1800
-F 0 "SW32" H 4000 2085 50  0000 C CNN
+F 0 "SW19b" H 4000 2085 50  0000 C CNN
 F 1 "SW_Push" H 4000 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4000 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4000 2000 50  0001 C CNN
 F 3 "" H 4000 2000 50  0001 C CNN
 	1    4000 1800
 	1    0    0    -1  
@@ -1413,12 +1411,12 @@ Connection ~ 3800 1800
 Wire Wire Line
 	3800 1800 3800 2450
 $Comp
-L Switch:SW_Push SW33
+L Switch:SW_Push SW20b
 U 1 1 5CDAC5AC
 P 4600 1800
-F 0 "SW33" H 4600 2085 50  0000 C CNN
+F 0 "SW20b" H 4600 2085 50  0000 C CNN
 F 1 "SW_Push" H 4600 1994 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4600 2000 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4600 2000 50  0001 C CNN
 F 3 "" H 4600 2000 50  0001 C CNN
 	1    4600 1800
 	1    0    0    -1  
@@ -1427,12 +1425,12 @@ Connection ~ 4400 1800
 Wire Wire Line
 	4400 1800 4400 2450
 $Comp
-L Switch:SW_Push SW34
+L Switch:SW_Push SW21b
 U 1 1 5CDAC6B6
 P 1000 5000
-F 0 "SW34" H 1000 5285 50  0000 C CNN
+F 0 "SW21b" H 1000 5285 50  0000 C CNN
 F 1 "SW_Push" H 1000 5194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1000 5200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 5200 50  0001 C CNN
 F 3 "" H 1000 5200 50  0001 C CNN
 	1    1000 5000
 	1    0    0    -1  
@@ -1441,12 +1439,12 @@ Connection ~ 800  5000
 Wire Wire Line
 	800  5000 800  5650
 $Comp
-L Switch:SW_Push SW35
+L Switch:SW_Push SW22b
 U 1 1 5CDACCBC
 P 1600 5000
-F 0 "SW35" H 1600 5285 50  0000 C CNN
+F 0 "SW22b" H 1600 5285 50  0000 C CNN
 F 1 "SW_Push" H 1600 5194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1600 5200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 5200 50  0001 C CNN
 F 3 "" H 1600 5200 50  0001 C CNN
 	1    1600 5000
 	1    0    0    -1  
@@ -1455,12 +1453,12 @@ Connection ~ 1400 5000
 Wire Wire Line
 	1400 5000 1400 5650
 $Comp
-L Switch:SW_Push SW36
+L Switch:SW_Push SW23b
 U 1 1 5CDACDCC
 P 2200 5000
-F 0 "SW36" H 2200 5285 50  0000 C CNN
+F 0 "SW23b" H 2200 5285 50  0000 C CNN
 F 1 "SW_Push" H 2200 5194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2200 5200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 5200 50  0001 C CNN
 F 3 "" H 2200 5200 50  0001 C CNN
 	1    2200 5000
 	1    0    0    -1  
@@ -1469,12 +1467,12 @@ Connection ~ 2000 5000
 Wire Wire Line
 	2000 5000 2000 5650
 $Comp
-L Switch:SW_Push SW37
+L Switch:SW_Push SW24b
 U 1 1 5CDACEE4
 P 2800 5000
-F 0 "SW37" H 2800 5285 50  0000 C CNN
+F 0 "SW24b" H 2800 5285 50  0000 C CNN
 F 1 "SW_Push" H 2800 5194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 2800 5200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 5200 50  0001 C CNN
 F 3 "" H 2800 5200 50  0001 C CNN
 	1    2800 5000
 	1    0    0    -1  
@@ -1483,12 +1481,12 @@ Connection ~ 2600 5000
 Wire Wire Line
 	2600 5000 2600 5650
 $Comp
-L Switch:SW_Push SW38
+L Switch:SW_Push SW25b
 U 1 1 5CDACFF8
 P 3400 5000
-F 0 "SW38" H 3400 5285 50  0000 C CNN
+F 0 "SW25b" H 3400 5285 50  0000 C CNN
 F 1 "SW_Push" H 3400 5194 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3400 5200 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 5200 50  0001 C CNN
 F 3 "" H 3400 5200 50  0001 C CNN
 	1    3400 5000
 	1    0    0    -1  
@@ -1529,12 +1527,12 @@ Wire Wire Line
 	3600 4900 3600 5000
 Connection ~ 3600 5000
 $Comp
-L Switch:SW_Push SW1
+L Switch:SW_Push SW12a
 U 1 1 5CEA5D05
 P 3300 4100
-F 0 "SW1" H 3300 4385 50  0000 C CNN
+F 0 "SW12a" H 3300 4385 50  0000 C CNN
 F 1 "SW_Push" H 3300 4294 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3300 4300 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3300 4300 50  0001 C CNN
 F 3 "" H 3300 4300 50  0001 C CNN
 	1    3300 4100
 	1    0    0    -1  
@@ -1546,12 +1544,12 @@ Wire Wire Line
 	3500 4100 3500 4200
 Connection ~ 3500 4200
 $Comp
-L Switch:SW_Push SW39
+L Switch:SW_Push SW37a
 U 1 1 5CED4D93
 P 3750 5600
-F 0 "SW39" H 3750 5885 50  0000 C CNN
+F 0 "SW37a" H 3750 5885 50  0000 C CNN
 F 1 "SW_Push" H 3750 5794 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3750 5800 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3750 5800 50  0001 C CNN
 F 3 "" H 3750 5800 50  0001 C CNN
 	1    3750 5600
 	1    0    0    -1  
@@ -1563,12 +1561,12 @@ Wire Wire Line
 	3950 5600 3950 5700
 Connection ~ 3950 5700
 $Comp
-L Switch:SW_Push SW46
+L Switch:SW_Push SW32
 U 1 1 5C4657EF
 P 4850 2500
-F 0 "SW46" H 4850 2785 50  0000 C CNN
+F 0 "SW32" H 4850 2785 50  0000 C CNN
 F 1 "SW_Push" H 4850 2694 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4850 2700 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4850 2700 50  0001 C CNN
 F 3 "" H 4850 2700 50  0001 C CNN
 	1    4850 2500
 	1    0    0    -1  
@@ -1585,12 +1583,12 @@ F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 3600 50  
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Switch:SW_Push SW63
+L Switch:SW_Push SW41
 U 1 1 5CF4C09D
 P 3650 3400
-F 0 "SW63" H 3650 3685 50  0000 C CNN
+F 0 "SW41" H 3650 3685 50  0000 C CNN
 F 1 "SW_Push" H 3650 3594 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 3650 3600 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 3650 3600 50  0001 C CNN
 F 3 "" H 3650 3600 50  0001 C CNN
 	1    3650 3400
 	1    0    0    -1  
@@ -1606,12 +1604,12 @@ Wire Wire Line
 Wire Wire Line
 	2300 3700 3850 3700
 $Comp
-L Switch:SW_Push SW65
+L Switch:SW_Push SW42a
 U 1 1 5CF91A17
 P 4250 3200
-F 0 "SW65" H 4250 3485 50  0000 C CNN
+F 0 "SW42a" H 4250 3485 50  0000 C CNN
 F 1 "SW_Push" H 4250 3394 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 4250 3400 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 3400 50  0001 C CNN
 F 3 "" H 4250 3400 50  0001 C CNN
 	1    4250 3200
 	1    0    0    -1  
@@ -1628,12 +1626,12 @@ TG4x
 Text Notes 10600 7650 0    50   ~ 0
 2.0\n
 $Comp
-L Switch:SW_Push SW66
+L Switch:SW_Push SW43b
 U 1 1 5C9BF58A
 P 1850 6600
-F 0 "SW66" H 1850 6885 50  0000 C CNN
+F 0 "SW43b" H 1850 6885 50  0000 C CNN
 F 1 "SW_Push" H 1850 6794 50  0000 C CNN
-F 2 "Keebio:MX_PCB_100H" H 1850 6800 50  0001 C CNN
+F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 6800 50  0001 C CNN
 F 3 "" H 1850 6800 50  0001 C CNN
 	1    1850 6600
 	1    0    0    -1  
@@ -1644,11 +1642,6 @@ Wire Wire Line
 Wire Wire Line
 	1650 6500 1650 6600
 Connection ~ 1650 6500
-Wire Wire Line
-	1700 3300 1700 3400
-Connection ~ 1700 3400
-Wire Wire Line
-	1700 3400 1700 3500
 Wire Wire Line
 	1300 4200 1300 4900
 Wire Wire Line
@@ -1687,9 +1680,6 @@ Wire Wire Line
 	700  3400 700  4200
 Connection ~ 700  3400
 Connection ~ 700  4200
-Wire Wire Line
-	1300 3400 1300 4200
-Connection ~ 1300 3400
 Connection ~ 1300 4200
 Wire Wire Line
 	1900 3400 1900 4200
@@ -1727,4 +1717,282 @@ Wire Wire Line
 Wire Wire Line
 	3550 5800 3550 5700
 Connection ~ 3550 5700
+Text GLabel 1100 1200 0    50   Input ~ 0
+ROW0
+Text GLabel 1200 2000 0    50   Input ~ 0
+ROW1
+Text GLabel 1350 2700 0    50   Input ~ 0
+ROW2
+Text GLabel 1100 3700 0    50   Input ~ 0
+ROW3
+Text GLabel 1100 4400 0    50   Input ~ 0
+ROW4
+Text GLabel 1200 5200 0    50   Input ~ 0
+ROW5
+Text GLabel 1450 5900 0    50   Input ~ 0
+ROW6
+Text GLabel 2050 6900 0    50   Input ~ 0
+ROW7
+Text GLabel 7150 1600 0    50   Input ~ 0
+COL0
+Text GLabel 7150 1700 0    50   Input ~ 0
+COL1
+Text GLabel 7150 1800 0    50   Input ~ 0
+COL2
+Text GLabel 7150 1900 0    50   Input ~ 0
+COL3
+Text GLabel 7150 2000 0    50   Input ~ 0
+COL4
+Text GLabel 7150 2100 0    50   Input ~ 0
+COL5
+Text GLabel 7150 2200 0    50   Input ~ 0
+COL6
+Text GLabel 8550 1600 2    50   Input ~ 0
+ROW0
+Text GLabel 8550 1700 2    50   Input ~ 0
+ROW1
+Text GLabel 8550 1800 2    50   Input ~ 0
+ROW2
+Text GLabel 8550 1900 2    50   Input ~ 0
+ROW3
+Text GLabel 8550 2000 2    50   Input ~ 0
+ROW4
+Text GLabel 8550 2100 2    50   Input ~ 0
+ROW5
+Text GLabel 8550 2200 2    50   Input ~ 0
+ROW6
+Text GLabel 8550 2300 2    50   Input ~ 0
+ROW7
+$Comp
+L power:GND #PWR0101
+U 1 1 5CD763CC
+P 8550 1300
+F 0 "#PWR0101" H 8550 1050 50  0001 C CNN
+F 1 "GND" V 8555 1172 50  0000 R CNN
+F 2 "" H 8550 1300 50  0001 C CNN
+F 3 "" H 8550 1300 50  0001 C CNN
+	1    8550 1300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5CD76613
+P 7150 1500
+F 0 "#PWR0102" H 7150 1250 50  0001 C CNN
+F 1 "GND" V 7155 1372 50  0000 R CNN
+F 2 "" H 7150 1500 50  0001 C CNN
+F 3 "" H 7150 1500 50  0001 C CNN
+	1    7150 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5CD7693F
+P 7150 1400
+F 0 "#PWR0103" H 7150 1150 50  0001 C CNN
+F 1 "GND" V 7155 1272 50  0000 R CNN
+F 2 "" H 7150 1400 50  0001 C CNN
+F 3 "" H 7150 1400 50  0001 C CNN
+	1    7150 1400
+	0    1    1    0   
+$EndComp
+$Comp
+L Keebio:ProMicro U?
+U 1 1 5CBE6D91
+P 7850 1750
+F 0 "U?" H 7850 2587 60  0000 C CNN
+F 1 "ProMicro" H 7850 2481 60  0000 C CNN
+F 2 "Keebio:ArduinoProMicro" V 8900 -750 60  0001 C CNN
+F 3 "" V 8900 -750 60  0001 C CNN
+	1    7850 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B LED1
+U 1 1 5CBD79E4
+P 6000 5150
+F 0 "LED1" H 6341 5196 50  0000 L CNN
+F 1 "WS2812B" H 6341 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6050 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6100 4775 50  0001 L TNN
+	1    6000 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B LED2
+U 1 1 5CBD880C
+P 6850 5150
+F 0 "LED2" H 7191 5196 50  0000 L CNN
+F 1 "WS2812B" H 7191 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6900 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6950 4775 50  0001 L TNN
+	1    6850 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B LED3
+U 1 1 5CBD8EFF
+P 7450 5150
+F 0 "LED3" H 7791 5196 50  0000 L CNN
+F 1 "WS2812B" H 7791 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 7500 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7550 4775 50  0001 L TNN
+	1    7450 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B LED4
+U 1 1 5CBD901B
+P 8050 5150
+F 0 "LED4" H 8391 5196 50  0000 L CNN
+F 1 "WS2812B" H 8391 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 8100 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8150 4775 50  0001 L TNN
+	1    8050 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B LED5
+U 1 1 5CBD912D
+P 8650 5150
+F 0 "LED5" H 8991 5196 50  0000 L CNN
+F 1 "WS2812B" H 8991 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 8700 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8750 4775 50  0001 L TNN
+	1    8650 5150
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B LED6
+U 1 1 5CBD9241
+P 9250 5150
+F 0 "LED6" H 9591 5196 50  0000 L CNN
+F 1 "WS2812B" H 9591 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 9300 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9350 4775 50  0001 L TNN
+	1    9250 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1300 3300 1300 3400
+Wire Wire Line
+	1700 3300 1700 3400
+Connection ~ 1300 3400
+Wire Wire Line
+	1300 3400 1300 4200
+Connection ~ 1700 3400
+Wire Wire Line
+	1700 3400 1700 3500
+Text GLabel 7150 1300 0    50   Input ~ 0
+LED
+Text GLabel 5700 5150 0    50   Input ~ 0
+LED
+$Comp
+L Switch:SW_Push SW0
+U 1 1 5CC0437A
+P 10050 950
+F 0 "SW0" H 10050 1235 50  0000 C CNN
+F 1 "SW_Push" H 10050 1144 50  0000 C CNN
+F 2 "" H 10050 1150 50  0001 C CNN
+F 3 "" H 10050 1150 50  0001 C CNN
+	1    10050 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5CC0624E
+P 10250 950
+F 0 "#PWR0104" H 10250 700 50  0001 C CNN
+F 1 "GND" V 10255 822 50  0000 R CNN
+F 2 "" H 10250 950 50  0001 C CNN
+F 3 "" H 10250 950 50  0001 C CNN
+	1    10250 950 
+	0    -1   -1   0   
+$EndComp
+Text GLabel 9850 950  0    50   Input ~ 0
+RST
+Text GLabel 8550 1400 2    50   Input ~ 0
+RST
+Wire Wire Line
+	6300 5150 6550 5150
+Wire Wire Line
+	6000 4850 6850 4850
+Connection ~ 6850 4850
+Wire Wire Line
+	6850 4850 7450 4850
+Connection ~ 7450 4850
+Wire Wire Line
+	7450 4850 8050 4850
+Connection ~ 8050 4850
+Wire Wire Line
+	8050 4850 8650 4850
+Connection ~ 8650 4850
+Wire Wire Line
+	8650 4850 9250 4850
+Wire Wire Line
+	9250 5450 8650 5450
+Connection ~ 6850 5450
+Wire Wire Line
+	6850 5450 6000 5450
+Connection ~ 7450 5450
+Wire Wire Line
+	7450 5450 6850 5450
+Connection ~ 8050 5450
+Wire Wire Line
+	8050 5450 7450 5450
+Connection ~ 8650 5450
+Wire Wire Line
+	8650 5450 8050 5450
+$Comp
+L power:VCC #PWR0105
+U 1 1 5CC253A8
+P 8550 1500
+F 0 "#PWR0105" H 8550 1350 50  0001 C CNN
+F 1 "VCC" V 8567 1628 50  0000 L CNN
+F 2 "" H 8550 1500 50  0001 C CNN
+F 3 "" H 8550 1500 50  0001 C CNN
+	1    8550 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VCC #PWR0106
+U 1 1 5CC265B1
+P 6000 4850
+F 0 "#PWR0106" H 6000 4700 50  0001 C CNN
+F 1 "VCC" V 6018 4977 50  0000 L CNN
+F 2 "" H 6000 4850 50  0001 C CNN
+F 3 "" H 6000 4850 50  0001 C CNN
+	1    6000 4850
+	0    -1   -1   0   
+$EndComp
+Connection ~ 6000 4850
+$Comp
+L power:GND #PWR0107
+U 1 1 5CC26A20
+P 6000 5450
+F 0 "#PWR0107" H 6000 5200 50  0001 C CNN
+F 1 "GND" V 6005 5322 50  0000 R CNN
+F 2 "" H 6000 5450 50  0001 C CNN
+F 3 "" H 6000 5450 50  0001 C CNN
+	1    6000 5450
+	0    1    1    0   
+$EndComp
+Connection ~ 6000 5450
+$Comp
+L LED:WS2812B LED7
+U 1 1 5CC28013
+P 9850 5150
+F 0 "LED7" H 10191 5196 50  0000 L CNN
+F 1 "WS2812B" H 10191 5105 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 9900 4850 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9950 4775 50  0001 L TNN
+	1    9850 5150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9250 4850 9850 4850
+Connection ~ 9250 4850
+Wire Wire Line
+	9850 5450 9250 5450
+Connection ~ 9250 5450
 $EndSCHEMATC
