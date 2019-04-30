@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Keebio_ProMicro
+# Keebio_Schematic_Sym_ProMicro
 #
-DEF Keebio_ProMicro U 0 40 Y Y 1 F N
+DEF Keebio_Schematic_Sym_ProMicro U 0 40 Y Y 1 F N
 F0 "U" 0 0 60 H V C CNN
-F1 "Keebio_ProMicro" 0 -750 60 H V C CNN
+F1 "Keebio_Schematic_Sym_ProMicro" 0 -750 60 H V C CNN
 F2 "" 1050 -2500 60 V I C CNN
 F3 "" 1050 -2500 60 V I C CNN
 DRAW
