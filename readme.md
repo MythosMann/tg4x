@@ -1,6 +1,6 @@
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/DSC_0726.JPG)
 ## Summary:
-Basically an open-source, cheap keyboard.  You can use parts from a tg3 keyboard for maximum cheap, or use standard ansi keys.
+Basically an open-source, cheap 45% keyboard.  You can use parts from a tg3 keyboard for maximum cheap, or use standard ansi keycaps.
 
 ![KLE layout](https://raw.githubusercontent.com/MythosMann/tg4x/support-ansi/tg4x.png)
 
