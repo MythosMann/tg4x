@@ -1,25 +1,19 @@
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/DSC_0726.JPG)
 ## Summary:
+Basically an open-source, cheap keyboard.  You can use parts from a tg3 keyboard for maximum cheap, or use standard ansi keys.
 
-Basically, this would be a ~$30-40 qmk powered, open source mechanical keyboard.  There are basically two ways to build it.
--The first way is using parts from a tg3 "cop car" keyboard. That's where the name comes from, since originally it only supported the tg3 layout. The tg3 keyboards cost about $20, and come with keycaps, switches, and plates.  You need to disassamble and mod the tg3.
--The other way to build it is by using keycaps from your average 108 keycap set.  You would need to get custom plates cut, or somehow do without.  It supports several different bottom row configs, with a 6.25 space and split space option.  This way would be a bit more expensive, because you'd need to find keycaps, switches, and plates.
-![KLE layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/kle-layout.png)
+![KLE layout](https://raw.githubusercontent.com/MythosMann/tg4x/support-ansi/tg4x.png)
+
+## Features:
+Staggered 45%, meaning an extra column over standard 40%.
+Multiple supported layouts, including split spacebar.
+QMK compatible.
+Driven by pro micro, easily programmable and cheap.
+Uses standard sized keycaps that you could find in any set.
+RGB underglow, used for layer indication and caps lock.
+Design for pcb plates.
+
 ## The base (TG3):
-
-In case you didn't know, the TG3 is some kind of industrial keyboard. They're available for super cheap, and they're quite common (at least here in the CONUS). They come with genuine Cherry MX black switches. They also have this rubber membrane that goes over all the switches to keep dust and liquids out. You can use the membrane to add weight and tactility to the switches if you want. The TG3 comes with thin doubleshot (ABS I think) keycaps with a uniform profile. I think I heard somewhere that they're R1 DCS keycaps.
+You can either use a tg3 as the base for this, or use your own parts.  The advantages of using the tg3 are price and sturdy-ness.  With a tg3, you can get Cherry blacks, uniform dcs keycaps, a steel mounting plate, and an aluminum back plate, all for $15-25.  If you were to buy the absolute cheapest keycap set ($6-8), the cheapest switches ($5 for 50), an fr4 or aluminum plate (~$10-15), and use a scrap of something for the back plate, it'd cost a bit more, and you'd be dealing with low quality parts. Granted, it takes some work to desolder and mod the tg3.
 
 [Ebay listing where I've bought several](http://www.ebay.com/itm/132873035023)
-
-## Pricing:
-
-I'm not intending to sell kits for now, but I'd be willing to still sell pcbs.
-
-## The Meaty Potatoes:
-
-I'm going to make a pcb with the layout pictured above. You could change the keymap, since it is qmk driven. However, you would be stuck with the layout. I'm also programming the firmware and making a default keymap. The whole thing will be powered by a pro micro, so after wiring the matrix, it'd have one extra pin. I'm going to use this extra pin for rgb underglow, which would be used for indicating layers and capslock (and overall sex appeal). The rgb would be ws2812b diodes soldered directly to the pcb.
-
-For the hardware, the case will be a sandwich style case using a cut down TG3 mounting plate and a cut down TG3 bottom plate. I'd use probably 8 m2 standoffs to hold the plates together.
-
-![KiCad PCB Layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/pcblayout.png)
-![Kicad PCB Render](https://raw.githubusercontent.com/MythosMann/tg4x/master/pcb_raytrace.png)

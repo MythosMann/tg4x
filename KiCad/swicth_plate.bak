@@ -1731,19 +1731,19 @@ Text GLabel 1450 5900 0    50   Input ~ 0
 ROW6
 Text GLabel 2050 6900 0    50   Input ~ 0
 ROW7
-Text GLabel 5650 3200 0    50   Input ~ 0
+Text GLabel 5650 3600 0    50   Input ~ 0
 COL0
-Text GLabel 5650 3800 0    50   Input ~ 0
+Text GLabel 5650 3700 0    50   Input ~ 0
 COL1
-Text GLabel 5650 3900 0    50   Input ~ 0
+Text GLabel 5650 3800 0    50   Input ~ 0
 COL2
-Text GLabel 5650 4000 0    50   Input ~ 0
+Text GLabel 5650 3900 0    50   Input ~ 0
 COL3
-Text GLabel 5650 4100 0    50   Input ~ 0
+Text GLabel 5650 4000 0    50   Input ~ 0
 COL4
-Text GLabel 5650 4200 0    50   Input ~ 0
+Text GLabel 5650 4100 0    50   Input ~ 0
 COL5
-Text GLabel 5650 4300 0    50   Input ~ 0
+Text GLabel 5650 4200 0    50   Input ~ 0
 COL6
 Text GLabel 7050 3600 2    50   Input ~ 0
 ROW0
@@ -1995,27 +1995,4 @@ Wire Wire Line
 Connection ~ 8300 5650
 Wire Wire Line
 	3500 4400 4100 4400
-Text GLabel 5650 3600 0    50   Input ~ 0
-SDA
-Text GLabel 5650 3700 0    50   Input ~ 0
-SCL
-Text GLabel 6200 2400 0    50   Input ~ 0
-SDA
-Text GLabel 6200 2500 0    50   Input ~ 0
-SCL
-Text GLabel 6200 2700 0    50   Input ~ 0
-VCC
-Text GLabel 6200 2600 0    50   Input ~ 0
-GND
-$Comp
-L Connector:Conn_01x04_Female J1
-U 1 1 5CCBBE58
-P 6400 2500
-F 0 "J1" H 6427 2476 50  0000 L CNN
-F 1 "Conn_01x04_Female" H 6427 2385 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 6400 2500 50  0001 C CNN
-F 3 "~" H 6400 2500 50  0001 C CNN
-	1    6400 2500
-	1    0    0    -1  
-$EndComp
 $EndSCHEMATC
