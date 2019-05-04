@@ -2,7 +2,7 @@
 
 ![tg4x](https://imgur.com/gallery/OM9EhMF)
 
-The dirt cheap 40%
+a cheap 45%
 
 Keyboard Maintainer: [You](https://github.com/mythosmann)  
 Hardware Supported: tg4x pcb, pro micro  

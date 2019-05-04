@@ -28,8 +28,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DESCRIPTION     a cheap 40%
 
 /* key matrix size */
-#define MATRIX_ROWS 4
-#define MATRIX_COLS 13
+#define MATRIX_ROWS 8
+#define MATRIX_COLS 7
 
 /*
  * Keyboard Matrix Assignments
@@ -41,8 +41,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
 */
-#define MATRIX_ROW_PINS { D3, D1, F5, F4 }
-#define MATRIX_COL_PINS { B5, B4, E6, D7, C6, D4, D0, D2, F6, F7, B1, B3, B2, }
+#define MATRIX_ROW_PINS { F4, F5, F6, F7, B1, B3, B2, B6 }
+#define MATRIX_COL_PINS { D3, D4, C6, D7, E6, B4, B5 }
 #define UNUSED_PINS
 
 /* COL2ROW, ROW2COL, or CUSTOM_MATRIX */
@@ -56,7 +56,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 RGBLED_NUM, RGB_DI_PIN, and the ifdef should all stay the same.
 You can change the brightness, step settings, and animations.
 */
- #define RGB_DI_PIN B6
+ #define RGB_DI_PIN D2
  #ifdef RGB_DI_PIN
    #define RGBLED_NUM 7
    #define RGBLIGHT_HUE_STEP 8
