@@ -1,8 +1,15 @@
+Current Prototype, also my daily.
+![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/aesthetic.jpg)
+![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/noods.jpg)
+Last gen prototype using tg3 as a base.
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/DSC_0726.JPG)
+Pcb and fr4 switch plate.
+![Picture of the PCBs](https://raw.githubusercontent.com/MythosMann/tg4x/master/pcbs_plates.jpg)
+
 ## Summary:
 Basically an open-source, cheap 45% keyboard.  You can use parts from a tg3 keyboard for maximum cheap, or use standard ansi keycaps.
 
-![KLE layout](https://raw.githubusercontent.com/MythosMann/tg4x/support-ansi/tg4x.png)
+![KLE layout](https://raw.githubusercontent.com/MythosMann/tg4x/master/kle-layout.png)
 
 ## Features:
 *Staggered 45%, meaning an extra column over standard 40%.
