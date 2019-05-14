@@ -1527,20 +1527,15 @@ Connection ~ 3600 5000
 $Comp
 L Switch:SW_Push SW12a1
 U 1 1 5CEA5D05
-P 3300 4100
-F 0 "SW12a1" H 3300 4385 50  0000 C CNN
-F 1 "SW_Push" H 3300 4294 50  0000 C CNN
-F 2 "Keebio-Parts:MX_PCB_100H" H 3300 4300 50  0001 C CNN
-F 3 "" H 3300 4300 50  0001 C CNN
-	1    3300 4100
-	1    0    0    -1  
+P 3900 4100
+F 0 "SW12a1" H 3900 4385 50  0000 C CNN
+F 1 "SW_Push" H 3900 4294 50  0000 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3900 4300 50  0001 C CNN
+F 3 "" H 3900 4300 50  0001 C CNN
+	1    3900 4100
+	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	3100 4100 3100 4200
 Connection ~ 3100 4200
-Wire Wire Line
-	3500 4100 3500 4200
-Connection ~ 3500 4200
 $Comp
 L Switch:SW_Push SW37a1
 U 1 1 5CED4D93
@@ -1692,17 +1687,12 @@ Wire Wire Line
 Connection ~ 2850 2500
 Connection ~ 2500 4200
 Wire Wire Line
-	3100 3400 3100 4100
-Wire Wire Line
 	3100 3400 3450 3400
 Connection ~ 3450 3400
-Connection ~ 3100 4100
 Wire Wire Line
 	4050 3400 4050 3850
 Wire Wire Line
 	4050 3850 3700 3850
-Wire Wire Line
-	3700 3850 3700 4200
 Connection ~ 4050 3400
 Wire Wire Line
 	1650 5700 1650 6500
@@ -1993,8 +1983,6 @@ Connection ~ 8300 5050
 Wire Wire Line
 	8900 5650 8300 5650
 Connection ~ 8300 5650
-Wire Wire Line
-	3500 4400 4100 4400
 Text GLabel 7050 4300 2    50   Input ~ 0
 SDA
 Text GLabel 7050 4200 2    50   Input ~ 0
@@ -2052,4 +2040,16 @@ Wire Wire Line
 Wire Wire Line
 	4450 3150 4450 3200
 Connection ~ 4450 3200
+Wire Wire Line
+	4100 4100 4100 4200
+Wire Wire Line
+	3100 3400 3100 4200
+Wire Wire Line
+	3500 4400 4100 4400
+Connection ~ 4100 4200
+Wire Wire Line
+	3700 3850 3700 4100
+Connection ~ 3700 4100
+Wire Wire Line
+	3700 4100 3700 4200
 $EndSCHEMATC

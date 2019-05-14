@@ -34,7 +34,7 @@ U 1 1 5C4637D0
 P 900 1000
 F 0 "SW1" H 900 1285 50  0000 C CNN
 F 1 "SW_Push" H 900 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 900 1200 50  0001 C CNN
 F 3 "" H 900 1200 50  0001 C CNN
 	1    900  1000
 	1    0    0    -1  
@@ -45,7 +45,7 @@ U 1 1 5C4639AE
 P 2100 1000
 F 0 "SW3" H 2100 1285 50  0000 C CNN
 F 1 "SW_Push" H 2100 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2100 1200 50  0001 C CNN
 F 3 "" H 2100 1200 50  0001 C CNN
 	1    2100 1000
 	1    0    0    -1  
@@ -56,7 +56,7 @@ U 1 1 5C4639CE
 P 2450 2500
 F 0 "SW28" H 2450 2785 50  0000 C CNN
 F 1 "SW_Push" H 2450 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2450 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2450 2700 50  0001 C CNN
 F 3 "" H 2450 2700 50  0001 C CNN
 	1    2450 2500
 	1    0    0    -1  
@@ -67,7 +67,7 @@ U 1 1 5C4639FA
 P 900 3300
 F 0 "SW38a1" H 900 3585 50  0000 C CNN
 F 1 "SW_Push" H 900 3494 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 3500 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 900 3500 50  0001 C CNN
 F 3 "" H 900 3500 50  0001 C CNN
 	1    900  3300
 	1    0    0    -1  
@@ -78,7 +78,7 @@ U 1 1 5C463A34
 P 1500 1000
 F 0 "SW2" H 1500 1285 50  0000 C CNN
 F 1 "SW_Push" H 1500 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1500 1200 50  0001 C CNN
 F 3 "" H 1500 1200 50  0001 C CNN
 	1    1500 1000
 	1    0    0    -1  
@@ -89,7 +89,7 @@ U 1 1 5C463A64
 P 2200 1700
 F 0 "SW16a1" H 2200 1985 50  0000 C CNN
 F 1 "SW_Push" H 2200 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2200 1900 50  0001 C CNN
 F 3 "" H 2200 1900 50  0001 C CNN
 	1    2200 1700
 	1    0    0    -1  
@@ -100,7 +100,7 @@ U 1 1 5C463A90
 P 1850 2500
 F 0 "SW27" H 1850 2785 50  0000 C CNN
 F 1 "SW_Push" H 1850 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1850 2700 50  0001 C CNN
 F 3 "" H 1850 2700 50  0001 C CNN
 	1    1850 2500
 	1    0    0    -1  
@@ -111,7 +111,7 @@ U 1 1 5C463AC8
 P 1150 2500
 F 0 "SW26" H 1150 2785 50  0000 C CNN
 F 1 "SW_Push" H 1150 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1150 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1150 2700 50  0001 C CNN
 F 3 "" H 1150 2700 50  0001 C CNN
 	1    1150 2500
 	1    0    0    -1  
@@ -122,7 +122,7 @@ U 1 1 5C463AEA
 P 1000 1700
 F 0 "SW14a1" H 1000 1985 50  0000 C CNN
 F 1 "SW_Push" H 1000 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1000 1900 50  0001 C CNN
 F 3 "" H 1000 1900 50  0001 C CNN
 	1    1000 1700
 	1    0    0    -1  
@@ -133,7 +133,7 @@ U 1 1 5C463B0C
 P 1600 1700
 F 0 "SW15a1" H 1600 1985 50  0000 C CNN
 F 1 "SW_Push" H 1600 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1600 1900 50  0001 C CNN
 F 3 "" H 1600 1900 50  0001 C CNN
 	1    1600 1700
 	1    0    0    -1  
@@ -144,7 +144,7 @@ U 1 1 5C463B30
 P 1500 3300
 F 0 "SW39a1" H 1500 3585 50  0000 C CNN
 F 1 "SW_Push" H 1500 3494 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 3500 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1500 3500 50  0001 C CNN
 F 3 "" H 1500 3500 50  0001 C CNN
 	1    1500 3300
 	1    0    0    -1  
@@ -155,7 +155,7 @@ U 1 1 5C463B6C
 P 2100 3300
 F 0 "SW40a1" H 2100 3585 50  0000 C CNN
 F 1 "SW_Push" H 2100 3494 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 3500 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2100 3500 50  0001 C CNN
 F 3 "" H 2100 3500 50  0001 C CNN
 	1    2100 3300
 	1    0    0    -1  
@@ -166,7 +166,7 @@ U 1 1 5C4641C9
 P 2700 1000
 F 0 "SW4" H 2700 1285 50  0000 C CNN
 F 1 "SW_Push" H 2700 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2700 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2700 1200 50  0001 C CNN
 F 3 "" H 2700 1200 50  0001 C CNN
 	1    2700 1000
 	1    0    0    -1  
@@ -177,7 +177,7 @@ U 1 1 5C464209
 P 2800 1700
 F 0 "SW17a1" H 2800 1985 50  0000 C CNN
 F 1 "SW_Push" H 2800 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2800 1900 50  0001 C CNN
 F 3 "" H 2800 1900 50  0001 C CNN
 	1    2800 1700
 	1    0    0    -1  
@@ -188,7 +188,7 @@ U 1 1 5C464251
 P 3050 2500
 F 0 "SW29" H 3050 2785 50  0000 C CNN
 F 1 "SW_Push" H 3050 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3050 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3050 2700 50  0001 C CNN
 F 3 "" H 3050 2700 50  0001 C CNN
 	1    3050 2500
 	1    0    0    -1  
@@ -199,7 +199,7 @@ U 1 1 5C4642B9
 P 3650 2500
 F 0 "SW30" H 3650 2785 50  0000 C CNN
 F 1 "SW_Push" H 3650 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3650 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3650 2700 50  0001 C CNN
 F 3 "" H 3650 2700 50  0001 C CNN
 	1    3650 2500
 	1    0    0    -1  
@@ -210,7 +210,7 @@ U 1 1 5C464343
 P 3400 1700
 F 0 "SW18a1" H 3400 1985 50  0000 C CNN
 F 1 "SW_Push" H 3400 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3400 1900 50  0001 C CNN
 F 3 "" H 3400 1900 50  0001 C CNN
 	1    3400 1700
 	1    0    0    -1  
@@ -221,7 +221,7 @@ U 1 1 5C464391
 P 3300 1000
 F 0 "SW5" H 3300 1285 50  0000 C CNN
 F 1 "SW_Push" H 3300 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3300 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3300 1200 50  0001 C CNN
 F 3 "" H 3300 1200 50  0001 C CNN
 	1    3300 1000
 	1    0    0    -1  
@@ -232,7 +232,7 @@ U 1 1 5C4643D9
 P 3900 1000
 F 0 "SW6" H 3900 1285 50  0000 C CNN
 F 1 "SW_Push" H 3900 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3900 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3900 1200 50  0001 C CNN
 F 3 "" H 3900 1200 50  0001 C CNN
 	1    3900 1000
 	1    0    0    -1  
@@ -243,7 +243,7 @@ U 1 1 5C464429
 P 4000 1700
 F 0 "SW19a1" H 4000 1985 50  0000 C CNN
 F 1 "SW_Push" H 4000 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4000 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4000 1900 50  0001 C CNN
 F 3 "" H 4000 1900 50  0001 C CNN
 	1    4000 1700
 	1    0    0    -1  
@@ -254,7 +254,7 @@ U 1 1 5C464475
 P 4250 2500
 F 0 "SW31" H 4250 2785 50  0000 C CNN
 F 1 "SW_Push" H 4250 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4250 2700 50  0001 C CNN
 F 3 "" H 4250 2700 50  0001 C CNN
 	1    4250 2500
 	1    0    0    -1  
@@ -265,7 +265,7 @@ U 1 1 5C4644C3
 P 4250 3300
 F 0 "SW42b1" H 4250 3585 50  0000 C CNN
 F 1 "SW_Push" H 4250 3494 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 3500 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4250 3500 50  0001 C CNN
 F 3 "" H 4250 3500 50  0001 C CNN
 	1    4250 3300
 	1    0    0    -1  
@@ -276,7 +276,7 @@ U 1 1 5C465843
 P 4600 1700
 F 0 "SW20a1" H 4600 1985 50  0000 C CNN
 F 1 "SW_Push" H 4600 1894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4600 1900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4600 1900 50  0001 C CNN
 F 3 "" H 4600 1900 50  0001 C CNN
 	1    4600 1700
 	1    0    0    -1  
@@ -287,7 +287,7 @@ U 1 1 5C465899
 P 4500 1000
 F 0 "SW7" H 4500 1285 50  0000 C CNN
 F 1 "SW_Push" H 4500 1194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4500 1200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4500 1200 50  0001 C CNN
 F 3 "" H 4500 1200 50  0001 C CNN
 	1    4500 1000
 	1    0    0    -1  
@@ -298,7 +298,7 @@ U 1 1 5C4658F9
 P 900 4200
 F 0 "SW8" H 900 4485 50  0000 C CNN
 F 1 "SW_Push" H 900 4394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 4400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 900 4400 50  0001 C CNN
 F 3 "" H 900 4400 50  0001 C CNN
 	1    900  4200
 	1    0    0    -1  
@@ -309,7 +309,7 @@ U 1 1 5C46594F
 P 1000 4900
 F 0 "SW21a1" H 1000 5185 50  0000 C CNN
 F 1 "SW_Push" H 1000 5094 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 5100 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1000 5100 50  0001 C CNN
 F 3 "" H 1000 5100 50  0001 C CNN
 	1    1000 4900
 	1    0    0    -1  
@@ -320,7 +320,7 @@ U 1 1 5C4659A9
 P 1250 5700
 F 0 "SW33" H 1250 5985 50  0000 C CNN
 F 1 "SW_Push" H 1250 5894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1250 5900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1250 5900 50  0001 C CNN
 F 3 "" H 1250 5900 50  0001 C CNN
 	1    1250 5700
 	1    0    0    -1  
@@ -331,7 +331,7 @@ U 1 1 5C465A07
 P 1500 4200
 F 0 "SW9" H 1500 4485 50  0000 C CNN
 F 1 "SW_Push" H 1500 4394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 4400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1500 4400 50  0001 C CNN
 F 3 "" H 1500 4400 50  0001 C CNN
 	1    1500 4200
 	1    0    0    -1  
@@ -342,7 +342,7 @@ U 1 1 5C465A6B
 P 1600 4900
 F 0 "SW22a1" H 1600 5185 50  0000 C CNN
 F 1 "SW_Push" H 1600 5094 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 5100 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1600 5100 50  0001 C CNN
 F 3 "" H 1600 5100 50  0001 C CNN
 	1    1600 4900
 	1    0    0    -1  
@@ -353,7 +353,7 @@ U 1 1 5C465ACB
 P 1850 5700
 F 0 "SW34" H 1850 5985 50  0000 C CNN
 F 1 "SW_Push" H 1850 5894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 5900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1850 5900 50  0001 C CNN
 F 3 "" H 1850 5900 50  0001 C CNN
 	1    1850 5700
 	1    0    0    -1  
@@ -364,7 +364,7 @@ U 1 1 5C465B95
 P 2100 4200
 F 0 "SW10" H 2100 4485 50  0000 C CNN
 F 1 "SW_Push" H 2100 4394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 4400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2100 4400 50  0001 C CNN
 F 3 "" H 2100 4400 50  0001 C CNN
 	1    2100 4200
 	1    0    0    -1  
@@ -375,7 +375,7 @@ U 1 1 5C465BFF
 P 2200 4900
 F 0 "SW23a1" H 2200 5185 50  0000 C CNN
 F 1 "SW_Push" H 2200 5094 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 5100 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2200 5100 50  0001 C CNN
 F 3 "" H 2200 5100 50  0001 C CNN
 	1    2200 4900
 	1    0    0    -1  
@@ -386,7 +386,7 @@ U 1 1 5C465C69
 P 2450 5700
 F 0 "SW35" H 2450 5985 50  0000 C CNN
 F 1 "SW_Push" H 2450 5894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2450 5900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2450 5900 50  0001 C CNN
 F 3 "" H 2450 5900 50  0001 C CNN
 	1    2450 5700
 	1    0    0    -1  
@@ -397,7 +397,7 @@ U 1 1 5C465CD3
 P 2450 6500
 F 0 "SW44" H 2450 6785 50  0000 C CNN
 F 1 "SW_Push" H 2450 6694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2450 6700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2450 6700 50  0001 C CNN
 F 3 "" H 2450 6700 50  0001 C CNN
 	1    2450 6500
 	1    0    0    -1  
@@ -408,7 +408,7 @@ U 1 1 5C465D93
 P 2700 4200
 F 0 "SW11" H 2700 4485 50  0000 C CNN
 F 1 "SW_Push" H 2700 4394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2700 4400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2700 4400 50  0001 C CNN
 F 3 "" H 2700 4400 50  0001 C CNN
 	1    2700 4200
 	1    0    0    -1  
@@ -419,7 +419,7 @@ U 1 1 5C465E03
 P 2800 4900
 F 0 "SW24a1" H 2800 5185 50  0000 C CNN
 F 1 "SW_Push" H 2800 5094 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 5100 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2800 5100 50  0001 C CNN
 F 3 "" H 2800 5100 50  0001 C CNN
 	1    2800 4900
 	1    0    0    -1  
@@ -430,7 +430,7 @@ U 1 1 5C465E7D
 P 3050 5700
 F 0 "SW36" H 3050 5985 50  0000 C CNN
 F 1 "SW_Push" H 3050 5894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3050 5900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3050 5900 50  0001 C CNN
 F 3 "" H 3050 5900 50  0001 C CNN
 	1    3050 5700
 	1    0    0    -1  
@@ -441,7 +441,7 @@ U 1 1 5C465EF1
 P 3050 6500
 F 0 "SW45" H 3050 6785 50  0000 C CNN
 F 1 "SW_Push" H 3050 6694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3050 6700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3050 6700 50  0001 C CNN
 F 3 "" H 3050 6700 50  0001 C CNN
 	1    3050 6500
 	1    0    0    -1  
@@ -452,7 +452,7 @@ U 1 1 5C465F6B
 P 3650 6500
 F 0 "SW46" H 3650 6785 50  0000 C CNN
 F 1 "SW_Push" H 3650 6694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3650 6700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3650 6700 50  0001 C CNN
 F 3 "" H 3650 6700 50  0001 C CNN
 	1    3650 6500
 	1    0    0    -1  
@@ -463,7 +463,7 @@ U 1 1 5C465FE5
 P 3750 5700
 F 0 "SW37b1" H 3750 5985 50  0000 C CNN
 F 1 "SW_Push" H 3750 5894 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3750 5900 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3750 5900 50  0001 C CNN
 F 3 "" H 3750 5900 50  0001 C CNN
 	1    3750 5700
 	1    0    0    -1  
@@ -474,10 +474,10 @@ U 1 1 5C4660EC
 P 3900 4200
 F 0 "SW13" H 3900 4485 50  0000 C CNN
 F 1 "SW_Push" H 3900 4394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3900 4400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3900 4400 50  0001 C CNN
 F 3 "" H 3900 4400 50  0001 C CNN
 	1    3900 4200
-	-1   0    0    1   
+	1    0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW12b1
@@ -485,7 +485,7 @@ U 1 1 5C46618E
 P 3300 4200
 F 0 "SW12b1" H 3300 4485 50  0000 C CNN
 F 1 "SW_Push" H 3300 4394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3300 4400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3300 4400 50  0001 C CNN
 F 3 "" H 3300 4400 50  0001 C CNN
 	1    3300 4200
 	1    0    0    -1  
@@ -496,7 +496,7 @@ U 1 1 5C466330
 P 3400 4900
 F 0 "SW25a1" H 3400 5185 50  0000 C CNN
 F 1 "SW_Push" H 3400 5094 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 5100 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3400 5100 50  0001 C CNN
 F 3 "" H 3400 5100 50  0001 C CNN
 	1    3400 4900
 	1    0    0    -1  
@@ -538,7 +538,7 @@ U 1 1 5C465B2F
 P 1850 6500
 F 0 "SW43a1" H 1850 6785 50  0000 C CNN
 F 1 "SW_Push" H 1850 6694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 6700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1850 6700 50  0001 C CNN
 F 3 "" H 1850 6700 50  0001 C CNN
 	1    1850 6500
 	1    0    0    -1  
@@ -553,7 +553,7 @@ U 1 1 5C48D356
 P 1100 1100
 F 0 "D1" V 1146 1021 50  0000 R CNN
 F 1 "1N4148" V 1055 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1100 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1100 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1100 1100 50  0001 C CNN
 	1    1100 1100
 	0    -1   -1   0   
@@ -564,7 +564,7 @@ U 1 1 5C48D4B0
 P 1700 1100
 F 0 "D2" V 1746 1021 50  0000 R CNN
 F 1 "1N4148" V 1655 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1700 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1700 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1700 1100 50  0001 C CNN
 	1    1700 1100
 	0    -1   -1   0   
@@ -575,7 +575,7 @@ U 1 1 5C48D540
 P 2300 1100
 F 0 "D3" V 2346 1021 50  0000 R CNN
 F 1 "1N4148" V 2255 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2300 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2300 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2300 1100 50  0001 C CNN
 	1    2300 1100
 	0    -1   -1   0   
@@ -586,7 +586,7 @@ U 1 1 5C48D5DA
 P 1200 1900
 F 0 "D14" V 1246 1821 50  0000 R CNN
 F 1 "1N4148" V 1155 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1200 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1200 1900 50  0001 C CNN
 	1    1200 1900
 	0    -1   -1   0   
@@ -597,7 +597,7 @@ U 1 1 5C48D67C
 P 1800 1900
 F 0 "D15" V 1846 1821 50  0000 R CNN
 F 1 "1N4148" V 1755 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1800 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1800 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1800 1900 50  0001 C CNN
 	1    1800 1900
 	0    -1   -1   0   
@@ -608,7 +608,7 @@ U 1 1 5C48D70E
 P 2400 1900
 F 0 "D16" V 2446 1821 50  0000 R CNN
 F 1 "1N4148" V 2355 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2400 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2400 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2400 1900 50  0001 C CNN
 	1    2400 1900
 	0    -1   -1   0   
@@ -619,7 +619,7 @@ U 1 1 5C48D798
 P 1350 2600
 F 0 "D26" V 1396 2521 50  0000 R CNN
 F 1 "1N4148" V 1305 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1350 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1350 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1350 2600 50  0001 C CNN
 	1    1350 2600
 	0    -1   -1   0   
@@ -630,7 +630,7 @@ U 1 1 5C48D8DD
 P 1100 3600
 F 0 "D38" V 1146 3521 50  0000 R CNN
 F 1 "1N4148" V 1055 3521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1100 3425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1100 3425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1100 3600 50  0001 C CNN
 	1    1100 3600
 	0    -1   -1   0   
@@ -641,7 +641,7 @@ U 1 1 5C48D96D
 P 1700 3600
 F 0 "D39" V 1746 3521 50  0000 R CNN
 F 1 "1N4148" V 1655 3521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1700 3425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1700 3425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1700 3600 50  0001 C CNN
 	1    1700 3600
 	0    -1   -1   0   
@@ -652,7 +652,7 @@ U 1 1 5C48D9FD
 P 2300 3600
 F 0 "D40" V 2346 3521 50  0000 R CNN
 F 1 "1N4148" V 2255 3521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2300 3425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2300 3425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2300 3600 50  0001 C CNN
 	1    2300 3600
 	0    -1   -1   0   
@@ -663,7 +663,7 @@ U 1 1 5C48DA8F
 P 2050 2600
 F 0 "D27" V 2096 2521 50  0000 R CNN
 F 1 "1N4148" V 2005 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2050 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2050 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2050 2600 50  0001 C CNN
 	1    2050 2600
 	0    -1   -1   0   
@@ -674,7 +674,7 @@ U 1 1 5C48DB23
 P 2650 2600
 F 0 "D28" V 2696 2521 50  0000 R CNN
 F 1 "1N4148" V 2605 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2650 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2650 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 2600 50  0001 C CNN
 	1    2650 2600
 	0    -1   -1   0   
@@ -685,7 +685,7 @@ U 1 1 5C48DBB9
 P 2900 1100
 F 0 "D4" V 2946 1021 50  0000 R CNN
 F 1 "1N4148" V 2855 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2900 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2900 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2900 1100 50  0001 C CNN
 	1    2900 1100
 	0    -1   -1   0   
@@ -696,7 +696,7 @@ U 1 1 5C48DC7D
 P 3000 1900
 F 0 "D17" V 3046 1821 50  0000 R CNN
 F 1 "1N4148" V 2955 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3000 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3000 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3000 1900 50  0001 C CNN
 	1    3000 1900
 	0    -1   -1   0   
@@ -707,7 +707,7 @@ U 1 1 5C48DD11
 P 3250 2600
 F 0 "D29" V 3296 2521 50  0000 R CNN
 F 1 "1N4148" V 3205 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3250 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3250 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 2600 50  0001 C CNN
 	1    3250 2600
 	0    -1   -1   0   
@@ -718,7 +718,7 @@ U 1 1 5C48DEE2
 P 3850 2600
 F 0 "D30" V 3896 2521 50  0000 R CNN
 F 1 "1N4148" V 3805 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3850 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 2600 50  0001 C CNN
 	1    3850 2600
 	0    -1   -1   0   
@@ -729,7 +729,7 @@ U 1 1 5C48DF88
 P 3600 1900
 F 0 "D18" V 3646 1821 50  0000 R CNN
 F 1 "1N4148" V 3555 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3600 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3600 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3600 1900 50  0001 C CNN
 	1    3600 1900
 	0    -1   -1   0   
@@ -740,7 +740,7 @@ U 1 1 5C48E02C
 P 3500 1100
 F 0 "D5" V 3546 1021 50  0000 R CNN
 F 1 "1N4148" V 3455 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3500 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3500 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3500 1100 50  0001 C CNN
 	1    3500 1100
 	0    -1   -1   0   
@@ -751,7 +751,7 @@ U 1 1 5C48E0C8
 P 4100 1100
 F 0 "D6" V 4146 1021 50  0000 R CNN
 F 1 "1N4148" V 4055 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4100 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4100 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4100 1100 50  0001 C CNN
 	1    4100 1100
 	0    -1   -1   0   
@@ -762,7 +762,7 @@ U 1 1 5C48E170
 P 4200 1900
 F 0 "D19" V 4246 1821 50  0000 R CNN
 F 1 "1N4148" V 4155 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4200 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4200 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4200 1900 50  0001 C CNN
 	1    4200 1900
 	0    -1   -1   0   
@@ -773,7 +773,7 @@ U 1 1 5C48E214
 P 4450 2600
 F 0 "D31" V 4496 2521 50  0000 R CNN
 F 1 "1N4148" V 4405 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4450 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4450 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4450 2600 50  0001 C CNN
 	1    4450 2600
 	0    -1   -1   0   
@@ -784,7 +784,7 @@ U 1 1 5C48E2B8
 P 4450 3600
 F 0 "D42" V 4496 3521 50  0000 R CNN
 F 1 "1N4148" V 4405 3521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4450 3425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4450 3425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4450 3600 50  0001 C CNN
 	1    4450 3600
 	0    -1   -1   0   
@@ -795,7 +795,7 @@ U 1 1 5C48E35E
 P 5050 2600
 F 0 "D32" V 5096 2521 50  0000 R CNN
 F 1 "1N4148" V 5005 2521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5050 2425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 5050 2425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 5050 2600 50  0001 C CNN
 	1    5050 2600
 	0    -1   -1   0   
@@ -806,7 +806,7 @@ U 1 1 5C48E40A
 P 4800 1900
 F 0 "D20" V 4846 1821 50  0000 R CNN
 F 1 "1N4148" V 4755 1821 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4800 1725 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4800 1725 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4800 1900 50  0001 C CNN
 	1    4800 1900
 	0    -1   -1   0   
@@ -817,7 +817,7 @@ U 1 1 5C48E4B6
 P 4700 1100
 F 0 "D7" V 4746 1021 50  0000 R CNN
 F 1 "1N4148" V 4655 1021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4700 925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4700 925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4700 1100 50  0001 C CNN
 	1    4700 1100
 	0    -1   -1   0   
@@ -828,7 +828,7 @@ U 1 1 5C48E564
 P 1100 4300
 F 0 "D8" V 1146 4221 50  0000 R CNN
 F 1 "1N4148" V 1055 4221 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1100 4125 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1100 4125 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1100 4300 50  0001 C CNN
 	1    1100 4300
 	0    -1   -1   0   
@@ -839,7 +839,7 @@ U 1 1 5C48E618
 P 1200 5100
 F 0 "D21" V 1246 5021 50  0000 R CNN
 F 1 "1N4148" V 1155 5021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1200 4925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1200 4925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1200 5100 50  0001 C CNN
 	1    1200 5100
 	0    -1   -1   0   
@@ -850,7 +850,7 @@ U 1 1 5C48E6D0
 P 1450 5800
 F 0 "D33" V 1496 5721 50  0000 R CNN
 F 1 "1N4148" V 1405 5721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1450 5625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1450 5625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1450 5800 50  0001 C CNN
 	1    1450 5800
 	0    -1   -1   0   
@@ -861,7 +861,7 @@ U 1 1 5C48E78C
 P 2050 5800
 F 0 "D34" V 2096 5721 50  0000 R CNN
 F 1 "1N4148" V 2005 5721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2050 5625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2050 5625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2050 5800 50  0001 C CNN
 	1    2050 5800
 	0    -1   -1   0   
@@ -872,7 +872,7 @@ U 1 1 5C48E846
 P 2050 6800
 F 0 "D43" V 2096 6721 50  0000 R CNN
 F 1 "1N4148" V 2005 6721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2050 6625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2050 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2050 6800 50  0001 C CNN
 	1    2050 6800
 	0    -1   -1   0   
@@ -883,7 +883,7 @@ U 1 1 5C48E904
 P 1800 5100
 F 0 "D22" V 1846 5021 50  0000 R CNN
 F 1 "1N4148" V 1755 5021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1800 4925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1800 4925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1800 5100 50  0001 C CNN
 	1    1800 5100
 	0    -1   -1   0   
@@ -894,7 +894,7 @@ U 1 1 5C48E9DE
 P 2400 5100
 F 0 "D23" V 2446 5021 50  0000 R CNN
 F 1 "1N4148" V 2355 5021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2400 4925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2400 4925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2400 5100 50  0001 C CNN
 	1    2400 5100
 	0    -1   -1   0   
@@ -905,7 +905,7 @@ U 1 1 5C48EA9E
 P 1700 4300
 F 0 "D9" V 1746 4221 50  0000 R CNN
 F 1 "1N4148" V 1655 4221 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 1700 4125 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 1700 4125 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 1700 4300 50  0001 C CNN
 	1    1700 4300
 	0    -1   -1   0   
@@ -916,7 +916,7 @@ U 1 1 5C48EB6E
 P 2300 4300
 F 0 "D10" V 2346 4221 50  0000 R CNN
 F 1 "1N4148" V 2255 4221 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2300 4125 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2300 4125 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2300 4300 50  0001 C CNN
 	1    2300 4300
 	0    -1   -1   0   
@@ -927,7 +927,7 @@ U 1 1 5C48EC32
 P 2900 4300
 F 0 "D11" V 2946 4221 50  0000 R CNN
 F 1 "1N4148" V 2855 4221 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2900 4125 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2900 4125 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2900 4300 50  0001 C CNN
 	1    2900 4300
 	0    -1   -1   0   
@@ -938,7 +938,7 @@ U 1 1 5C48ECF8
 P 2650 6800
 F 0 "D44" V 2696 6721 50  0000 R CNN
 F 1 "1N4148" V 2605 6721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2650 6625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2650 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 6800 50  0001 C CNN
 	1    2650 6800
 	0    -1   -1   0   
@@ -949,7 +949,7 @@ U 1 1 5C493980
 P 2650 5800
 F 0 "D35" V 2696 5721 50  0000 R CNN
 F 1 "1N4148" V 2605 5721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 2650 5625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 2650 5625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 2650 5800 50  0001 C CNN
 	1    2650 5800
 	0    -1   -1   0   
@@ -960,7 +960,7 @@ U 1 1 5C493A48
 P 3250 5800
 F 0 "D36" V 3296 5721 50  0000 R CNN
 F 1 "1N4148" V 3205 5721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3250 5625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3250 5625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 5800 50  0001 C CNN
 	1    3250 5800
 	0    -1   -1   0   
@@ -971,7 +971,7 @@ U 1 1 5C493B18
 P 3000 5100
 F 0 "D24" V 3046 5021 50  0000 R CNN
 F 1 "1N4148" V 2955 5021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3000 4925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3000 4925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3000 5100 50  0001 C CNN
 	1    3000 5100
 	0    -1   -1   0   
@@ -982,7 +982,7 @@ U 1 1 5C493BF0
 P 3600 5100
 F 0 "D25" V 3646 5021 50  0000 R CNN
 F 1 "1N4148" V 3555 5021 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3600 4925 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3600 4925 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3600 5100 50  0001 C CNN
 	1    3600 5100
 	0    -1   -1   0   
@@ -993,7 +993,7 @@ U 1 1 5C493CC4
 P 3500 4300
 F 0 "D12" V 3546 4221 50  0000 R CNN
 F 1 "1N4148" V 3455 4221 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3500 4125 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3500 4125 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3500 4300 50  0001 C CNN
 	1    3500 4300
 	0    -1   -1   0   
@@ -1004,7 +1004,7 @@ U 1 1 5C493D8E
 P 3250 6800
 F 0 "D45" V 3296 6721 50  0000 R CNN
 F 1 "1N4148" V 3205 6721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3250 6625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3250 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3250 6800 50  0001 C CNN
 	1    3250 6800
 	0    -1   -1   0   
@@ -1015,7 +1015,7 @@ U 1 1 5C493E82
 P 3850 6800
 F 0 "D46" V 3896 6721 50  0000 R CNN
 F 1 "1N4148" V 3805 6721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 6625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3850 6625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 6800 50  0001 C CNN
 	1    3850 6800
 	0    -1   -1   0   
@@ -1026,7 +1026,7 @@ U 1 1 5C493F56
 P 3950 5800
 F 0 "D37" V 3996 5721 50  0000 R CNN
 F 1 "1N4148" V 3905 5721 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3950 5625 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3950 5625 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3950 5800 50  0001 C CNN
 	1    3950 5800
 	0    -1   -1   0   
@@ -1037,7 +1037,7 @@ U 1 1 5C49402A
 P 4100 4300
 F 0 "D13" V 4146 4221 50  0000 R CNN
 F 1 "1N4148" V 4055 4221 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4100 4125 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 4100 4125 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 4100 4300 50  0001 C CNN
 	1    4100 4300
 	0    -1   -1   0   
@@ -1228,7 +1228,7 @@ U 1 1 5C9FE71B
 P 900 3400
 F 0 "SW38b1" H 900 3685 50  0000 C CNN
 F 1 "SW_Push" H 900 3594 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 900 3600 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 900 3600 50  0001 C CNN
 F 3 "" H 900 3600 50  0001 C CNN
 	1    900  3400
 	1    0    0    -1  
@@ -1239,7 +1239,7 @@ U 1 1 5C9FE82F
 P 1500 3400
 F 0 "SW39b1" H 1500 3685 50  0000 C CNN
 F 1 "SW_Push" H 1500 3594 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1500 3600 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1500 3600 50  0001 C CNN
 F 3 "" H 1500 3600 50  0001 C CNN
 	1    1500 3400
 	1    0    0    -1  
@@ -1250,7 +1250,7 @@ U 1 1 5C9FE921
 P 2100 3400
 F 0 "SW40b1" H 2100 3685 50  0000 C CNN
 F 1 "SW_Push" H 2100 3594 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2100 3600 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2100 3600 50  0001 C CNN
 F 3 "" H 2100 3600 50  0001 C CNN
 	1    2100 3400
 	1    0    0    -1  
@@ -1261,7 +1261,7 @@ U 1 1 5CA00DD3
 P 4250 3400
 F 0 "SW42c1" H 4250 3685 50  0000 C CNN
 F 1 "SW_Push" H 4250 3594 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 3600 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4250 3600 50  0001 C CNN
 F 3 "" H 4250 3600 50  0001 C CNN
 	1    4250 3400
 	1    0    0    -1  
@@ -1330,7 +1330,7 @@ U 1 1 5CDAADA0
 P 1000 1800
 F 0 "SW14b1" H 1000 2085 50  0000 C CNN
 F 1 "SW_Push" H 1000 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1000 2000 50  0001 C CNN
 F 3 "" H 1000 2000 50  0001 C CNN
 	1    1000 1800
 	1    0    0    -1  
@@ -1344,7 +1344,7 @@ U 1 1 5CDAB4EF
 P 1600 1800
 F 0 "SW15b1" H 1600 2085 50  0000 C CNN
 F 1 "SW_Push" H 1600 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1600 2000 50  0001 C CNN
 F 3 "" H 1600 2000 50  0001 C CNN
 	1    1600 1800
 	1    0    0    -1  
@@ -1358,7 +1358,7 @@ U 1 1 5CDAB5F7
 P 2200 1800
 F 0 "SW16b1" H 2200 2085 50  0000 C CNN
 F 1 "SW_Push" H 2200 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2200 2000 50  0001 C CNN
 F 3 "" H 2200 2000 50  0001 C CNN
 	1    2200 1800
 	1    0    0    -1  
@@ -1372,7 +1372,7 @@ U 1 1 5CDAB6FB
 P 2800 1800
 F 0 "SW17b1" H 2800 2085 50  0000 C CNN
 F 1 "SW_Push" H 2800 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2800 2000 50  0001 C CNN
 F 3 "" H 2800 2000 50  0001 C CNN
 	1    2800 1800
 	1    0    0    -1  
@@ -1386,7 +1386,7 @@ U 1 1 5CDAB805
 P 3400 1800
 F 0 "SW18b1" H 3400 2085 50  0000 C CNN
 F 1 "SW_Push" H 3400 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3400 2000 50  0001 C CNN
 F 3 "" H 3400 2000 50  0001 C CNN
 	1    3400 1800
 	1    0    0    -1  
@@ -1400,7 +1400,7 @@ U 1 1 5CDABDEA
 P 4000 1800
 F 0 "SW19b1" H 4000 2085 50  0000 C CNN
 F 1 "SW_Push" H 4000 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4000 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4000 2000 50  0001 C CNN
 F 3 "" H 4000 2000 50  0001 C CNN
 	1    4000 1800
 	1    0    0    -1  
@@ -1414,7 +1414,7 @@ U 1 1 5CDAC5AC
 P 4600 1800
 F 0 "SW20b1" H 4600 2085 50  0000 C CNN
 F 1 "SW_Push" H 4600 1994 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4600 2000 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4600 2000 50  0001 C CNN
 F 3 "" H 4600 2000 50  0001 C CNN
 	1    4600 1800
 	1    0    0    -1  
@@ -1428,7 +1428,7 @@ U 1 1 5CDAC6B6
 P 1000 5000
 F 0 "SW21b1" H 1000 5285 50  0000 C CNN
 F 1 "SW_Push" H 1000 5194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1000 5200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1000 5200 50  0001 C CNN
 F 3 "" H 1000 5200 50  0001 C CNN
 	1    1000 5000
 	1    0    0    -1  
@@ -1442,7 +1442,7 @@ U 1 1 5CDACCBC
 P 1600 5000
 F 0 "SW22b1" H 1600 5285 50  0000 C CNN
 F 1 "SW_Push" H 1600 5194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1600 5200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1600 5200 50  0001 C CNN
 F 3 "" H 1600 5200 50  0001 C CNN
 	1    1600 5000
 	1    0    0    -1  
@@ -1456,7 +1456,7 @@ U 1 1 5CDACDCC
 P 2200 5000
 F 0 "SW23b1" H 2200 5285 50  0000 C CNN
 F 1 "SW_Push" H 2200 5194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2200 5200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2200 5200 50  0001 C CNN
 F 3 "" H 2200 5200 50  0001 C CNN
 	1    2200 5000
 	1    0    0    -1  
@@ -1470,7 +1470,7 @@ U 1 1 5CDACEE4
 P 2800 5000
 F 0 "SW24b1" H 2800 5285 50  0000 C CNN
 F 1 "SW_Push" H 2800 5194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 2800 5200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 2800 5200 50  0001 C CNN
 F 3 "" H 2800 5200 50  0001 C CNN
 	1    2800 5000
 	1    0    0    -1  
@@ -1484,7 +1484,7 @@ U 1 1 5CDACFF8
 P 3400 5000
 F 0 "SW25b1" H 3400 5285 50  0000 C CNN
 F 1 "SW_Push" H 3400 5194 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3400 5200 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3400 5200 50  0001 C CNN
 F 3 "" H 3400 5200 50  0001 C CNN
 	1    3400 5000
 	1    0    0    -1  
@@ -1527,27 +1527,22 @@ Connection ~ 3600 5000
 $Comp
 L Switch:SW_Push SW12a1
 U 1 1 5CEA5D05
-P 3300 4100
-F 0 "SW12a1" H 3300 4385 50  0000 C CNN
-F 1 "SW_Push" H 3300 4294 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3300 4300 50  0001 C CNN
-F 3 "" H 3300 4300 50  0001 C CNN
-	1    3300 4100
+P 3900 4100
+F 0 "SW12a1" H 3900 4385 50  0000 C CNN
+F 1 "SW_Push" H 3900 4294 50  0000 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3900 4300 50  0001 C CNN
+F 3 "" H 3900 4300 50  0001 C CNN
+	1    3900 4100
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	3100 4100 3100 4200
 Connection ~ 3100 4200
-Wire Wire Line
-	3500 4100 3500 4200
-Connection ~ 3500 4200
 $Comp
 L Switch:SW_Push SW37a1
 U 1 1 5CED4D93
 P 3750 5600
 F 0 "SW37a1" H 3750 5885 50  0000 C CNN
 F 1 "SW_Push" H 3750 5794 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3750 5800 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3750 5800 50  0001 C CNN
 F 3 "" H 3750 5800 50  0001 C CNN
 	1    3750 5600
 	1    0    0    -1  
@@ -1564,7 +1559,7 @@ U 1 1 5C4657EF
 P 4850 2500
 F 0 "SW32" H 4850 2785 50  0000 C CNN
 F 1 "SW_Push" H 4850 2694 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4850 2700 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4850 2700 50  0001 C CNN
 F 3 "" H 4850 2700 50  0001 C CNN
 	1    4850 2500
 	1    0    0    -1  
@@ -1575,7 +1570,7 @@ U 1 1 5CF4B550
 P 3850 3600
 F 0 "D41" V 3896 3521 50  0000 R CNN
 F 1 "1N4148" V 3805 3521 50  0000 R CNN
-F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 3850 3425 50  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 3850 3425 50  0001 C CNN
 F 3 "http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf" H 3850 3600 50  0001 C CNN
 	1    3850 3600
 	0    -1   -1   0   
@@ -1586,7 +1581,7 @@ U 1 1 5CF4C09D
 P 3650 3400
 F 0 "SW41" H 3650 3685 50  0000 C CNN
 F 1 "SW_Push" H 3650 3594 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 3650 3600 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3650 3600 50  0001 C CNN
 F 3 "" H 3650 3600 50  0001 C CNN
 	1    3650 3400
 	1    0    0    -1  
@@ -1594,7 +1589,7 @@ $EndComp
 Wire Wire Line
 	3850 3500 3850 3400
 Wire Wire Line
-	3450 3400 3450 2500
+	3450 3400 3450 3350
 Connection ~ 3450 2500
 Connection ~ 3850 3700
 Wire Wire Line
@@ -1607,7 +1602,7 @@ U 1 1 5CF91A17
 P 4250 3200
 F 0 "SW42a1" H 4250 3485 50  0000 C CNN
 F 1 "SW_Push" H 4250 3394 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 4250 3400 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4250 3400 50  0001 C CNN
 F 3 "" H 4250 3400 50  0001 C CNN
 	1    4250 3200
 	1    0    0    -1  
@@ -1629,7 +1624,7 @@ U 1 1 5C9BF58A
 P 1850 6600
 F 0 "SW43b1" H 1850 6885 50  0000 C CNN
 F 1 "SW_Push" H 1850 6794 50  0000 C CNN
-F 2 "Daprice_Sockets:Kailh_socket_optional" H 1850 6800 50  0001 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 1850 6800 50  0001 C CNN
 F 3 "" H 1850 6800 50  0001 C CNN
 	1    1850 6600
 	1    0    0    -1  
@@ -1666,7 +1661,7 @@ Connection ~ 4050 3200
 Wire Wire Line
 	4050 3200 4050 3300
 Wire Wire Line
-	4050 2500 4050 3200
+	4050 2500 4050 3150
 Wire Wire Line
 	4450 3400 4450 3500
 Wire Wire Line
@@ -1692,17 +1687,14 @@ Wire Wire Line
 Connection ~ 2850 2500
 Connection ~ 2500 4200
 Wire Wire Line
-	3100 3400 3100 4100
-Wire Wire Line
 	3100 3400 3450 3400
 Connection ~ 3450 3400
-Connection ~ 3100 4100
 Wire Wire Line
 	4050 3400 4050 3850
 Wire Wire Line
 	4050 3850 3700 3850
 Wire Wire Line
-	3700 3850 3700 4200
+	3700 3850 3700 4100
 Connection ~ 4050 3400
 Wire Wire Line
 	1650 5700 1650 6500
@@ -1993,8 +1985,6 @@ Connection ~ 8300 5050
 Wire Wire Line
 	8900 5650 8300 5650
 Connection ~ 8300 5650
-Wire Wire Line
-	3500 4400 4100 4400
 Text GLabel 7050 4300 2    50   Input ~ 0
 SDA
 Text GLabel 7050 4200 2    50   Input ~ 0
@@ -2018,4 +2008,48 @@ F 3 "~" H 6400 2500 50  0001 C CNN
 	1    6400 2500
 	1    0    0    -1  
 $EndComp
+$Comp
+L Switch:SW_Push SW41b1
+U 1 1 5CDD4AEA
+P 3650 3350
+F 0 "SW41b1" H 3650 3635 50  0000 C CNN
+F 1 "SW_Push" H 3650 3544 50  0000 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 3650 3550 50  0001 C CNN
+F 3 "" H 3650 3550 50  0001 C CNN
+	1    3650 3350
+	1    0    0    -1  
+$EndComp
+Connection ~ 3450 3350
+Wire Wire Line
+	3450 3350 3450 2500
+Wire Wire Line
+	3850 3350 3850 3400
+Connection ~ 3850 3400
+$Comp
+L Switch:SW_Push SW42d1
+U 1 1 5CDDE494
+P 4250 3150
+F 0 "SW42d1" H 4250 3435 50  0000 C CNN
+F 1 "SW_Push" H 4250 3344 50  0000 C CNN
+F 2 "Keebio-Parts:MX_PCB_100H" H 4250 3350 50  0001 C CNN
+F 3 "" H 4250 3350 50  0001 C CNN
+	1    4250 3150
+	1    0    0    -1  
+$EndComp
+Connection ~ 4050 3150
+Wire Wire Line
+	4050 3150 4050 3200
+Wire Wire Line
+	4450 3150 4450 3200
+Connection ~ 4450 3200
+Connection ~ 3700 4100
+Wire Wire Line
+	3700 4100 3700 4200
+Wire Wire Line
+	4100 4100 4100 4200
+Wire Wire Line
+	3100 3400 3100 4200
+Connection ~ 4100 4200
+Wire Wire Line
+	3500 4400 4100 4400
 $EndSCHEMATC

@@ -1,0 +1,558 @@
+EESchema Schematic File Version 4
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD99091
+P 1400 1450
+F 0 "SW?" H 1400 1700 50  0000 C CNN
+F 1 "SW_Push" H 1400 1644 50  0001 C CNN
+F 2 "" H 1400 1650 50  0001 C CNN
+F 3 "" H 1400 1650 50  0001 C CNN
+	1    1400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9984F
+P 1350 1550
+F 0 "D?" H 1300 1300 50  0000 C CNN
+F 1 "D" H 1350 1425 50  0001 C CNN
+F 2 "" H 1350 1550 50  0001 C CNN
+F 3 "~" H 1350 1550 50  0001 C CNN
+	1    1350 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A5DC
+P 1900 1450
+F 0 "SW?" H 1900 1700 50  0000 C CNN
+F 1 "SW_Push" H 1900 1644 50  0001 C CNN
+F 2 "" H 1900 1650 50  0001 C CNN
+F 3 "" H 1900 1650 50  0001 C CNN
+	1    1900 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A5E3
+P 1850 1550
+F 0 "D?" H 1800 1300 50  0000 C CNN
+F 1 "D" H 1850 1425 50  0001 C CNN
+F 2 "" H 1850 1550 50  0001 C CNN
+F 3 "~" H 1850 1550 50  0001 C CNN
+	1    1850 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A622
+P 2400 1450
+F 0 "SW?" H 2400 1700 50  0000 C CNN
+F 1 "SW_Push" H 2400 1644 50  0001 C CNN
+F 2 "" H 2400 1650 50  0001 C CNN
+F 3 "" H 2400 1650 50  0001 C CNN
+	1    2400 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A629
+P 2350 1550
+F 0 "D?" H 2300 1300 50  0000 C CNN
+F 1 "D" H 2350 1425 50  0001 C CNN
+F 2 "" H 2350 1550 50  0001 C CNN
+F 3 "~" H 2350 1550 50  0001 C CNN
+	1    2350 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A66A
+P 2900 1450
+F 0 "SW?" H 2900 1700 50  0000 C CNN
+F 1 "SW_Push" H 2900 1644 50  0001 C CNN
+F 2 "" H 2900 1650 50  0001 C CNN
+F 3 "" H 2900 1650 50  0001 C CNN
+	1    2900 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A671
+P 2850 1550
+F 0 "D?" H 2800 1300 50  0000 C CNN
+F 1 "D" H 2850 1425 50  0001 C CNN
+F 2 "" H 2850 1550 50  0001 C CNN
+F 3 "~" H 2850 1550 50  0001 C CNN
+	1    2850 1550
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A878
+P 1400 1900
+F 0 "SW?" H 1400 2150 50  0000 C CNN
+F 1 "SW_Push" H 1400 2094 50  0001 C CNN
+F 2 "" H 1400 2100 50  0001 C CNN
+F 3 "" H 1400 2100 50  0001 C CNN
+	1    1400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A87F
+P 1350 2000
+F 0 "D?" H 1300 1750 50  0000 C CNN
+F 1 "D" H 1350 1875 50  0001 C CNN
+F 2 "" H 1350 2000 50  0001 C CNN
+F 3 "~" H 1350 2000 50  0001 C CNN
+	1    1350 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A8BC
+P 1900 1900
+F 0 "SW?" H 1900 2150 50  0000 C CNN
+F 1 "SW_Push" H 1900 2094 50  0001 C CNN
+F 2 "" H 1900 2100 50  0001 C CNN
+F 3 "" H 1900 2100 50  0001 C CNN
+	1    1900 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A8C3
+P 1850 2000
+F 0 "D?" H 1800 1750 50  0000 C CNN
+F 1 "D" H 1850 1875 50  0001 C CNN
+F 2 "" H 1850 2000 50  0001 C CNN
+F 3 "~" H 1850 2000 50  0001 C CNN
+	1    1850 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A902
+P 2400 1900
+F 0 "SW?" H 2400 2150 50  0000 C CNN
+F 1 "SW_Push" H 2400 2094 50  0001 C CNN
+F 2 "" H 2400 2100 50  0001 C CNN
+F 3 "" H 2400 2100 50  0001 C CNN
+	1    2400 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A909
+P 2350 2000
+F 0 "D?" H 2300 1750 50  0000 C CNN
+F 1 "D" H 2350 1875 50  0001 C CNN
+F 2 "" H 2350 2000 50  0001 C CNN
+F 3 "~" H 2350 2000 50  0001 C CNN
+	1    2350 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A94A
+P 2900 1900
+F 0 "SW?" H 2900 2150 50  0000 C CNN
+F 1 "SW_Push" H 2900 2094 50  0001 C CNN
+F 2 "" H 2900 2100 50  0001 C CNN
+F 3 "" H 2900 2100 50  0001 C CNN
+	1    2900 1900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A951
+P 2850 2000
+F 0 "D?" H 2800 1750 50  0000 C CNN
+F 1 "D" H 2850 1875 50  0001 C CNN
+F 2 "" H 2850 2000 50  0001 C CNN
+F 3 "~" H 2850 2000 50  0001 C CNN
+	1    2850 2000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9A9D4
+P 1400 2350
+F 0 "SW?" H 1400 2600 50  0000 C CNN
+F 1 "SW_Push" H 1400 2544 50  0001 C CNN
+F 2 "" H 1400 2550 50  0001 C CNN
+F 3 "" H 1400 2550 50  0001 C CNN
+	1    1400 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9A9DB
+P 1350 2450
+F 0 "D?" H 1300 2200 50  0000 C CNN
+F 1 "D" H 1350 2325 50  0001 C CNN
+F 2 "" H 1350 2450 50  0001 C CNN
+F 3 "~" H 1350 2450 50  0001 C CNN
+	1    1350 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9AA24
+P 1900 2350
+F 0 "SW?" H 1900 2600 50  0000 C CNN
+F 1 "SW_Push" H 1900 2544 50  0001 C CNN
+F 2 "" H 1900 2550 50  0001 C CNN
+F 3 "" H 1900 2550 50  0001 C CNN
+	1    1900 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9AA2B
+P 1850 2450
+F 0 "D?" H 1800 2200 50  0000 C CNN
+F 1 "D" H 1850 2325 50  0001 C CNN
+F 2 "" H 1850 2450 50  0001 C CNN
+F 3 "~" H 1850 2450 50  0001 C CNN
+	1    1850 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9AA6E
+P 2400 2350
+F 0 "SW?" H 2400 2600 50  0000 C CNN
+F 1 "SW_Push" H 2400 2544 50  0001 C CNN
+F 2 "" H 2400 2550 50  0001 C CNN
+F 3 "" H 2400 2550 50  0001 C CNN
+	1    2400 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9AA75
+P 2350 2450
+F 0 "D?" H 2300 2200 50  0000 C CNN
+F 1 "D" H 2350 2325 50  0001 C CNN
+F 2 "" H 2350 2450 50  0001 C CNN
+F 3 "~" H 2350 2450 50  0001 C CNN
+	1    2350 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9AABE
+P 2900 2350
+F 0 "SW?" H 2900 2600 50  0000 C CNN
+F 1 "SW_Push" H 2900 2544 50  0001 C CNN
+F 2 "" H 2900 2550 50  0001 C CNN
+F 3 "" H 2900 2550 50  0001 C CNN
+	1    2900 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9AAC5
+P 2850 2450
+F 0 "D?" H 2800 2200 50  0000 C CNN
+F 1 "D" H 2850 2325 50  0001 C CNN
+F 2 "" H 2850 2450 50  0001 C CNN
+F 3 "~" H 2850 2450 50  0001 C CNN
+	1    2850 2450
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9B01C
+P 1400 3000
+F 0 "SW?" H 1400 3350 50  0000 C CNN
+F 1 "SW_Push" H 1400 3194 50  0001 C CNN
+F 2 "" H 1400 3200 50  0001 C CNN
+F 3 "" H 1400 3200 50  0001 C CNN
+	1    1400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9B023
+P 1350 3100
+F 0 "D?" H 1300 2750 50  0000 C CNN
+F 1 "D" H 1350 2975 50  0001 C CNN
+F 2 "" H 1350 3100 50  0001 C CNN
+F 3 "~" H 1350 3100 50  0001 C CNN
+	1    1350 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9B02A
+P 1900 3000
+F 0 "SW?" H 1900 3250 50  0000 C CNN
+F 1 "SW_Push" H 1900 3194 50  0001 C CNN
+F 2 "" H 1900 3200 50  0001 C CNN
+F 3 "" H 1900 3200 50  0001 C CNN
+	1    1900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9B031
+P 1850 3100
+F 0 "D?" H 1800 2850 50  0000 C CNN
+F 1 "D" H 1850 2975 50  0001 C CNN
+F 2 "" H 1850 3100 50  0001 C CNN
+F 3 "~" H 1850 3100 50  0001 C CNN
+	1    1850 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9B038
+P 2400 3000
+F 0 "SW?" H 2400 3250 50  0000 C CNN
+F 1 "SW_Push" H 2400 3194 50  0001 C CNN
+F 2 "" H 2400 3200 50  0001 C CNN
+F 3 "" H 2400 3200 50  0001 C CNN
+	1    2400 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9B03F
+P 2350 3100
+F 0 "D?" H 2300 2850 50  0000 C CNN
+F 1 "D" H 2350 2975 50  0001 C CNN
+F 2 "" H 2350 3100 50  0001 C CNN
+F 3 "~" H 2350 3100 50  0001 C CNN
+	1    2350 3100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CD9B046
+P 2900 3000
+F 0 "SW?" H 2900 3350 50  0000 C CNN
+F 1 "SW_Push" H 2900 3194 50  0001 C CNN
+F 2 "" H 2900 3200 50  0001 C CNN
+F 3 "" H 2900 3200 50  0001 C CNN
+	1    2900 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D?
+U 1 1 5CD9B04D
+P 2850 3100
+F 0 "D?" H 2800 2750 50  0000 C CNN
+F 1 "D" H 2850 2975 50  0001 C CNN
+F 2 "" H 2850 3100 50  0001 C CNN
+F 3 "~" H 2850 3100 50  0001 C CNN
+	1    2850 3100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	1600 1450 1600 1900
+Connection ~ 1600 1900
+Wire Wire Line
+	1200 3000 1200 3100
+Wire Wire Line
+	1200 2450 1200 2350
+Wire Wire Line
+	1200 2000 1200 1900
+Wire Wire Line
+	1200 1550 1200 1450
+Wire Wire Line
+	1700 1450 1700 1550
+Wire Wire Line
+	1700 1900 1700 2000
+Wire Wire Line
+	1700 2350 1700 2450
+Wire Wire Line
+	1700 3000 1700 3100
+Wire Wire Line
+	2200 3100 2200 3000
+Wire Wire Line
+	2200 1550 2200 1450
+Wire Wire Line
+	2200 2000 2200 1900
+Wire Wire Line
+	2200 2450 2200 2350
+Wire Wire Line
+	2700 3100 2700 3000
+Wire Wire Line
+	2700 1550 2700 1450
+Wire Wire Line
+	2700 2000 2700 1900
+Wire Wire Line
+	2700 2450 2700 2350
+Wire Wire Line
+	3000 2500 3000 2450
+Wire Wire Line
+	2500 2450 2500 2500
+Connection ~ 2500 2500
+Wire Wire Line
+	2500 2500 3000 2500
+Wire Wire Line
+	2000 2450 2000 2500
+Wire Wire Line
+	2000 2500 2500 2500
+Wire Wire Line
+	1500 2450 1500 2500
+Wire Wire Line
+	1500 2500 2000 2500
+Connection ~ 2000 2500
+Wire Wire Line
+	1500 2000 1500 2050
+Wire Wire Line
+	1500 2050 2000 2050
+Wire Wire Line
+	3000 2050 3000 2000
+Wire Wire Line
+	1500 1550 1500 1600
+Wire Wire Line
+	1500 1600 2000 1600
+Wire Wire Line
+	3000 1600 3000 1550
+Wire Wire Line
+	3100 1450 3100 1900
+Connection ~ 3100 1900
+Wire Wire Line
+	3100 1900 3100 2350
+Connection ~ 2600 1900
+Wire Wire Line
+	2600 1900 2600 1450
+Wire Wire Line
+	2600 2350 2600 1900
+Wire Wire Line
+	2100 1450 2100 1900
+Connection ~ 2100 1900
+Wire Wire Line
+	1500 3100 1500 3150
+Wire Wire Line
+	1500 3150 2000 3150
+Wire Wire Line
+	3000 3150 3000 3100
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDA312A
+P 2900 2900
+F 0 "SW?" H 2900 3250 50  0000 C CNN
+F 1 "SW_Push" H 2900 3094 50  0001 C CNN
+F 2 "" H 2900 3100 50  0001 C CNN
+F 3 "" H 2900 3100 50  0001 C CNN
+	1    2900 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 3100 2900
+Wire Wire Line
+	3100 2900 3100 3000
+Wire Wire Line
+	3100 2350 3100 2900
+Connection ~ 3100 2350
+Wire Wire Line
+	2600 2350 2600 3000
+Connection ~ 2600 2350
+Wire Wire Line
+	2100 1900 2100 2350
+Connection ~ 2100 2350
+Wire Wire Line
+	2100 2350 2100 3000
+Wire Wire Line
+	1600 1900 1600 2350
+Connection ~ 1600 2350
+Wire Wire Line
+	1600 2350 1600 2900
+Wire Wire Line
+	2000 3100 2000 3150
+Connection ~ 2000 3150
+Wire Wire Line
+	2000 3150 2500 3150
+Wire Wire Line
+	2500 3100 2500 3150
+Connection ~ 2500 3150
+Wire Wire Line
+	2500 3150 3000 3150
+Connection ~ 2000 2050
+Wire Wire Line
+	2000 2050 2500 2050
+Wire Wire Line
+	2000 2000 2000 2050
+Wire Wire Line
+	2500 2050 2500 2000
+Connection ~ 2500 2050
+Wire Wire Line
+	2500 2050 3000 2050
+Wire Wire Line
+	2500 1550 2500 1600
+Connection ~ 2500 1600
+Wire Wire Line
+	2500 1600 3000 1600
+Wire Wire Line
+	2000 1550 2000 1600
+Connection ~ 2000 1600
+Wire Wire Line
+	2000 1600 2500 1600
+Wire Wire Line
+	2700 2900 2700 3000
+Connection ~ 2700 3000
+$Comp
+L Switch:SW_Push SW?
+U 1 1 5CDB5052
+P 1400 2900
+F 0 "SW?" H 1400 3250 50  0000 C CNN
+F 1 "SW_Push" H 1400 3094 50  0001 C CNN
+F 2 "" H 1400 3100 50  0001 C CNN
+F 3 "" H 1400 3100 50  0001 C CNN
+	1    1400 2900
+	1    0    0    -1  
+$EndComp
+Connection ~ 1600 2900
+Wire Wire Line
+	1600 2900 1600 3000
+Wire Wire Line
+	1200 2900 1200 3000
+Connection ~ 1200 3000
+Text Label 1200 2050 2    50   ~ 0
+ROW1
+Text Label 1200 1600 2    50   ~ 0
+ROW0
+Text Label 1200 2500 2    50   ~ 0
+ROW2
+Text Label 1200 3150 2    50   ~ 0
+ROW3
+Text Label 1600 1450 1    50   ~ 0
+COL0
+Text Label 2100 1450 1    50   ~ 0
+COL1
+Text Label 2600 1450 1    50   ~ 0
+COL2
+Text Label 3100 1450 1    50   ~ 0
+COL3
+Wire Wire Line
+	1200 1600 1500 1600
+Connection ~ 1500 1600
+Wire Wire Line
+	1200 2050 1500 2050
+Connection ~ 1500 2050
+Wire Wire Line
+	1200 2500 1500 2500
+Connection ~ 1500 2500
+Wire Wire Line
+	1200 3150 1500 3150
+Connection ~ 1500 3150
+$EndSCHEMATC
