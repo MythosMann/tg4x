@@ -1,4 +1,4 @@
-Current Prototype, also my daily.
+Current Prototype, also my daily.  Has a white acrylic bottom plate and black 3d printed midlayer.
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/aesthetic.jpg)
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/noods.jpg)
 Last gen prototype using tg3 as a base.
