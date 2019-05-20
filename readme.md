@@ -2,7 +2,7 @@ Current Prototype, also my daily.  Has a white acrylic bottom plate and black 3d
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/aesthetic.jpg)
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/noods.jpg)
 Last gen prototype using tg3 as a base.
-![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/DSC_0726.JPG)
+![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/tg3%20mod.jpg)
 Pcb and fr4 switch plate.
 ![Picture of the PCBs](https://raw.githubusercontent.com/MythosMann/tg4x/master/pcbs_plates.jpg)
 
