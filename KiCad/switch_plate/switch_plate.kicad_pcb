@@ -102,11 +102,11 @@
   )
 
   (module 4x5macro:forest (layer F.Cu) (tedit 0) (tstamp 5CCA36AE)
-    (at 27.559 -17.7292 270)
-    (fp_text reference G*** (at 0 0 270) (layer F.SilkS) hide
+    (at 25.7302 -2.0701 275)
+    (fp_text reference G*** (at 0 0 275) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
+    (fp_text value LOGO (at 0.75 0 5) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_poly (pts (xy -42.792851 -9.834427) (xy -42.666853 -9.626996) (xy -42.469206 -9.294641) (xy -42.206293 -8.848292)
@@ -1103,11 +1103,11 @@
   )
 
   (module 4x5macro:forest (layer F.Cu) (tedit 0) (tstamp 5CCA3697)
-    (at 261.5311 -21.5519 90)
-    (fp_text reference G*** (at 0 0 90) (layer F.SilkS) hide
+    (at 253.873 -15.2908 95)
+    (fp_text reference G*** (at 0 0 95) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
-    (fp_text value LOGO (at 0.75 0 180) (layer F.SilkS) hide
+    (fp_text value LOGO (at 0.75 0 185) (layer F.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3)))
     )
     (fp_poly (pts (xy 125.034564 7.581552) (xy 125.035588 8.030139) (xy 125.01012 8.367511) (xy 124.960308 8.565652)
