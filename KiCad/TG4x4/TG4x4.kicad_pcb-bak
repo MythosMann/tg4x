@@ -219,7 +219,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 5CE43973)
-    (at 58.7121 46.5963)
+    (at 169.4972 140.218601)
     (path /5CD9A5E3)
     (attr smd)
     (fp_text reference D2 (at -0.0254 1.4) (layer F.SilkS)
@@ -315,7 +315,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 5CE439A5)
-    (at 96.3538 46.4566)
+    (at 169.4972 138.548601)
     (path /5CD9A671)
     (attr smd)
     (fp_text reference D4 (at -0.0254 1.4) (layer F.SilkS)
@@ -555,7 +555,7 @@
   )
 
   (module Keebio-Parts:Diode-dual (layer F.Cu) (tedit 5B7FFAB1) (tstamp 5CE43A22)
-    (at 39.788 84.6709)
+    (at 198.7572 80.058601)
     (path /5CD9A9DB)
     (attr smd)
     (fp_text reference D9 (at -0.0254 1.4) (layer F.SilkS)

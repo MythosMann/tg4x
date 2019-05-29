@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:TG4x4-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -527,4 +528,107 @@ Wire Wire Line
 Wire Wire Line
 	1200 2900 1200 3000
 Connection ~ 1200 3000
+Text Label 1200 2050 2    50   ~ 0
+ROW1
+Text Label 1200 1600 2    50   ~ 0
+ROW0
+Text Label 1200 2500 2    50   ~ 0
+ROW2
+Text Label 1200 3150 2    50   ~ 0
+ROW3
+Text Label 1600 1450 1    50   ~ 0
+COL0
+Text Label 2100 1450 1    50   ~ 0
+COL1
+Text Label 2600 1450 1    50   ~ 0
+COL2
+Text Label 3100 1450 1    50   ~ 0
+COL3
+Wire Wire Line
+	1200 1600 1500 1600
+Connection ~ 1500 1600
+Wire Wire Line
+	1200 2050 1500 2050
+Connection ~ 1500 2050
+Wire Wire Line
+	1200 2500 1500 2500
+Connection ~ 1500 2500
+Wire Wire Line
+	1200 3150 1500 3150
+Connection ~ 1500 3150
+$Comp
+L Keebio_Schematic_Sym:ProMicro U?
+U 1 1 5CE448EA
+P 5700 2050
+F 0 "U?" H 5700 2887 60  0000 C CNN
+F 1 "ProMicro" H 5700 2781 60  0000 C CNN
+F 2 "" V 6750 -450 60  0001 C CNN
+F 3 "" V 6750 -450 60  0001 C CNN
+	1    5700 2050
+	1    0    0    -1  
+$EndComp
+Text Label 6400 2000 0    50   ~ 0
+ROW1
+Text Label 6400 1900 0    50   ~ 0
+ROW0
+Text Label 6400 2100 0    50   ~ 0
+ROW2
+Text Label 6400 2200 0    50   ~ 0
+ROW3
+Text Label 5000 1500 2    50   ~ 0
+COL0
+Text Label 5000 2100 2    50   ~ 0
+COL1
+Text Label 5000 2200 2    50   ~ 0
+COL2
+Text Label 5000 2300 2    50   ~ 0
+COL3
+$Comp
+L power:GND #PWR?
+U 1 1 5CE451E4
+P 5000 1700
+F 0 "#PWR?" H 5000 1450 50  0001 C CNN
+F 1 "GND" V 5005 1572 50  0000 R CNN
+F 2 "" H 5000 1700 50  0001 C CNN
+F 3 "" H 5000 1700 50  0001 C CNN
+	1    5000 1700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CE45284
+P 5000 1800
+F 0 "#PWR?" H 5000 1550 50  0001 C CNN
+F 1 "GND" V 5005 1672 50  0000 R CNN
+F 2 "" H 5000 1800 50  0001 C CNN
+F 3 "" H 5000 1800 50  0001 C CNN
+	1    5000 1800
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CE45324
+P 6400 1600
+F 0 "#PWR?" H 6400 1350 50  0001 C CNN
+F 1 "GND" V 6405 1472 50  0000 R CNN
+F 2 "" H 6400 1600 50  0001 C CNN
+F 3 "" H 6400 1600 50  0001 C CNN
+	1    6400 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:VCC #PWR?
+U 1 1 5CE4927A
+P 6400 1800
+F 0 "#PWR?" H 6400 1650 50  0001 C CNN
+F 1 "VCC" V 6417 1928 50  0000 L CNN
+F 2 "" H 6400 1800 50  0001 C CNN
+F 3 "" H 6400 1800 50  0001 C CNN
+	1    6400 1800
+	0    1    1    0   
+$EndComp
+Text Label 6400 2600 0    50   ~ 0
+SDA
+Text Label 6400 2500 0    50   ~ 0
+SCL
 $EndSCHEMATC
