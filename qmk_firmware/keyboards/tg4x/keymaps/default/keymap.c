@@ -16,7 +16,7 @@
 #include QMK_KEYBOARD_H
 #define _BL 0
 #define _FL 1
-#define _ADJUST 2
+#define _OL 2
 #define KC_X0 RGB_TOG
 #define KC_X1 RGB_MOD
 // Defines the keycodes used by macros in process_record_user
@@ -73,6 +73,17 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 //|-------,----'--,----'--,----'-------'-------'-------'-------'-------'--,----'--,----'--,----'--,-------|
    KC_TRNS,KC_TRNS,KC_TRNS,         KC_SPC                                ,KC_TRNS,KC_LEFT,KC_DOWN,KC_RGHT  \
 //`-------'-------'-------'-----------------------------------------------'-------'-------'-------'-------'
+),
+[_OL] = LAYOUT_SPLIT_ANSI( /* Other Function */
+//,-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.-------.
+ KC_GRV , KC_F1 , KC_F2 , KC_F3 , KC_F4 , KC_F5 , KC_F6 , KC_F7 , KC_F8 , KC_F9 ,KC_F10 ,KC_F11 ,KC_F12 , \
+//|-------'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-----'-,-------------|
+ RGB_TOG  ,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,    KC_ENT   , \
+//|---------'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----'--,----------|
+  KC_TRNS    ,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_TRNS,KC_UP  , RESET    , \
+//|---------,--'------,'-------',------'-------'-------',------'-------',------'--,----'--,----'--,-------|
+  KC_TRNS , KC_TRNS , KC_TRNS ,         KC_SPC                          ,KC_TRNS  ,KC_TRNS,KC_TRNS,KC_TRNS  \
+//`---------'---------'---------'-----------------------'---------------'---------'-------'-------'-------'
 ),
 };
 
