@@ -1,6 +1,6 @@
 Current Prototype, also my daily.  Has a white acrylic bottom plate and black 3d printed midlayer.
-![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/aesthetic.jpg)
-![Nude]
+![Picture of the Current Prototype](https://github.com/MythosMann/tg4x/raw/master/keeb.jpg)
+![Nude](https://github.com/MythosMann/tg4x/raw/master/nude.jpg)
 ![PCB](https://github.com/MythosMann/tg4x/raw/master/pcb.jpg)
 ![Plate Kit](https://github.com/MythosMann/tg4x/raw/master/plate%20kit.jpg)
 
