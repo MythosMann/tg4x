@@ -1,10 +1,11 @@
 Current Prototype, also my daily.  Has a white acrylic bottom plate and black 3d printed midlayer.
 ![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/aesthetic.jpg)
-![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/noods.jpg)
+![Nude]
+![PCB](https://github.com/MythosMann/tg4x/raw/master/pcb.jpg)
+![Plate Kit](https://github.com/MythosMann/tg4x/raw/master/plate%20kit.jpg)
+
 Last gen prototype using tg3 as a base.
-![Picture of the Current Prototype](https://raw.githubusercontent.com/MythosMann/tg4x/master/tg3%20mod.jpg)
-Pcb and fr4 switch plate.
-![Picture of the PCBs](https://raw.githubusercontent.com/MythosMann/tg4x/master/pcbs_plates.jpg)
+![tg3 mod](https://raw.githubusercontent.com/MythosMann/tg4x/master/tg3%20mod.jpg)
 
 ## Summary:
 Basically an open-source, cheap 45% keyboard.  You can use parts from a tg3 keyboard for maximum cheap, or use standard ansi keycaps.
