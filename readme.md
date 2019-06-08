@@ -1,4 +1,5 @@
-Current Prototype, also my daily.  Has a white acrylic bottom plate and black 3d printed midlayer.
+Prototypes
+![3d printed midlayer and acrylic bottom](https://github.com/MythosMann/tg4x/blob/master/aesthetic.jpg)
 ![Picture of the Current Prototype](https://github.com/MythosMann/tg4x/raw/master/keeb.jpg)
 ![Nude](https://github.com/MythosMann/tg4x/raw/master/nude.jpg)
 ![PCB](https://github.com/MythosMann/tg4x/raw/master/pcb.jpg)
@@ -26,6 +27,8 @@ Basically an open-source, cheap 45% keyboard.  You can use parts from a tg3 keyb
 *RGB underglow, used for layer indication and caps lock.
 
 *Design for pcb plates.
+
+*Optional 6° angle.
 
 
 ## The base (TG3):
