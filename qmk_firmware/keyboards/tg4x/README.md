@@ -10,9 +10,9 @@ Hardware Availability: https://github.com/mythosmann/tg4x
 
 Make example for this keyboard (after setting up your build environment):
 
-    make tg4x:default_ansi for 6.25u spacebar
-    make tg4x:default_ansi_split for split spacebar
-    make tg4x:default for tg3 mod
+    make tg4x/rev21:default_ansi for 6.25u spacebar
+    make tg4x/rev21:default_ansi_split for split spacebar
+    make tg4x/rev21:default for tg3 mod
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
