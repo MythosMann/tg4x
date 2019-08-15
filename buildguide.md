@@ -1,4 +1,5 @@
-##Build Guide
+## Build Guide
+
 Alrighty, so you got your tg4x stuff, but don’t know how to put it together.  I’ve finally gotten around to making this build guide, so now you’re covered.  Inside your box (depending on what you ordered), you should have 2 packages.
 ![01.](https://raw.githubusercontent.com/MythosMann/tg4x/master/2d-3d%20stuff/build%20guide%20pics/01.jpg)
 One bag is the plates, and the pcb.  The other is your assembly kit, which contains all of the other pieces and components you need.
