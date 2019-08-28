@@ -1,6 +1,6 @@
 # tg4x
 
-![tg4x](https://imgur.com/gallery/OM9EhMF)
+![tg4x](https://github.com/MythosMann/tg4x/raw/master/keeb.jpg)
 
 The dirt cheap 40%
 
