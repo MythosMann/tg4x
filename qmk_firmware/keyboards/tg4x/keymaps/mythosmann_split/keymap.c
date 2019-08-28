@@ -162,7 +162,7 @@ void update_led(void) {
         rgblight_sethsv_range(0,255,125,1,7);
         break;
       case _OL:
-        rgblight_sethsv_range(350,20,240,1,7);
+        rgblight_sethsv_range(255,20,240,1,7);
         break;
       case _GL:
         rgblight_sethsv_range(35,255,255,1,7);
@@ -181,7 +181,7 @@ void update_led(void) {
           rgblight_sethsv_range(0,255,125,1,7);
           break;
         case _OL:
-          rgblight_sethsv_range(350,20,240,1,7);
+          rgblight_sethsv_range(255,20,240,1,7);
           break;
         case _GL:
           rgblight_sethsv_range(35,255,255,1,7);
